@@ -10,9 +10,13 @@
 |---|---:|---|
 | Parts | 9 | Major divisions of the book |
 | Chapters | 72 | 8 Chapters per Part |
-| Kurals | 720 | 10 kurals per Chapter |
+| Paired compositions | 720 | 10 pairs per Chapter |
+| Tamil verses | 720 | One per paired composition |
+| English companion verses | 720 | One per paired composition |
 
-The numbers are intentional: 9 Parts, 72 Chapters, and 720 kurals. The digit sums of 72 and 720 reduce to 9. This numerical symbolism is part of the book's organising design; it is not a claim of historical or metrical necessity.
+Each pair shares a central insight, but the Tamil and English verses are independent literary expressions of that insight. They need not be word-for-word translations or mirror each other's syntax and imagery. Both versions must preserve the core thought without contradicting or weakening the other.
+
+The numbers are intentional: 9 Parts, 72 Chapters, and 720 paired compositions. The digit sums of 72 and 720 reduce to 9. This numerical symbolism is part of the book's organising design; it is not a claim of historical or metrical necessity.
 
 The first eight Parts are framed around successive eight-year life stages. Part IX deliberately moves beyond a conventional age-stage framework. This is a literary-philosophical structure, not a universal developmental model.
 
@@ -121,5 +125,5 @@ The first eight Parts are framed around successive eight-year life stages. Part 
 - Each Chapter must eventually receive a distinct statement of scope and a topic register.
 - Similar concepts may appear at different stages only when their perspective and purpose are meaningfully different.
 - The life-stage ranges guide emphasis; they must not restrict a Chapter's relevance to readers of a particular age.
-- The ten kurals in a Chapter should work as a coherent set while each contributes a distinct insight.
-- No kurals are drafted in this architecture document.
+- The ten paired compositions in a Chapter should form a coherent set while each pair contributes a distinct insight.
+- No verses are drafted in this architecture document.
