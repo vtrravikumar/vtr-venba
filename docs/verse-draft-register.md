@@ -96,6 +96,21 @@
 | 69.9 | The mystery of what follows death should be met honestly. | First draft; prosody review needed | First draft; English-form review needed |
 | 69.10 | A life's goodness can continue through those who remain. | First draft; prosody review needed | First draft; English-form review needed |
 
+## Chapter 70 — The Persistence of Legacy (எஞ்சும் மரபின் தொடர்ச்சி)
+
+| Pair | Shared insight | Tamil status | English status |
+|---|---|---|---|
+| 70.1 | The good we plant can outlast the memory of our name. | First draft; prosody review needed | First draft; English-form review needed |
+| 70.2 | A small act of kindness may reach further than we can know. | First draft; prosody review needed | First draft; English-form review needed |
+| 70.3 | Those who remember us remain independent lives, not possessions. | First draft; prosody review needed | First draft; English-form review needed |
+| 70.4 | Deeds that shelter others can outlast public monuments. | First draft; prosody review needed | First draft; English-form review needed |
+| 70.5 | Stories change over time, while the effects of kindness remain. | First draft; prosody review needed | First draft; English-form review needed |
+| 70.6 | A person's influence may survive without recognition of their name. | First draft; prosody review needed | First draft; English-form review needed |
+| 70.7 | Those who receive a legacy reshape it as they carry it forward. | First draft; prosody review needed | First draft; English-form review needed |
+| 70.8 | The wish to be remembered can distract us from present care. | First draft; prosody review needed | First draft; English-form review needed |
+| 70.9 | Knowledge, courage, and room to grow are enduring inheritances. | First draft; prosody review needed | First draft; English-form review needed |
+| 70.10 | A life leaves a blessing when it leaves goodness behind. | First draft; prosody review needed | First draft; English-form review needed |
+
 ## Editorial note — current chapter batch
 
-Chapter 65 remains a first-draft set. Pair 65.3 has been flagged for a structural revision because its current second line does not yet satisfy the expected three-seer line. Chapter 66 is drafted as a complete working batch. Chapters 67, 68, and 69 are first-draft batches; their Tamil verses require a proportionate review for literary idiom and traditional prosody, and their English verses require review against the separately documented English form. Chapter 69 was drafted with the epitaph-worthy ambition for Part IX in mind. No formal validation is claimed for these chapters.
+Chapter 65 remains a first-draft set. Pair 65.3 has been flagged for a structural revision because its current second line does not yet satisfy the expected three-seer line. Chapter 66 is drafted as a complete working batch. Chapters 67–70 are first-draft batches; their Tamil verses require a proportionate review for literary idiom and traditional prosody, and their English verses require review against the separately documented English form. Chapters 69 and 70 were drafted with the epitaph-worthy ambition for Part IX in mind. No formal validation is claimed for these chapters.

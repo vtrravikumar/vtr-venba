@@ -609,3 +609,125 @@ The unknown need not darken this clear day.
 Let goodness live in those who journey on;
 Then even farewell leaves a lamp aglow.
 :::
+
+### Chapter 70 — The Persistence of Legacy (எஞ்சும் மரபின் தொடர்ச்சி)
+
+#### Pair 70.1 — Goodness outlives the name
+
+:::verse
+பெயர் மறைந்த பின்னும் நன்மை நிலைக்கும்
+பிறர்வாழ்வில் விதைத்தது
+:::
+
+:::verse
+A name may fade; the good we leave takes root
+In lives made kinder by the seeds we sow.
+:::
+
+#### Pair 70.2 — Small kindness can travel far
+
+:::verse
+சிறுதுளி அன்பும் செறிவுறும் காலம்
+அறியாப் பலநெஞ்சில்
+:::
+
+:::verse
+A little kindness travels farther than we know;
+Its quiet harvest ripens in another heart.
+:::
+
+#### Pair 70.3 — Memory is not possession
+
+:::verse
+நினைவில் வாழ்வோர் நம்முடைமை அல்லர்
+அன்பின் தொடர்ச்சி அவர்
+:::
+
+:::verse
+Those who remember us are not our own;
+Their lives carry love along a road of theirs.
+:::
+
+#### Pair 70.4 — Deeds speak beyond monuments
+
+:::verse
+கல்லில் பொறித்த புகழினும் மேலது
+நல்ல செயல் தந்த நிழல்
+:::
+
+:::verse
+More lasting than a name cut into stone
+Is the shelter one good deed provides.
+:::
+
+#### Pair 70.5 — Stories change in the telling
+
+:::verse
+காலம் கதையைப் பலவகை செய்யும்
+செய்த நன்மை நிலைக்கும்
+:::
+
+:::verse
+The years may alter every tale retold;
+The kindness given still has touched the world.
+:::
+
+#### Pair 70.6 — Influence may outlive recognition
+
+:::verse
+செய்தவர் பெயரைச் செப்பார் இல்லையினும்
+செயலின் ஒளி வாழும்
+:::
+
+:::verse
+The hand may pass from every memory;
+The light it kindled still can guide a life.
+:::
+
+#### Pair 70.7 — What we pass on is changed by others
+
+:::verse
+நாம் தந்த செல்வம் பிறர்கையில் மாறும்
+வளர்வதே அதன் வழி
+:::
+
+:::verse
+What we bequeath is changed by those who receive;
+A living gift grows in another shape.
+:::
+
+#### Pair 70.8 — The hunger to be remembered can mislead
+
+:::verse
+நினைவில் நிற்கும் வேட்கை மிகுந்தால்
+நிகழ்காலம் மறையும்
+:::
+
+:::verse
+Who lives to be remembered may forget
+The living hearts that ask for care today.
+:::
+
+#### Pair 70.9 — The truest inheritance is capacity
+
+:::verse
+வழி காட்டும் அறிவும் துணிவும் கொடுத்தால்
+வாழ்வு தொடரும் பிறருள்
+:::
+
+:::verse
+Give others courage, give them room to grow;
+Your life continues in the strength they find.
+:::
+
+#### Pair 70.10 — Let what remains be a blessing
+
+:::verse
+நம்மால் பிறர்க்கு நன்மை எஞ்சுமெனில்
+நாளும் வீணன்று
+:::
+
+:::verse
+If goodness remains because we once were here,
+Our passing leaves the world a gentler place.
+:::
