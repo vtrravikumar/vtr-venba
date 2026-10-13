@@ -1,4 +1,4 @@
-# Part IX — Bliss, Death and Ultimate Truth
+## Part IX — Bliss, Death and Ultimate Truth
 
 ### Chapter 65 — The Freedom Beyond Want
 
