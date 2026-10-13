@@ -81,6 +81,21 @@
 | 68.9 | A compelling metaphor is not evidence for a claim. | First draft; prosody review needed | First draft; English-form review needed |
 | 68.10 | The deepest questions may remain open without ending the search. | First draft; prosody review needed | First draft; English-form review needed |
 
+## Chapter 69 — The Shadow of Death (மரணத்தின் நிழல்)
+
+| Pair | Shared insight | Tamil status | English status |
+|---|---|---|---|
+| 69.1 | Mortality gives urgency and tenderness to the present day. | First draft; prosody review needed | First draft; English-form review needed |
+| 69.2 | Death does not erase the value of a life that was lived. | First draft; prosody review needed | First draft; English-form review needed |
+| 69.3 | A farewell can hold love even when words fail. | First draft; prosody review needed | First draft; English-form review needed |
+| 69.4 | Grief bears witness to the depth of attachment and love. | First draft; prosody review needed | First draft; English-form review needed |
+| 69.5 | Important words should not be postponed indefinitely. | First draft; prosody review needed | First draft; English-form review needed |
+| 69.6 | The body returns to the natural world. | First draft; prosody review needed | First draft; English-form review needed |
+| 69.7 | Love can continue through the lives it has touched. | First draft; prosody review needed | First draft; English-form review needed |
+| 69.8 | A dignified, gentle farewell is an expression of care. | First draft; prosody review needed | First draft; English-form review needed |
+| 69.9 | The mystery of what follows death should be met honestly. | First draft; prosody review needed | First draft; English-form review needed |
+| 69.10 | A life's goodness can continue through those who remain. | First draft; prosody review needed | First draft; English-form review needed |
+
 ## Editorial note — current chapter batch
 
-Chapter 65 remains a first-draft set. Pair 65.3 has been flagged for a structural revision because its current second line does not yet satisfy the expected three-seer line. Chapter 66 is drafted as a complete working batch. Chapters 67 and 68 are now added as first-draft batches; their Tamil verses require a proportionate review for literary idiom and traditional prosody, and their English verses require review against the separately documented English form. No formal validation is claimed for either chapter.
+Chapter 65 remains a first-draft set. Pair 65.3 has been flagged for a structural revision because its current second line does not yet satisfy the expected three-seer line. Chapter 66 is drafted as a complete working batch. Chapters 67, 68, and 69 are first-draft batches; their Tamil verses require a proportionate review for literary idiom and traditional prosody, and their English verses require review against the separately documented English form. Chapter 69 was drafted with the epitaph-worthy ambition for Part IX in mind. No formal validation is claimed for these chapters.

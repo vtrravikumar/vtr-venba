@@ -487,3 +487,125 @@ It is not proof of what lies there.
 Before the deepest question, bow the mind;
 Let honest seeking leave the door unclosed.
 :::
+
+### Chapter 69 — The Shadow of Death (மரணத்தின் நிழல்)
+
+#### Pair 69.1 — The day is precious because it passes
+
+:::verse
+கடக்கும் பொழுதே கதிர்நாள் இனிது
+நிலையாமை நல்கும் மதிப்பு
+:::
+
+:::verse
+Because the day must pass, its light is dear;
+The fleeting hour is precious while it is here.
+:::
+
+#### Pair 69.2 — An ending cannot unmake a life
+
+:::verse
+முடிவினால் வாழ்வின் முதன்மை அழியாது
+மலர்ந்ததே அதன் சான்று
+:::
+
+:::verse
+The end cannot unmake the life once lived;
+The bloom remains, though petals fall.
+:::
+
+#### Pair 69.3 — A farewell is shaped by love
+
+:::verse
+பிரிவின் அமைதியில் அன்பின் ஒளியுண்டு
+கண்ணீர் அதன் மொழி
+:::
+
+:::verse
+Love keeps a light beside the final door;
+Tears speak the words the lips can say no more.
+:::
+
+#### Pair 69.4 — Grief bears witness to love
+
+:::verse
+துயரம் பெரிதெனில் அன்பும் பெரிதன்றோ
+கண்ணீர் மறுக்கும் சான்றில்லை
+:::
+
+:::verse
+Grief is not love's failure to let go;
+It is the depth from which the love once grew.
+:::
+
+#### Pair 69.5 — Say what matters while there is time
+
+:::verse
+சொல்ல வேண்டிய சொல் நாளைக்கு வைக்காதே
+காலம் உறுதி தராது
+:::
+
+:::verse
+Speak the tender truth while breath is near;
+No promise holds the shape of another year.
+:::
+
+#### Pair 69.6 — The body returns to the earth
+
+:::verse
+மண்ணிலிருந்து வந்த உடல் மண்ணில் சேரும்
+இயற்கையின் இனிய வட்டம்
+:::
+
+:::verse
+The body returns to the patient earth;
+Dust rejoins the ground that gave it birth.
+:::
+
+#### Pair 69.7 — What we give continues in others
+
+:::verse
+நாம் தந்த அன்பு நம்மோடு மறையாது
+பிறருயிரில் அது பூக்கும்
+:::
+
+:::verse
+The love we give does not depart with us;
+It flowers in lives we may never see.
+:::
+
+#### Pair 69.8 — Let the final hour be met with dignity
+
+:::verse
+அமைதியாய் விடைபெறல் வாழ்வின் நிறைவன்று
+அன்பின் அரிய கொடை
+:::
+
+:::verse
+A gentle leave-taking is no small grace;
+Love makes a shelter of the final place.
+:::
+
+#### Pair 69.9 — The beyond remains unknown
+
+:::verse
+அப்பால் என்னென அறிந்தவர் யாருளர்
+அறியாமையும் ஓர் அமைதி
+:::
+
+:::verse
+What waits beyond, no living voice can say;
+The unknown need not darken this clear day.
+:::
+
+#### Pair 69.10 — Let life be the final testament
+
+:::verse
+வாழ்ந்ததன் நன்மை வாழ்வோரில் நிலைக்க
+விடைபெறல் ஒளியாகும்
+:::
+
+:::verse
+Let goodness live in those who journey on;
+Then even farewell leaves a lamp aglow.
+:::
