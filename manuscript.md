@@ -793,6 +793,250 @@ If goodness remains because we once were here,
 Our passing leaves the world a gentler place.
 :::
 
+### Chapter 71 — The Threshold of the Unknown (அறியாததின் வாசல்)
+
+#### Pair 71.1 — The unknown is not an enemy
+
+:::verse
+அறியாத வழியைக் அஞ்சியே மூடாதே
+அதிலும் விடியல் உண்டு
+:::
+
+:::verse
+Do not call every unlit road a threat;
+Some dawns begin beyond the sight of home.
+:::
+
+#### Pair 71.2 — An unanswered question still has worth
+
+:::verse
+விடையின்றி நிற்கும் வினாவும் மதிப்புடையது
+விழிப்பை வளர்க்கும் அது
+:::
+
+:::verse
+A question need not end to have its worth;
+It can keep the mind awake and kind.
+:::
+
+#### Pair 71.3 — Fear rushes to certainty
+
+:::verse
+அச்சம் எழுந்ததும் உறுதியைத் தேடும்
+அவசரம் உண்மையன்று
+:::
+
+:::verse
+Fear builds a wall from whatever words it finds;
+A wall is not an answer to the dark.
+:::
+
+#### Pair 71.4 — Imagination is a lantern, not proof
+
+:::verse
+கற்பனை விளக்காம்; கண்டதன் சான்றன்று
+காணாததை அளக்க
+:::
+
+:::verse
+Imagination can lend the dark a shape;
+It cannot swear that shape is true.
+:::
+
+#### Pair 71.5 — Uncertainty can be shared
+
+:::verse
+தெரியாமை தனியே சுமக்க வேண்டியதன்று
+பகிர்ந்தால் பாரம் குறையும்
+:::
+
+:::verse
+We need not hide the limits of our sight;
+Shared doubt can make a gentler shelter.
+:::
+
+#### Pair 71.6 — The horizon may move
+
+:::verse
+இன்றறியா எல்லை நாளை நகரலாம்
+அறிவின் வழி திறக்கும்
+:::
+
+:::verse
+The edge of what we know may move with time;
+Today's far shore may be tomorrow's ground.
+:::
+
+#### Pair 71.7 — Patience honours incomplete evidence
+
+:::verse
+முழுமையுறா சான்றில் முடிவைச் சொல்லாதே
+காலம் தெளிவளிக்கும்
+:::
+
+:::verse
+When evidence is still a scattered light,
+Let patience keep the verdict from its throne.
+:::
+
+#### Pair 71.8 — Mystery must not be exploited
+
+:::verse
+மர்மத்தின் பெயரால் மயக்கத்தை விற்காதே
+மனத்தின் நம்பிக்கை புனிதம்
+:::
+
+:::verse
+Do not sell a certainty the dark cannot give;
+A searching heart deserves an honest guide.
+:::
+
+#### Pair 71.9 — Weigh explanations by their grounds
+
+:::verse
+கூறும் கருத்தின் கவர்ச்சியை நோக்காதே
+சான்றின் வலிமை காண்
+:::
+
+:::verse
+A beautiful account may still be false;
+Ask what can bear the weight of what it claims.
+:::
+
+#### Pair 71.10 — Leave the door open
+
+:::verse
+அறியாத வாசல் அடைத்திடல் வேண்டாம்
+அறிவின் பணிவு அதுவே
+:::
+
+:::verse
+Leave one small door unsealed against the night;
+Humility asks, but does not promise dawn.
+:::
+
+### Chapter 72 — The Ultimate Truth (மெய்யுண்மை)
+
+#### Pair 72.1 — Wanting does not make a thing true
+
+:::verse
+விரும்பிய காரணம் மெய்யென ஆகாது
+உண்மை தனித்தியங்கும்
+:::
+
+:::verse
+The heart may long for truth to take its side;
+The truth remains beyond the wish it meets.
+:::
+
+#### Pair 72.2 — Words point beyond themselves
+
+:::verse
+சொற்கள் வழிகாட்டும்; சொற்களே மெய்யல்ல
+சுடரைக் காட்டும் விரல்
+:::
+
+:::verse
+Words point towards the light they cannot hold;
+The finger is not the flame it shows.
+:::
+
+#### Pair 72.3 — Comfort is not proof
+
+:::verse
+ஆறுதல் தருவது உண்மையின் சான்றன்று
+அன்போடு ஆராய்
+:::
+
+:::verse
+A belief may soothe the wound within the heart;
+Its comfort alone cannot make it true.
+:::
+
+#### Pair 72.4 — Different truths require different ways of knowing
+
+:::verse
+கேள்வியின் இயல்பே சான்றினைத் தீர்மானிக்கும்
+ஒரே அளவு போதாது
+:::
+
+:::verse
+The kind of question shapes the proof it needs;
+No single measure weighs the whole of life.
+:::
+
+#### Pair 72.5 — Certainty is not truth
+
+:::verse
+உறுதியாய் சொல்வதால் உண்மை பிறக்காது
+ஐயமும் ஆராயும்
+:::
+
+:::verse
+A voice made certain does not make truth so;
+Doubt, honestly held, can clear the sight.
+:::
+
+#### Pair 72.6 — The seeker must examine the self
+
+:::verse
+மெய்யினைத் தேடுவோன் தன்னையும் ஆராய்க
+விருப்பம் வழி மறைக்கும்
+:::
+
+:::verse
+Who seeks the truth must question the seeker too;
+Desire can bend the mirror of the mind.
+:::
+
+#### Pair 72.7 — No single image contains the whole
+
+:::verse
+ஒரு உவமை கொண்டு முழுமையைச் சிறையிடாதே
+வானம் அதனில் அடங்காது
+:::
+
+:::verse
+No image can contain the whole of what is;
+The sky exceeds the window made for it.
+:::
+
+#### Pair 72.8 — Conviction can remain humble
+
+:::verse
+நம்பிக்கை ஆழ்ந்தும் பணிவுடன் வாழலாம்
+பிறர்வழி மறுக்காமல்
+:::
+
+:::verse
+A deep conviction need not close the ear;
+Belief can stand without making others small.
+:::
+
+#### Pair 72.9 — Meaning cannot be possessed
+
+:::verse
+மெய்ப்பொருள் நாடும் மனம் உரிமை கொள்ளாது
+அணுகுதலே பயணம்
+:::
+
+:::verse
+Meaning is not a prize the hand can own;
+We draw near by how we live and see.
+:::
+
+#### Pair 72.10 — Live truthfully at the edge of knowing
+
+:::verse
+முழுமெய் அறியோம் எனினும் வாழ்வில்
+மெய்ம்மை வழுவாதிரு
+:::
+
+:::verse
+We may not own the truth we seek;
+We may still live by what we know is true.
+:::
+
 ## Epilogue
 
 [EPILOGUE PLACEHOLDER — To be written after all 720 paired compositions have been completed and reviewed. The epilogue should bring the book's journey together without merely summarising the Chapters or claiming certainty where the work has preserved an open question.]

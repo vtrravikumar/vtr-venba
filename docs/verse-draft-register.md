@@ -111,6 +111,36 @@
 | 70.9 | Knowledge, courage, and room to grow are enduring inheritances. | First draft; prosody review needed | First draft; English-form review needed |
 | 70.10 | A life leaves a blessing when it leaves goodness behind. | First draft; prosody review needed | First draft; English-form review needed |
 
+## Chapter 71 — The Threshold of the Unknown (அறியாததின் வாசல்)
+
+| Pair | Shared insight | Tamil status | English status |
+|---|---|---|---|
+| 71.1 | The unknown is not automatically a threat. | First draft; prosody review needed | First draft; English-form review needed |
+| 71.2 | An unanswered question can still deepen attention. | First draft; prosody review needed | First draft; English-form review needed |
+| 71.3 | Fear can rush us into premature certainty. | First draft; prosody review needed | First draft; English-form review needed |
+| 71.4 | Imagination explores possibilities but does not establish proof. | First draft; prosody review needed | First draft; English-form review needed |
+| 71.5 | Uncertainty can be shared rather than hidden. | First draft; prosody review needed | First draft; English-form review needed |
+| 71.6 | The boundaries of knowledge may move over time. | First draft; prosody review needed | First draft; English-form review needed |
+| 71.7 | Incomplete evidence calls for patience before judgement. | First draft; prosody review needed | First draft; English-form review needed |
+| 71.8 | Mystery must not be used to sell false certainty. | First draft; prosody review needed | First draft; English-form review needed |
+| 71.9 | Explanations should be weighed by their evidence, not their appeal. | First draft; prosody review needed | First draft; English-form review needed |
+| 71.10 | Humility leaves the unknown open without promising an answer. | First draft; prosody review needed | First draft; English-form review needed |
+
+## Chapter 72 — The Ultimate Truth (மெய்யுண்மை)
+
+| Pair | Shared insight | Tamil status | English status |
+|---|---|---|---|
+| 72.1 | Wanting a claim to be true does not make it true. | First draft; prosody review needed | First draft; English-form review needed |
+| 72.2 | Words can point beyond themselves without containing the whole. | First draft; prosody review needed | First draft; English-form review needed |
+| 72.3 | A belief's comfort does not establish its truth. | First draft; prosody review needed | First draft; English-form review needed |
+| 72.4 | Different questions may require different forms of evidence. | First draft; prosody review needed | First draft; English-form review needed |
+| 72.5 | Certainty and truth are not identical. | First draft; prosody review needed | First draft; English-form review needed |
+| 72.6 | The seeker must examine how desire shapes judgement. | First draft; prosody review needed | First draft; English-form review needed |
+| 72.7 | No single metaphor should be mistaken for the whole. | First draft; prosody review needed | First draft; English-form review needed |
+| 72.8 | Deep conviction can coexist with humility towards others. | First draft; prosody review needed | First draft; English-form review needed |
+| 72.9 | Meaning may be approached without being possessed. | First draft; prosody review needed | First draft; English-form review needed |
+| 72.10 | Even without complete knowledge, one can live truthfully. | First draft; prosody review needed | First draft; English-form review needed |
+
 ## Editorial note — current chapter batch
 
-Chapter 65 remains a first-draft set. Pair 65.3 has been flagged for a structural revision because its current second line does not yet satisfy the expected three-seer line. Chapter 66 is drafted as a complete working batch. Chapters 67–70 are first-draft batches; their Tamil verses require a proportionate review for literary idiom and traditional prosody, and their English verses require review against the separately documented English form. Chapters 69 and 70 were drafted with the epitaph-worthy ambition for Part IX in mind. No formal validation is claimed for these chapters.
+Chapter 65 remains a first-draft set. Pair 65.3 has been flagged for a structural revision because its current second line does not yet satisfy the expected three-seer line. Chapter 66 is drafted as a complete working batch. Chapters 67–72 are first-draft batches; their Tamil verses require a proportionate review for literary idiom and traditional prosody, and their English verses require review against the separately documented English form. Chapters 69–72 were drafted with the epitaph-worthy ambition for Part IX in mind. Chapters 71–72 close the book by leaving the unknown open while asking the reader to live truthfully without claiming total possession of truth. No formal validation is claimed for these chapters.
