@@ -18,6 +18,7 @@ This is not a translation of the Thirukkural and must not be presented as one. T
 **GitHub is the working environment for this project until the manuscript is final.**
 
 - Work directly against files in this remote repository.
+- Keep `manuscript.md` updated in the same change whenever any component manuscript or front/back matter changes; verify the master against the component files after updates.
 - Do not create or maintain a local clone or local working copy during manuscript development.
 - Create, update, and review project documents and manuscript files through GitHub.
 - Commit meaningful changes and verify them by reading the files back from the remote repository.
@@ -52,7 +53,8 @@ The approved chapter list and stage framework are documented in [the architectur
 - `docs/architecture.md` — approved Parts and Chapter structure.
 - `docs/chapter-scope-register.md` — working scope statements and provisional insight seeds for all 72 Chapters.
 - `docs/editorial-principles.md` — thematic, bilingual, linguistic, and validation principles.
-- `manuscript/front-matter.md` — working source for metadata, copyright, dedication, prologue, epilogue, and author bio; placeholders remain where decisions are pending.
+- `manuscript.md` — **master production manuscript**, combining metadata, front matter, all Parts, and back matter in reading order. Keep it synchronized with the component files.
+- `manuscript/front-matter.md` — editable source for metadata, copyright, dedication, prologue, epilogue, and author bio; placeholders remain where decisions are pending.
 - `manuscript/front-matter/README.md` — front/back-matter workflow and publication checklist.
 - `manuscript/parts/` — manuscript content organised by Part.
 
