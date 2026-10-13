@@ -1,0 +1,202 @@
+name: Print-ready manuscript
+
+on:
+  push:
+    branches: ["main"]
+    paths:
+      - "manuscript.md"
+      - "manuscript/**"
+      - "assets/**"
+      - ".github/workflows/print-ready.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: print-ready-manuscript
+  cancel-in-progress: false
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out book repository
+        uses: actions/checkout@v4
+        with:
+          path: book
+          persist-credentials: true
+
+      - name: Check out VTR Press
+        uses: actions/checkout@v4
+        with:
+          repository: vtrravikumar/vtr-press
+          ref: main
+          path: vtr-press
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: vtr-press/requirements.txt
+
+      - name: Set up Typst
+        uses: typst-community/setup-typst@v5
+
+      - name: Install VTR Press dependencies
+        working-directory: vtr-press
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Validate manuscript structure and synchronization
+        working-directory: book
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          master_path = Path("manuscript.md")
+          master = master_path.read_text(encoding="utf-8")
+          front = Path("manuscript/front-matter.md").read_text(encoding="utf-8")
+
+          if not master.startswith("---\\n"):
+              raise SystemExit("ERROR: manuscript.md must begin with YAML front matter.")
+
+          # Every component Part must be represented verbatim in the master manuscript.
+          part_files = sorted(Path("manuscript/parts").glob("part-*.md"))
+          for path in part_files:
+              component = path.read_text(encoding="utf-8").strip()
+              if component and component not in master:
+                  raise SystemExit(f"ERROR: {path} is not synchronized into manuscript.md")
+
+          # Each section in the front/back matter component must also be present in the master.
+          body = front.split("---", 2)[-1]
+          sections = [("## " + chunk).strip() for chunk in body.split("\\n## ") if chunk.strip()]
+          for section in sections:
+              if section not in master:
+                  raise SystemExit("ERROR: front/back matter is not synchronized into manuscript.md.")
+
+          # VTR Press treats every :::verse block as a sequence of literal lines.
+          lines = master.splitlines()
+          open_verse = False
+          verse_lines = []
+          count = 0
+          for line_no, line in enumerate(lines, 1):
+              if line.strip() == ":::verse":
+                  if open_verse:
+                      raise SystemExit(f"ERROR: nested verse block at line {line_no}")
+                  open_verse = True
+                  verse_lines = []
+              elif line.strip() == ":::" and open_verse:
+                  if len(verse_lines) != 2:
+                      raise SystemExit(
+                          f"ERROR: verse block ending at line {line_no} has "
+                          f"{len(verse_lines)} intentional lines; expected exactly 2."
+                      )
+                  open_verse = False
+                  count += 1
+              elif open_verse:
+                  verse_lines.append(line)
+          if open_verse:
+              raise SystemExit("ERROR: unterminated :::verse block.")
+          print(f"Validated synchronization and {count} two-line verse blocks.")
+          PY
+
+      - name: Prepare temporary validation cover
+        working-directory: book
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          from PIL import Image, ImageDraw, ImageFont
+
+          path = Path("assets/cover/.ci-working-proof-cover.png")
+          path.parent.mkdir(parents=True, exist_ok=True)
+          image = Image.new("RGB", (1600, 2560), "#f4f0e8")
+          draw = ImageDraw.Draw(image)
+          regular = "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
+          bold = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
+          title_font = ImageFont.truetype(bold, 82)
+          body_font = ImageFont.truetype(regular, 42)
+          small_font = ImageFont.truetype(regular, 30)
+          draw.text((130, 180), "WORKING PROOF", fill="#24364b", font=title_font)
+          draw.line((130, 320, 1470, 320), fill="#a58b62", width=5)
+          draw.text((130, 430), "Book title to be confirmed", fill="#24364b", font=body_font)
+          draw.text((130, 510), "Tamil + English", fill="#24364b", font=body_font)
+          draw.text((130, 2290), "Temporary cover for pipeline validation only", fill="#5b5b5b", font=small_font)
+          draw.text((130, 2350), "Not final cover artwork", fill="#5b5b5b", font=small_font)
+          image.save(path, format="PNG", dpi=(300, 300))
+          PY
+
+      - name: Configure VTR Press publication target
+        working-directory: vtr-press
+        run: |
+          cat >> books.yaml <<'YAML'
+
+            # Temporary CI target for the vtr-venba manuscript.
+            # This entry exists only in the runner and is not committed to VTR Press.
+            vtr-venba:
+              bookpath: ../book
+              cover: ../book/assets/cover/.ci-working-proof-cover.png
+              output_name: vtr-venba
+          YAML
+          python - <<'PY'
+          import yaml
+          from pathlib import Path
+          data = yaml.safe_load(Path("books.yaml").read_text(encoding="utf-8"))
+          assert "vtr-venba" in data["books"], "Temporary VTR Press target was not loaded"
+          PY
+
+      - name: Render print interior PDF and EPUB
+        working-directory: vtr-press
+        run: python run.py vtr-venba print
+
+      - name: Verify and place publication files in repository root
+        working-directory: book
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import zipfile
+
+          press_output = Path("../vtr-press/output")
+          pdf_source = press_output / "vtr-venba-interior.pdf"
+          epub_source = press_output / "vtr-venba.epub"
+          pdf_target = Path("vtr-venba-interior.pdf")
+          epub_target = Path("vtr-venba.epub")
+
+          for source in (pdf_source, epub_source):
+              if not source.is_file() or source.stat().st_size == 0:
+                  raise SystemExit(f"ERROR: missing or empty output: {source}")
+
+          if not pdf_source.read_bytes().startswith(b"%PDF-"):
+              raise SystemExit("ERROR: PDF signature is invalid.")
+          with zipfile.ZipFile(epub_source) as archive:
+              bad = archive.testzip()
+              if bad:
+                  raise SystemExit(f"ERROR: EPUB ZIP integrity failure: {bad}")
+              if "mimetype" not in archive.namelist() or "META-INF/container.xml" not in archive.namelist():
+                  raise SystemExit("ERROR: EPUB package structure is incomplete.")
+
+          pdf_target.write_bytes(pdf_source.read_bytes())
+          epub_target.write_bytes(epub_source.read_bytes())
+          print(f"Verified {pdf_target} ({pdf_target.stat().st_size} bytes)")
+          print(f"Verified {epub_target} ({epub_target.stat().st_size} bytes)")
+          PY
+
+      - name: Remove temporary cover
+        if: always()
+        working-directory: book
+        run: rm -f assets/cover/.ci-working-proof-cover.png
+
+      - name: Commit refreshed publication files
+        working-directory: book
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add vtr-venba-interior.pdf vtr-venba.epub
+          if git diff --cached --quiet; then
+            echo "Publication files are already up to date."
+          else
+            git commit -m "Build print-ready manuscript PDF and EPUB"
+            git push
+          fi
