@@ -33,3 +33,24 @@
 - Update statuses only after the relevant review has actually occurred.
 
 **Current state:** Chapter 65 has ten working pairs. Only Pair 65.1 has author-approved wording; all Tamil prosody and English-form checks remain pending. Pairs 65.2–65.10 are first drafts, not validated compositions.
+
+## Chapter 66 — The Stillness Beyond Striving
+
+| Pair | Shared insight | Tamil status | English status |
+|---|---|---|---|
+| 66.1 | A moment can be valuable without measurable productivity. | First draft; prosody review needed | First draft; English-form review needed |
+| 66.2 | Silence can hold meaning rather than emptiness. | First draft; prosody review needed | First draft; English-form review needed |
+| 66.3 | Rest is a human need, not merely a reward for exhaustion. | First draft; prosody review needed | First draft; English-form review needed |
+| 66.4 | Attention can reveal the world without turning everything into a pursuit. | First draft; prosody review needed | First draft; English-form review needed |
+| 66.5 | Stillness can make inner experience audible beneath external haste. | First draft; prosody review needed | First draft; English-form review needed |
+| 66.6 | Human worth and life are not measured only by completed actions. | First draft; prosody review needed | First draft; English-form review needed |
+| 66.7 | Quiet is not sufficient for wisdom; openness to learning remains necessary. | First draft; prosody review needed | First draft; English-form review needed |
+| 66.8 | A pause can restore perspective and clarify the way forward. | First draft; prosody review needed | First draft; English-form review needed |
+| 66.9 | Not every process requires our intervention. | First draft; prosody review needed | First draft; English-form review needed |
+| 66.10 | Turning every experience into a goal can diminish its joy. | First draft; prosody review needed | First draft; English-form review needed |
+
+
+
+## Editorial note — current chapter batch
+
+Chapter 65 remains a first-draft set. Pair 65.3 has been flagged for a structural revision because its current second line does not yet satisfy the expected three-seer line. Chapter 66 is now drafted as a complete working batch. Its Tamil verses require a proportionate prosody pass before any claim of formal validation; English-form review also remains pending.

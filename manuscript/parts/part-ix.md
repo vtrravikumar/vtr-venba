@@ -121,3 +121,125 @@ Still let the seed of tomorrow rise.
 When craving loosens, ordinary things appear;
 The light was here before we learned to look.
 :::
+
+### Chapter 66 — The Stillness Beyond Striving
+
+#### Pair 66.1 — A moment need not prove itself
+
+:::verse
+பயனின்றி அமரும் பொழுதும் இனிதே
+அமைதியே பயன்
+:::
+
+:::verse
+Not every hour must prove that it was spent;
+The unmeasured moment has its own life.
+:::
+
+#### Pair 66.2 — Silence is not emptiness
+
+:::verse
+மௌனம் வெறுமை அன்று மனத்தின் உள்ளே
+மலரும் மொழி உண்டு
+:::
+
+:::verse
+Silence is not an absence of speech;
+Some truths grow only when words fall still.
+:::
+
+#### Pair 66.3 — Rest is not a reward
+
+:::verse
+களைத்தபின் ஓய்வு கடனன்று நாளும்
+உடலுக்கும் உரிமை
+:::
+
+:::verse
+Rest is not a prize for being worn;
+The body need not break to be allowed its peace.
+:::
+
+#### Pair 66.4 — Attention without pursuit
+
+:::verse
+தேடாமல் காணும் தெளிவினில் உலகம்
+தன்னைத் திறக்கும்
+:::
+
+:::verse
+Look without hunting for something to find;
+The world grows visible when grasping fades.
+:::
+
+#### Pair 66.5 — Stillness hears what haste hides
+
+:::verse
+ஓட்டத்தில் மறையும் உள்ளத்தின் ஓசை
+நிறுத்தத்தில் கேட்கும்
+:::
+
+:::verse
+What haste conceals, stillness lets us hear;
+The quiet names the pulse beneath the noise.
+:::
+
+#### Pair 66.6 — Being is more than doing
+
+:::verse
+செயலே உயிரின் அளவன்று வாழ்வில்
+இருத்தலும் உண்டு
+:::
+
+:::verse
+Life is more than what the hands complete;
+Being, too, belongs among our ways.
+:::
+
+#### Pair 66.7 — Quiet alone is not wisdom
+
+:::verse
+மௌனம் கொண்டதால் ஞானம் வராது
+கேள்வியும் வேண்டும்
+:::
+
+:::verse
+Silence alone does not make us wise;
+A quiet mind must still be willing to learn.
+:::
+
+#### Pair 66.8 — A pause restores proportion
+
+:::verse
+சிறிதொரு தங்கல் சுமையினை அளக்கும்
+பாதை தெளியும்
+:::
+
+:::verse
+A pause can set the burden in its place;
+The road appears when haste steps back.
+:::
+
+#### Pair 66.9 — The world moves without our hand
+
+:::verse
+நாம் தலையிடா நாளும் உலகம்
+தன் வழி செல்லும்
+:::
+
+:::verse
+The world does not wait upon our hands;
+Some things unfold when we let them be.
+:::
+
+#### Pair 66.10 — Wonder is not a task
+
+:::verse
+குறிக்கோள் வைத்தால் குளிரும் தருணம்
+கணக்காய் மாறும்
+:::
+
+:::verse
+Turn every wonder into a goal,
+And even joy begins to keep a score.
+:::
