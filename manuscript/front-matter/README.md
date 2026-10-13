@@ -1,6 +1,6 @@
 # Front and Back Matter
 
-The active front- and back-matter draft is [../front-matter.md](../front-matter.md). It follows the YAML metadata and section-heading conventions demonstrated by the VTR Press sample manuscript.
+The editable front- and back-matter draft is [../front-matter.md](../front-matter.md). The consolidated [master manuscript](../../manuscript.md) is the production reading-order file and must be kept in sync whenever this component or any Part changes. The format follows the YAML metadata and section-heading conventions demonstrated by the VTR Press sample manuscript.
 
 ## Included in the draft
 
