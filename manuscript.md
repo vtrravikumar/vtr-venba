@@ -1,11 +1,12 @@
 ---
+type: book
 title: "[FINAL BOOK TITLE — TO BE DECIDED]"
 subtitle: "[SUBTITLE — TO BE DECIDED]"
 author: V.T.R. Ravi Kumar
 edition: First Edition
 version: 0.1
 copyright_year: 2026
-language: ta-en
+language: mul
 ---
 
 ## Copyright
