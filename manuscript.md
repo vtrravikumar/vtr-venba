@@ -45,8 +45,6 @@ If the earlier Parts look closely at the many things that make a life, the final
 
 The pages that follow are an attempt to look carefully, in two languages, at the life we share and the truths we continue to seek.
 
-<!-- MANUSCRIPT PARTS BEGIN — Keep this master in sync with manuscript/parts/*.md. -->
-
 ## Part IX — Bliss, Death and Ultimate Truth
 
 ### Chapter 65 — The Freedom Beyond Want
@@ -62,8 +60,6 @@ The pages that follow are an attempt to look carefully, in two languages, at the
 Those who walk beside us shape our days;
 No soul is ours to keep against the tide.
 :::
-
-<!-- MANUSCRIPT PARTS END -->
 
 ## Epilogue
 
