@@ -52,7 +52,8 @@ The approved chapter list and stage framework are documented in [the architectur
 - `docs/architecture.md` — approved Parts and Chapter structure.
 - `docs/chapter-scope-register.md` — working scope statements and provisional insight seeds for all 72 Chapters.
 - `docs/editorial-principles.md` — thematic, bilingual, linguistic, and validation principles.
-- `manuscript/front-matter/` — title and preliminary pages, developed later.
+- `manuscript/front-matter.md` — working source for metadata, copyright, dedication, prologue, epilogue, and author bio; placeholders remain where decisions are pending.
+- `manuscript/front-matter/README.md` — front/back-matter workflow and publication checklist.
 - `manuscript/parts/` — manuscript content organised by Part.
 
 ## Publishing
@@ -61,10 +62,10 @@ The manuscript is intended to follow the author's VTR Press workflow and convent
 
 ## Current next steps
 
-1. Review the 72-Chapter scope register in batches, beginning with Part I.
-2. Resolve overlaps and approve the distinct territory of each Chapter.
-3. Research traditional Tamil Kural Venba and document a defensible, separate approach to English composition and prosodic evaluation.
-4. Develop the front matter and Parts incrementally.
-5. Draft and review paired compositions only after the editorial groundwork is ready.
+1. Establish the front and back matter, leaving explicit placeholders for undecided publication details.
+2. Research traditional Tamil Kural Venba and document a defensible, separate approach to English composition and prosodic evaluation.
+3. Review the 72-Chapter scope register in batches and resolve any overlapping Chapter territories.
+4. Draft and validate paired compositions incrementally, following the VTR Press manuscript syntax from the start.
+5. Verify the generated table of contents and final PDF/optional EPUB before publication.
 
 The final title and precise thesis remain open decisions.
