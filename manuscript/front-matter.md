@@ -3,9 +3,21 @@ type: book
 title: "[FINAL BOOK TITLE — TO BE DECIDED]"
 subtitle: "[SUBTITLE — TO BE DECIDED]"
 author: V.T.R. Ravi Kumar
-edition: First Edition
-version: 0.1
+# ------------------------------------------------------------------
+# Publication
+# ------------------------------------------------------------------
+publisher:
+  name:
+  logo:
+
+edition: Reading Draft
+version: v1.0
 copyright_year: 2026
+
+# ------------------------------------------------------------------
+# Layout
+# ------------------------------------------------------------------
+paper: A5
 language: mul
 ---
 
