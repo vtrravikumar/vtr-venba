@@ -53,7 +53,8 @@ The approved chapter list and stage framework are documented in [the architectur
 - `docs/architecture.md` — approved Parts and Chapter structure.
 - `docs/chapter-scope-register.md` — working scope statements and provisional insight seeds for all 72 Chapters.
 - `docs/editorial-principles.md` — thematic, bilingual, linguistic, and validation principles.
-- `manuscript.md` — **master production manuscript**, combining metadata, front matter, all Parts, and back matter in reading order. Keep it synchronized with the component files.
+- `manuscript.md` — **master production manuscript at the repository root**, combining metadata, front matter, all Parts, and back matter in reading order. Keep it synchronized with the component files.
+- `assets/` — cover artwork and interior images referenced by the manuscript, with usage and production conventions documented in `assets/README.md`.
 - `manuscript/front-matter.md` — editable source for metadata, copyright, dedication, prologue, epilogue, and author bio; placeholders remain where decisions are pending.
 - `manuscript/front-matter/README.md` — front/back-matter workflow and publication checklist.
 - `manuscript/parts/` — manuscript content organised by Part.
