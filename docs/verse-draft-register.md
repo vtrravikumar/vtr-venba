@@ -8,7 +8,7 @@
 - **Prosody review needed:** Tamil wording has not yet been checked fully for அசை, சீர், தளை, line structure, and ஈற்றுச்சீர் under the documented traditional rules.
 - **English-form review needed:** the English verse has not yet been assessed against a separately documented English compositional method.
 
-## Chapter 65 — The Freedom Beyond Want
+## Chapter 65 — The Freedom Beyond Want (ஆசைக்கு அப்பாலான விடுதலை)
 
 | Pair | Shared insight | Tamil status | English status |
 |---|---|---|---|
@@ -34,7 +34,7 @@
 
 **Current state:** Chapter 65 has ten working pairs. Only Pair 65.1 has author-approved wording; all Tamil prosody and English-form checks remain pending. Pairs 65.2–65.10 are first drafts, not validated compositions.
 
-## Chapter 66 — The Stillness Beyond Striving
+## Chapter 66 — The Stillness Beyond Striving (முயற்சிக்கு அப்பாலான அமைதி)
 
 | Pair | Shared insight | Tamil status | English status |
 |---|---|---|---|

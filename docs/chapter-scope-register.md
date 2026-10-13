@@ -14,7 +14,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 
 ---
 
-# Part I — Birth and Beginnings (பிறப்பும் தொடக்கங்களும்) (ages 0–8)
+# Part I — Birth and Beginnings (பிறப்பும் தொடக்கங்களும்; ages 0–8)
 
 ## 1. The Gift of Birth (பிறப்பின் கொடை)
 
@@ -154,7 +154,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 
 ---
 
-# Part II — Learning and Awakening (கற்றலும் விழிப்பும்) (ages 9–16)
+# Part II — Learning and Awakening (கற்றலும் விழிப்பும்; ages 9–16)
 
 ## 9. The Discipline of Learning (கற்றலின் ஒழுக்கம்)
 
@@ -294,7 +294,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 
 ---
 
-# Part III — Youth and Identity (இளமையும் தனித்த அடையாளமும்) (ages 17–24)
+# Part III — Youth and Identity (இளமையும் தனித்த அடையாளமும்; ages 17–24)
 
 ## 17. The Hunger for Freedom (விடுதலைக்கான வேட்கை)
 
@@ -434,7 +434,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 
 ---
 
-# Part IV — Work and Partnership (உழைப்பும் உறவிணைப்பும்) (ages 25–32)
+# Part IV — Work and Partnership (உழைப்பும் உறவிணைப்பும்; ages 25–32)
 
 ## 25. The Dignity of Work (உழைப்பின் மாண்பு)
 
@@ -574,7 +574,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 
 ---
 
-# Part V — Family and Responsibility (குடும்பமும் பொறுப்பும்) (ages 33–40)
+# Part V — Family and Responsibility (குடும்பமும் பொறுப்பும்; ages 33–40)
 
 ## 33. The Meaning of Care (அக்கறையின் பொருள்)
 
@@ -714,7 +714,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 
 ---
 
-# Part VI — Achievement and Reflection (சாதனையும் சிந்தனை மீளாய்வும்) (ages 41–48)
+# Part VI — Achievement and Reflection (சாதனையும் சிந்தனை மீளாய்வும்; ages 41–48)
 
 ## 41. The Nature of Success (வெற்றியின் இயல்பு)
 
@@ -854,7 +854,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 
 ---
 
-# Part VII — Change and Reassessment (மாற்றமும் மறுமதிப்பீடும்) (ages 49–56)
+# Part VII — Change and Reassessment (மாற்றமும் மறுமதிப்பீடும்; ages 49–56)
 
 ## 49. The Passage of Time (காலத்தின் கடத்தல்)
 
@@ -994,7 +994,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 
 ---
 
-# Part VIII — Wisdom and Completion (ஞானமும் நிறைவும்) (ages 57–64)
+# Part VIII — Wisdom and Completion (ஞானமும் நிறைவும்; ages 57–64)
 
 ## 57. The Harvest of Experience (அனுபவத்தின் அறுவடை)
 
@@ -1134,7 +1134,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 
 ---
 
-# Part IX — Bliss, Death and Ultimate Truth (beyond 64)
+# Part IX — Bliss, Death and Ultimate Truth (பேரின்பம், மரணம், மெய்யுண்மை; beyond 64)
 
 ## 65. The Freedom Beyond Want (ஆசைக்கு அப்பாலான விடுதலை)
 
