@@ -425,6 +425,129 @@ As the self-image recedes, the world grows vast
 And finds a wider chamber in the heart.
 :::
 
+### Chapter 68 — The Mystery of Consciousness (விழிப்புணர்வின் மர்மம்)
+
+#### Pair 68.1 — Experience is known from within
+
+:::verse
+உணர்வொளி உள்ளத்தில் ஒளிர்வதை அறிவோம்
+அதன் ஆழம் அறியோம்
+:::
+
+:::verse
+We know the inward light by which we see;
+Its source remains beyond our certainty.
+:::
+
+#### Pair 68.2 — A name is not an explanation
+
+:::verse
+உணர்வுக்குப் பெயரிட்டால் உண்மை விளங்குமோ
+பெயரே விளக்கன்று
+:::
+
+:::verse
+To give a name is not to know the flame;
+A word may mark the mystery, not explain.
+:::
+
+#### Pair 68.3 — Theory and experience are distinct
+
+:::verse
+நூலறிவு நெறிகாட்டும் நுண்ணறிவு வேறாம்
+நுகர்ந்தறிதல் வேறு
+:::
+
+:::verse
+A theory may describe the mind's design;
+The lived and living fact is not the same.
+:::
+
+#### Pair 68.4 — Many traditions, many questions
+
+:::verse
+ஒரே வானை நோக்கி வழிகள் பலவாம்
+வினாக்களும் வேறாம்
+:::
+
+:::verse
+Beneath one sky, the seeking paths divide;
+Each asks what another leaves aside.
+:::
+
+#### Pair 68.5 — Mystery invites inquiry
+
+:::verse
+வியப்பை முடிவென மூடுதல் அறிவன்று
+வினாவே விளக்கு
+:::
+
+:::verse
+To seal a wonder with a swift conclusion
+Is to extinguish the lamp of inquiry.
+:::
+
+#### Pair 68.6 — Wisdom knows the edge of knowledge
+
+:::verse
+அறிந்ததன் எல்லையை அறிதலே அறிவு
+அறியாமை அங்குண்டு
+:::
+
+:::verse
+Wisdom knows where knowledge reaches its shore;
+Beyond that line, it claims no more.
+:::
+
+#### Pair 68.7 — Inner experience and outward proof
+
+:::verse
+உள்ளத்து நிகழ்வை உரைத்திடல் எளிதன்று
+சான்றின் வழி வேறு
+:::
+
+:::verse
+What stirs within resists the public word;
+Evidence and experience are differently heard.
+:::
+
+#### Pair 68.8 — Wonder and inquiry belong together
+
+:::verse
+வியப்பும் ஆய்வும் விரோதிகள் அல்ல
+மெய்தேடும் இருகண்
+:::
+
+:::verse
+Wonder and inquiry need not part;
+They are the twin eyes of the searching heart.
+:::
+
+#### Pair 68.9 — Metaphor is not proof
+
+:::verse
+உவமை வழிகாட்டும் உண்மைக்குச் சான்றாகா
+சொல்லே பொருளன்று
+:::
+
+:::verse
+A metaphor may lead us to the door;
+It is not proof of what lies there.
+:::
+
+#### Pair 68.10 — Leave the deepest question open
+
+:::verse
+விடையறா ஆழம் விழியினைத் தாழ்த்தும்
+தேடல் தொடரட்டும்
+:::
+
+:::verse
+Before the deepest question, bow the mind;
+Let honest seeking leave the door unclosed.
+:::
+
+## Epilogue
 ## Epilogue
 ## Epilogue
 

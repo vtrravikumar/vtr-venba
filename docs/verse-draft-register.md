@@ -66,6 +66,21 @@
 | 67.9 | The need to win can prevent genuine understanding. | First draft; prosody review needed | First draft; English-form review needed |
 | 67.10 | A less dominant self-image can make room for a wider world. | First draft; prosody review needed | First draft; English-form review needed |
 
+## Chapter 68 — The Mystery of Consciousness (விழிப்புணர்வின் மர்மம்)
+
+| Pair | Shared insight | Tamil status | English status |
+|---|---|---|---|
+| 68.1 | Experience is directly present, though its ultimate source remains uncertain. | First draft; prosody review needed | First draft; English-form review needed |
+| 68.2 | Naming consciousness does not fully explain it. | First draft; prosody review needed | First draft; English-form review needed |
+| 68.3 | A theory of mind differs from lived experience. | First draft; prosody review needed | First draft; English-form review needed |
+| 68.4 | Traditions may share a subject while asking different questions. | First draft; prosody review needed | First draft; English-form review needed |
+| 68.5 | Mystery should invite inquiry rather than premature certainty. | First draft; prosody review needed | First draft; English-form review needed |
+| 68.6 | Intellectual wisdom includes recognising the limits of knowledge. | First draft; prosody review needed | First draft; English-form review needed |
+| 68.7 | First-person experience and public evidence are not interchangeable. | First draft; prosody review needed | First draft; English-form review needed |
+| 68.8 | Wonder and disciplined inquiry can strengthen one another. | First draft; prosody review needed | First draft; English-form review needed |
+| 68.9 | A compelling metaphor is not evidence for a claim. | First draft; prosody review needed | First draft; English-form review needed |
+| 68.10 | The deepest questions may remain open without ending the search. | First draft; prosody review needed | First draft; English-form review needed |
+
 ## Editorial note — current chapter batch
 
-Chapter 65 remains a first-draft set. Pair 65.3 has been flagged for a structural revision because its current second line does not yet satisfy the expected three-seer line. Chapter 66 is drafted as a complete working batch. Chapter 67 is now added as a first-draft batch; its Tamil verses require a proportionate review for literary idiom and traditional prosody, and the English verses require review against the separately documented English form. No formal validation is claimed for either chapter.
+Chapter 65 remains a first-draft set. Pair 65.3 has been flagged for a structural revision because its current second line does not yet satisfy the expected three-seer line. Chapter 66 is drafted as a complete working batch. Chapters 67 and 68 are now added as first-draft batches; their Tamil verses require a proportionate review for literary idiom and traditional prosody, and their English verses require review against the separately documented English form. No formal validation is claimed for either chapter.
