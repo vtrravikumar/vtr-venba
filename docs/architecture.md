@@ -110,6 +110,8 @@ The first eight Parts are framed around successive eight-year life stages. Part 
 
 ## Part IX — Bliss, Death and Ultimate Truth (beyond 64)
 
+**Role in the whole book:** Part IX is the spiritual and philosophical culmination of Parts I–VIII. It revisits the experiences of living—relationships, ambition, belief, attachment, achievement, loss, and learning—in the light of mortality and the limits of human certainty. People may accompany us and profoundly shape our journey without being ours to possess or the entirety of our existence. Detachment should not deny love or the real value of relationships; it should recognise impermanence and the limits of control. The Part may explore spiritual beliefs and possibilities while distinguishing belief from established fact and leaving honest room for uncertainty. Death is treated as the ultimate certainty of embodied human life, not as proof of any particular claim about what follows it. The final Chapter should bring the preceding eight Parts into perspective rather than merely repeat that life ends.
+
 65. The Freedom Beyond Want
 66. The Stillness Beyond Striving
 67. The Dissolution of Ego
