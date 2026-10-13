@@ -14,6 +14,12 @@ Readers should be able to recognise their own experience in the work regardless 
 
 The age ranges assigned to Parts are organising lenses, not rigid claims about when a person must experience a particular event or attain a particular kind of wisdom.
 
+Each Part represents a broad phase of life; its Chapters explore questions and experiences that belong naturally within that phase. A Chapter need not correspond to one exact age, and its verses need not adopt the perspective of a person of that age. The phase should be present as an underlying relevance rather than an obligatory literal subject.
+
+Recurring feelings and themes—such as ambition, love, fear, duty, freedom, and loss—may appear in several Parts when their meaning changes with the circumstances of life. Ambition related to education, work, family, and later reflection is not redundant merely because the same word recurs; the insight must reflect the distinct concerns of each phase rather than repeat the same advice.
+
+Part IX has a special role: it should bring Parts I–VIII into spiritual and philosophical perspective. It may revisit relationships, ambition, inherited beliefs, attachment, achievement, and life lessons through the awareness of mortality, impermanence, detachment, and the limits of certainty. People can profoundly shape our journey without being ours to possess or constituting the entirety of our existence. Detachment must not be presented as indifference to love or human connection. Spiritual ideas may be explored with depth, but belief should not be presented as established fact without grounds; death is a certainty of embodied life, while claims about what follows remain open to the book's honest inquiry.
+
 ## 3. Distinct Chapter territories
 
 Before any verses are written:
