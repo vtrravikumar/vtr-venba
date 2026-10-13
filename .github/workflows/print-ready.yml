@@ -60,9 +60,9 @@ jobs:
           front = Path("manuscript/front-matter.md").read_text(encoding="utf-8")
 
           def yaml_header(text):
-              if not text.startswith("---\n"):
+              if not text.startswith("---" + chr(10)):
                   raise SystemExit("ERROR: manuscript source must start with YAML front matter.")
-              end = text.find("\n---\n", 3)
+              end = text.find(chr(10) + "---" + chr(10), 3)
               if end < 0:
                   raise SystemExit("ERROR: malformed YAML front matter.")
               return text[:end + 5]
@@ -86,7 +86,7 @@ jobs:
               start = front.find(heading)
               if start < 0:
                   raise SystemExit(f"ERROR: missing expected front/back matter section: {heading}")
-              next_heading = front.find("\n## ", start + len(heading))
+              next_heading = front.find(chr(10) + "## ", start + len(heading))
               section = front[start:next_heading if next_heading >= 0 else len(front)].strip()
               if section not in master:
                   raise SystemExit(f"ERROR: {heading} is not synchronized into manuscript.md")
