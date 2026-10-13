@@ -1,6 +1,6 @@
-## Part IX — Bliss, Death and Ultimate Truth
+## Part IX — Bliss, Death and Ultimate Truth (பேரின்பம், மரணம், மெய்யுண்மை)
 
-### Chapter 65 — The Freedom Beyond Want
+### Chapter 65 — The Freedom Beyond Want (ஆசைக்கு அப்பாலான விடுதலை)
 
 #### Pair 65.1 — Companions, not possessions
 
@@ -122,7 +122,7 @@ When craving loosens, ordinary things appear;
 The light was here before we learned to look.
 :::
 
-### Chapter 66 — The Stillness Beyond Striving
+### Chapter 66 — The Stillness Beyond Striving (முயற்சிக்கு அப்பாலான அமைதி)
 
 #### Pair 66.1 — A moment need not prove itself
 

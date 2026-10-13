@@ -14,9 +14,9 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 
 ---
 
-# Part I — Birth and Beginnings (ages 0–8)
+# Part I — Birth and Beginnings (பிறப்பும் தொடக்கங்களும்) (ages 0–8)
 
-## 1. The Gift of Birth
+## 1. The Gift of Birth (பிறப்பின் கொடை)
 
 **Central question:** What does it mean to arrive in a world we did not choose?
 **Scope:** Existence as an unrequested beginning: contingency, wonder, vulnerability, and the simple fact of being here.
@@ -33,7 +33,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. The world was already in motion.
 10. Gratitude need not deny hardship.
 
-## 2. The Dependence of Life
+## 2. The Dependence of Life (வாழ்வின் சார்பு)
 
 **Central question:** What does our need for others reveal about being human?
 **Scope:** Early vulnerability and the practical reality that life begins through care received from others.
@@ -50,7 +50,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. Independence is built through support.
 10. A society reveals itself in how it protects the helpless.
 
-## 3. The Love That Sustains
+## 3. The Love That Sustains (தாங்கும் அன்பு)
 
 **Central question:** How does affection make a life feel held and valued?
 **Scope:** Love as warmth, attachment, reassurance, and the emotional safety that allows a person to grow.
@@ -67,7 +67,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. A safe bond permits growth.
 10. The smallest kindness can become an inner refuge.
 
-## 4. The Language of Silence
+## 4. The Language of Silence (மௌனத்தின் மொழி)
 
 **Central question:** What can be communicated before words are available or trusted?
 **Scope:** Gesture, expression, attention, pauses, and the meanings conveyed when speech is absent or inadequate.
@@ -84,7 +84,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. Shared quiet can build trust.
 10. Words matter more when silence has been understood.
 
-## 5. The Wonder of Discovery
+## 5. The Wonder of Discovery (கண்டறிதலின் வியப்பு)
 
 **Central question:** How does encountering the unfamiliar change our understanding?
 **Scope:** Curiosity, observation, surprise, experimentation, and the pleasure of discovering how things work.
@@ -101,7 +101,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. Answers can open larger questions.
 10. Curiosity fades when every outcome is predetermined.
 
-## 6. The Freedom of Play
+## 6. The Freedom of Play (விளையாட்டின் விடுதலை)
 
 **Central question:** What does play teach that deliberate instruction cannot?
 **Scope:** Play as self-directed exploration, imagination, experimentation, and joy without a practical reward.
@@ -118,7 +118,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. Joy need not produce an achievement.
 10. A life without play can become merely efficient.
 
-## 7. The Seeds of Character
+## 7. The Seeds of Character (பண்பின் விதைகள்)
 
 **Central question:** How do repeated small acts begin to shape who we become?
 **Scope:** Early habits, imitation, honesty, patience, courage, and the beginnings of moral disposition.
@@ -135,7 +135,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. Character is influenced, not fixed at birth.
 10. Example teaches more persistently than instruction.
 
-## 8. The World We Inherit
+## 8. The World We Inherit (நாம் பெறும் உலகம்)
 
 **Central question:** How do circumstances chosen by others shape the lives we begin?
 **Scope:** Family culture, language, class, place, opportunity, history, and inherited assumptions that precede personal choice.
@@ -154,9 +154,9 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 
 ---
 
-# Part II — Learning and Awakening (ages 9–16)
+# Part II — Learning and Awakening (கற்றலும் விழிப்பும்) (ages 9–16)
 
-## 9. The Discipline of Learning
+## 9. The Discipline of Learning (கற்றலின் ஒழுக்கம்)
 
 **Central question:** What turns exposure to information into lasting understanding?
 **Scope:** Practice, attention, effort, memory, correction, and the slow accumulation of skill or knowledge.
@@ -173,7 +173,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. Comparison can distract from personal progress.
 10. Learning continues when certainty ends.
 
-## 10. The Freedom to Question
+## 10. The Freedom to Question (வினவுதலின் விடுதலை)
 
 **Central question:** When does a question become an act of intellectual courage?
 **Scope:** Curiosity directed at rules, authority, received explanations, and the right to examine claims.
@@ -190,7 +190,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. Evidence matters more than the confidence of the speaker.
 10. Independent thought requires willingness to revise.
 
-## 11. The Influence of Companions
+## 11. The Influence of Companions (உடனிருப்போரின் செல்வாக்கு)
 
 **Central question:** How do the people beside us shape the choices we consider normal?
 **Scope:** Peer influence, imitation, social pressure, mutual encouragement, and the habits formed in company.
@@ -207,7 +207,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. Shared habits become shared expectations.
 10. Choose company by what it helps you become.
 
-## 12. The Need to Belong
+## 12. The Need to Belong (சேர்ந்திருக்க வேண்டிய தேவை)
 
 **Central question:** How can a person seek acceptance without surrendering the self?
 **Scope:** Inclusion, exclusion, loneliness, group identity, and the emotional cost of feeling unwanted.
@@ -224,7 +224,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. Rejection does not define worth.
 10. A healthy community leaves room to remain oneself.
 
-## 13. The Awakening of Desire
+## 13. The Awakening of Desire (ஆசையின் விழிப்பு)
 
 **Central question:** What happens when a person first becomes aware of wanting more than what is present?
 **Scope:** Emerging wants, attraction, longing, comparison, and the discovery that desire can direct attention and imagination.
@@ -241,7 +241,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. The object wanted may not meet the need beneath it.
 10. Awareness creates a pause between wanting and choosing.
 
-## 14. The Weight of Expectation
+## 14. The Weight of Expectation (எதிர்பார்ப்பின் சுமை)
 
 **Central question:** How do other people's hopes become pressure inside a young mind?
 **Scope:** Family, school, community, and social expectations; approval, disappointment, and the burden of being assigned a future.
@@ -258,7 +258,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. Duty and approval are not identical.
 10. A future should not be assigned without listening.
 
-## 15. The Courage of Difference
+## 15. The Courage of Difference (வேறுபாட்டின் துணிவு)
 
 **Central question:** What does it cost to remain different when conformity is rewarded?
 **Scope:** Visible and invisible differences, minority tastes, unusual interests, and the courage to resist needless conformity.
@@ -275,7 +275,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. Being unusual does not excuse harm.
 10. A society grows through differences it can accommodate.
 
-## 16. The First Taste of Failure
+## 16. The First Taste of Failure (தோல்வியின் முதல் அனுபவம்)
 
 **Central question:** How does an early failure reshape the way a person sees ability and effort?
 **Scope:** Disappointment after a first significant setback, the meaning assigned to mistakes, and recovery of willingness to try.
@@ -294,9 +294,9 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 
 ---
 
-# Part III — Youth and Identity (ages 17–24)
+# Part III — Youth and Identity (இளமையும் தனித்த அடையாளமும்) (ages 17–24)
 
-## 17. The Hunger for Freedom
+## 17. The Hunger for Freedom (விடுதலைக்கான வேட்கை)
 
 **Central question:** What does freedom mean when dependence gives way to self-direction?
 **Scope:** Autonomy, boundaries, responsibility for one's own time, and the urge to make choices without constant permission.
@@ -313,7 +313,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. A boundary can preserve a relationship.
 10. Freedom without reflection can become another form of captivity.
 
-## 18. The Search for Identity
+## 18. The Search for Identity (அடையாளத் தேடல்)
 
 **Central question:** How does a person discover who they are amid inherited labels and changing desires?
 **Scope:** Self-definition, roles, cultural identity, experimentation, and the difference between inner conviction and public image.
@@ -330,7 +330,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. Certainty about identity can arrive in stages.
 10. Becoming oneself is not a single final discovery.
 
-## 19. The Fire of Ambition
+## 19. The Fire of Ambition (இலட்சியத் தீ)
 
 **Central question:** How can the desire to accomplish something large be used without becoming its servant?
 **Scope:** Aspiration, sustained effort, goals, competitiveness, and the energy of imagining a future achievement.
@@ -347,7 +347,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. A goal may need revision as knowledge grows.
 10. Drive is most useful when values govern it.
 
-## 20. The Pursuit of Love
+## 20. The Pursuit of Love (காதலை நாடுதல்)
 
 **Central question:** How can romantic longing move toward connection without confusing desire with possession?
 **Scope:** Attraction, courtship, vulnerability, rejection, romantic imagination, and the uncertainty of approaching another person.
@@ -364,7 +364,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. Love grows through knowing, not projection alone.
 10. Another person's freedom is essential to genuine affection.
 
-## 21. The Making of Conviction
+## 21. The Making of Conviction (உறுதியான நம்பிக்கையின் உருவாக்கம்)
 
 **Central question:** How does a belief become a considered conviction rather than an inherited slogan?
 **Scope:** Values, evidence, moral judgement, and the gradual formation of principles that can withstand challenge.
@@ -381,7 +381,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. A conviction without humility can harden into dogma.
 10. Integrity joins belief to action.
 
-## 22. The Courage to Risk
+## 22. The Courage to Risk (இடரேற்கும் துணிவு)
 
 **Central question:** When is it worth acting despite uncertainty?
 **Scope:** Voluntary risk, experimentation with consequential possibilities, courage, fear, and the distinction between boldness and recklessness.
@@ -398,7 +398,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. Retreat can be a reasoned decision.
 10. Courage is measured by purpose, not spectacle.
 
-## 23. The Cost of Choice
+## 23. The Cost of Choice (தேர்வின் விலை)
 
 **Central question:** How should a person live with the alternatives they cannot choose?
 **Scope:** Trade-offs, opportunity costs, responsibility, and the grief or doubt that can follow a meaningful decision.
@@ -415,7 +415,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. Choosing one good may mean relinquishing another.
 10. Peace can come from owning a reasoned choice.
 
-## 24. The Illusion of Invulnerability
+## 24. The Illusion of Invulnerability (தன்னை வெல்ல முடியாதவன் எனும் மயக்கம்)
 
 **Central question:** Why does youth sometimes mistake possibility for immunity from consequence?
 **Scope:** Overconfidence, underestimated limits, physical and emotional risk, and the discovery that consequences apply even when one feels exceptional.
@@ -434,9 +434,9 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 
 ---
 
-# Part IV — Work and Partnership (ages 25–32)
+# Part IV — Work and Partnership (உழைப்பும் உறவிணைப்பும்) (ages 25–32)
 
-## 25. The Dignity of Work
+## 25. The Dignity of Work (உழைப்பின் மாண்பு)
 
 **Central question:** What makes work worthy beyond the reward it earns?
 **Scope:** Contribution, craft, effort, service, and respect for work whether or not it is prestigious.
@@ -453,7 +453,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. Craft joins competence with responsibility.
 10. A person is more than their occupation.
 
-## 26. The Choice of Vocation
+## 26. The Choice of Vocation (தொழில் தேர்வு)
 
 **Central question:** How can a person choose work that fits their abilities, needs, and values?
 **Scope:** Career direction, calling, livelihood, skill fit, and the negotiation between personal interest and practical constraint.
@@ -470,7 +470,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. A job can be a means, not an identity.
 10. A good choice fits the life around the work.
 
-## 27. The Measure of Money
+## 27. The Measure of Money (பணத்தின் அளவுகோல்)
 
 **Central question:** What role should money play in a life that needs both security and meaning?
 **Scope:** Money as resource, exchange, security, freedom, and a source of anxiety or distorted judgement.
@@ -487,7 +487,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. Enough depends partly on what one needs to protect.
 10. Financial choices are moral when they affect others.
 
-## 28. The Bond of Commitment
+## 28. The Bond of Commitment (உறுதிப்பாட்டின் பிணைப்பு)
 
 **Central question:** What makes a chosen commitment durable without making it a prison?
 **Scope:** Promises, shared plans, loyalty, reliability, and the ongoing work of maintaining a chosen bond.
@@ -504,7 +504,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. Staying is not always the highest virtue.
 10. Leaving honestly can respect what once mattered.
 
-## 29. The Foundation of Trust
+## 29. The Foundation of Trust (நம்பிக்கையின் அடித்தளம்)
 
 **Central question:** How is trust earned, damaged, and restored in everyday relationships?
 **Scope:** Credibility, honesty, consistency, confidentiality, and the fragile expectations that let people rely on one another.
@@ -521,7 +521,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. Suspicion can protect and also imprison.
 10. Trust is earned by conduct, not requested as a favour.
 
-## 30. The Art of Compromise
+## 30. The Art of Compromise (சமரசக் கலை)
 
 **Central question:** How can people resolve differences without abandoning what matters most?
 **Scope:** Negotiation, accommodation, shared decisions, and distinguishing flexible preferences from essential principles.
@@ -538,7 +538,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. Some boundaries cannot be negotiated away.
 10. Good compromise preserves the relationship and the truth.
 
-## 31. The Temptation of Status
+## 31. The Temptation of Status (அந்தஸ்தின் கவர்ச்சி)
 
 **Central question:** Why do people seek rank and recognition, and what does that pursuit cost?
 **Scope:** Prestige, titles, social comparison, external validation, and the desire to be seen as important.
@@ -555,7 +555,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. Refusing a contest can be a form of freedom.
 10. Worth persists when the audience leaves.
 
-## 32. The Price of Progress
+## 32. The Price of Progress (முன்னேற்றத்தின் விலை)
 
 **Central question:** What is lost when improvement is measured only by what it produces?
 **Scope:** Development, modernisation, efficiency, innovation, and unintended costs borne by people or environments.
@@ -574,9 +574,9 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 
 ---
 
-# Part V — Family and Responsibility (ages 33–40)
+# Part V — Family and Responsibility (குடும்பமும் பொறுப்பும்) (ages 33–40)
 
-## 33. The Meaning of Care
+## 33. The Meaning of Care (அக்கறையின் பொருள்)
 
 **Central question:** What does it mean to care well for another person over time?
 **Scope:** Attentive support, practical caregiving, emotional labour, boundaries, and care that responds to a person's actual needs.
@@ -593,7 +593,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. Receiving care can be difficult for the proud.
 10. Sustainable care requires more than one person's sacrifice.
 
-## 34. The Many Forms of Family
+## 34. The Many Forms of Family (குடும்பத்தின் பல வடிவங்கள்)
 
 **Central question:** What makes people family when relationships do not follow one prescribed pattern?
 **Scope:** Chosen family, kinship, households, friendship-based support, estrangement, and belonging beyond conventional definitions.
@@ -610,7 +610,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. Different family forms can offer equal depth.
 10. Care and respect matter more than a label alone.
 
-## 35. The Burden of Duty
+## 35. The Burden of Duty (கடமையின் சுமை)
 
 **Central question:** When does responsibility express integrity, and when does it become an unfair burden?
 **Scope:** Obligations, role expectations, conflicting duties, sacrifice, and the difficulty of saying no to legitimate claims.
@@ -627,7 +627,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. Tradition alone does not settle what is owed.
 10. Integrity includes examining the demands one accepts.
 
-## 36. The Balance of Ambition
+## 36. The Balance of Ambition (இலட்சியத்தின் சமநிலை)
 
 **Central question:** How can personal aspiration coexist with the claims of relationships and everyday life?
 **Scope:** The allocation of time and attention between goals, relationships, health, and responsibilities.
@@ -644,7 +644,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. A sustainable pace protects future choices.
 10. A good life is not a single-axis achievement.
 
-## 37. The Practice of Empathy
+## 37. The Practice of Empathy (பரிவைப் பழகுதல்)
 
 **Central question:** How can we understand another person's experience without assuming we fully know it?
 **Scope:** Perspective-taking, emotional recognition, curiosity about different lives, and the limits of imagining another's position.
@@ -661,7 +661,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. Difference invites curiosity, not diagnosis.
 10. Understanding deepens when we admit what we cannot know.
 
-## 38. The Ethics of Authority
+## 38. The Ethics of Authority (அதிகாரத்தின் அறநெறி)
 
 **Central question:** What makes the use of power over others legitimate and humane?
 **Scope:** Leadership, parenting, management, institutions, rules, accountability, and the moral limits of authority.
@@ -678,7 +678,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. Admitting error need not destroy legitimate leadership.
 10. The measure of authority is partly the freedom it leaves others.
 
-## 39. The Generosity of Giving
+## 39. The Generosity of Giving (கொடையின் பெருந்தன்மை)
 
 **Central question:** How can giving help others without making generosity a performance or a form of control?
 **Scope:** Gifts, service, charity, sharing resources, motives for giving, and the dignity of recipients.
@@ -695,7 +695,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. Giving time can cost more than giving objects.
 10. Generosity is strongest when it leaves freedom intact.
 
-## 40. The Legacy of Example
+## 40. The Legacy of Example (முன்னுதாரணத்தின் மரபு)
 
 **Central question:** What do our ordinary actions teach those who observe us?
 **Scope:** Modelling behaviour, intergenerational influence, the gap between stated values and lived example, and the traces people carry forward.
@@ -714,9 +714,9 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 
 ---
 
-# Part VI — Achievement and Reflection (ages 41–48)
+# Part VI — Achievement and Reflection (சாதனையும் சிந்தனை மீளாய்வும்) (ages 41–48)
 
-## 41. The Nature of Success
+## 41. The Nature of Success (வெற்றியின் இயல்பு)
 
 **Central question:** Who gets to define success, and how should that definition change?
 **Scope:** Achievement, fulfilment, public measures, private satisfaction, and the reassessment of what counts as a life well lived.
@@ -733,7 +733,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. A worthwhile effort can fail by its original measure.
 10. Success should be judged against values one can defend.
 
-## 42. The Seduction of Wealth
+## 42. The Seduction of Wealth (செல்வத்தின் மயக்கம்)
 
 **Central question:** How can wealth promise freedom while quietly changing desire and judgement?
 **Scope:** Accumulation, attachment, greed, security turning into hoarding, and the psychological pull of having more.
@@ -750,7 +750,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. Fear of decline may erase enjoyment of abundance.
 10. Possession is not the same as freedom.
 
-## 43. The Burden of Power
+## 43. The Burden of Power (அதிகாரத்தின் சுமை)
 
 **Central question:** How does power change the person who holds it and the people around them?
 **Scope:** Influence, control over resources or decisions, isolation at the top, temptation, and the responsibility created by unequal power.
@@ -767,7 +767,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. Restraint is part of responsible strength.
 10. The test of power is how it treats those who cannot repay it.
 
-## 44. The Wisdom of Failure
+## 44. The Wisdom of Failure (தோல்வியின் ஞானம்)
 
 **Central question:** What can failure teach after the first shock has passed?
 **Scope:** Mature reflection on mistakes, unsuccessful plans, adaptation, and the ability to extract insight without romanticising pain.
@@ -784,7 +784,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. Learning does not make every loss worthwhile.
 10. Wisdom keeps the lesson without worshipping the wound.
 
-## 45. The Weight of Regret
+## 45. The Weight of Regret (வருத்தத்தின் சுமை)
 
 **Central question:** How should we live with choices or omissions that cannot be undone?
 **Scope:** Remorse, missed opportunities, harm caused, counterfactual thinking, and the difference between repairable guilt and unproductive self-punishment.
@@ -801,7 +801,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. Forgiveness of self is not denial of consequence.
 10. Acceptance begins where revision ends.
 
-## 46. The Limits of Control
+## 46. The Limits of Control (கட்டுப்பாட்டின் எல்லைகள்)
 
 **Central question:** How can a person act responsibly without pretending to control every outcome?
 **Scope:** Uncertainty, contingency, planning limits, and the distinction between influence and control.
@@ -818,7 +818,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. A boundary marks where influence ends.
 10. Peace grows when effort is separated from omnipotence.
 
-## 47. The Examination of Self
+## 47. The Examination of Self (தன்னாய்வு)
 
 **Central question:** What does honest self-examination reveal that self-image conceals?
 **Scope:** Motives, contradictions, blind spots, self-deception, and the difficult practice of observing oneself without either vanity or contempt.
@@ -835,7 +835,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. Self-criticism can become another form of vanity.
 10. Examination is useful when it changes conduct.
 
-## 48. The Meaning of Enough
+## 48. The Meaning of Enough (போதும் என்பதன் பொருள்)
 
 **Central question:** How can a person recognise sufficiency in a culture that continually asks for more?
 **Scope:** Contentment, thresholds of sufficiency, the difference between healthy aspiration and endless accumulation, and deliberate limits.
@@ -854,9 +854,9 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 
 ---
 
-# Part VII — Change and Reassessment (ages 49–56)
+# Part VII — Change and Reassessment (மாற்றமும் மறுமதிப்பீடும்) (ages 49–56)
 
-## 49. The Passage of Time
+## 49. The Passage of Time (காலத்தின் கடத்தல்)
 
 **Central question:** How does awareness of time alter the meaning of ordinary days?
 **Scope:** Aging, impermanence, memory of elapsed years, changing pace, and the way time becomes more visible through loss and change.
@@ -873,7 +873,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. Urgency can clarify or distort priorities.
 10. A day gains meaning through how it is inhabited.
 
-## 50. The Art of Letting Go
+## 50. The Art of Letting Go (விடுவித்தலின் கலை)
 
 **Central question:** What must be released when holding on no longer serves life?
 **Scope:** Releasing possessions, roles, expectations, attachments, and identities whose time has passed.
@@ -890,7 +890,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. Letting go is often gradual.
 10. Space appears when every old claim is not carried forward.
 
-## 51. The Courage to Begin Again
+## 51. The Courage to Begin Again (மீண்டும் தொடங்கும் துணிவு)
 
 **Central question:** How can a person start anew after a path closes or a former identity fails?
 **Scope:** Reinvention, restarting after disruption, learning as a beginner again, and the vulnerability of entering an unfamiliar chapter.
@@ -907,7 +907,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. The first step rarely resolves the whole future.
 10. Renewal asks for courage and patience together.
 
-## 52. The Reordering of Desire
+## 52. The Reordering of Desire (ஆசைகளை மறுவரிசைப்படுத்துதல்)
 
 **Central question:** How do priorities change when old wants lose their hold?
 **Scope:** Revising what one wants, distinguishing inherited goals from current needs, and discovering new sources of satisfaction.
@@ -924,7 +924,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. Desire can become less about acquisition and more about attention.
 10. Maturity may change the question rather than supply an answer.
 
-## 53. The Reconciliation of Memory
+## 53. The Reconciliation of Memory (நினைவுகளுடன் சமரசம்)
 
 **Central question:** How can a person make peace with a past that contains both tenderness and pain?
 **Scope:** Revisiting memories, changing interpretations, holding conflicting truths, and integrating the past without pretending it was simple.
@@ -941,7 +941,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. Integration is not erasure.
 10. Peace can coexist with unresolved questions.
 
-## 54. The Freedom of Forgiveness
+## 54. The Freedom of Forgiveness (மன்னிப்பின் விடுதலை)
 
 **Central question:** What can forgiveness release, and what must it never be forced to excuse?
 **Scope:** Forgiveness after injury, resentment, accountability, boundaries, and the distinction between inner release and restored relationship.
@@ -958,7 +958,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. A person can choose distance without hatred.
 10. Freedom comes from not letting injury dictate every future act.
 
-## 55. The Changing Self
+## 55. The Changing Self (மாறும் நான்)
 
 **Central question:** What remains continuous when a person no longer thinks or lives as before?
 **Scope:** Personal change across years, changing beliefs and roles, continuity, and the tension between growth and loyalty to a former self.
@@ -975,7 +975,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. Change can be chosen or imposed.
 10. Identity is a living account, not a sealed record.
 
-## 56. The Unfinished Life
+## 56. The Unfinished Life (முடிவுறாத வாழ்வு)
 
 **Central question:** How can a person live well without completing every ambition or resolving every question?
 **Scope:** Incompleteness, abandoned plans, open questions, unrealised possibilities, and the value of a life that never becomes a finished project.
@@ -994,9 +994,9 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 
 ---
 
-# Part VIII — Wisdom and Completion (ages 57–64)
+# Part VIII — Wisdom and Completion (ஞானமும் நிறைவும்) (ages 57–64)
 
-## 57. The Harvest of Experience
+## 57. The Harvest of Experience (அனுபவத்தின் அறுவடை)
 
 **Central question:** What can accumulated experience offer when it is examined rather than merely counted?
 **Scope:** Patterns recognised over years, practical judgement, learning from repeated encounters, and the value and limits of experience.
@@ -1013,7 +1013,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. The same event teaches different people different things.
 10. The harvest is insight, not simply years.
 
-## 58. The Humility of Wisdom
+## 58. The Humility of Wisdom (ஞானத்தின் பணிவு)
 
 **Central question:** How does genuine wisdom remain open to what it does not know?
 **Scope:** Intellectual humility, proportionate confidence, openness to correction, and the difference between knowledge and pretence.
@@ -1030,7 +1030,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. Humility is not self-belittlement.
 10. Wisdom leaves room for surprise.
 
-## 59. The Simplicity of Living
+## 59. The Simplicity of Living (எளிமையாக வாழ்தல்)
 
 **Central question:** What becomes possible when life is relieved of needless complexity?
 **Scope:** Simplicity, attention, ordinary pleasures, fewer distractions, and the deliberate choice to remove what does not serve.
@@ -1047,7 +1047,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. Removing a distraction may reveal an unresolved need.
 10. A simple life can still contain rich thought.
 
-## 60. The Healing of Relationships
+## 60. The Healing of Relationships (உறவுகளை ஆற்றுதல்)
 
 **Central question:** How can relationships mend after distance, conflict, or years of neglect?
 **Scope:** Repair, renewed conversation, changed behaviour, and the slow rebuilding of connection where both sides have room to participate.
@@ -1064,7 +1064,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. Repair cannot be completed by one person alone.
 10. A healed bond remembers without being ruled by the wound.
 
-## 61. The Stewardship of Life
+## 61. The Stewardship of Life (வாழ்வைப் பொறுப்புடன் பேணுதல்)
 
 **Central question:** What does it mean to care responsibly for the life, resources, and influence entrusted to us?
 **Scope:** Stewardship of health, time, resources, shared environments, knowledge, and responsibilities that extend beyond personal possession.
@@ -1081,7 +1081,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. Responsibility should match the power to affect outcomes.
 10. A life is partly measured by what it helps sustain.
 
-## 62. The Acceptance of Change
+## 62. The Acceptance of Change (மாற்றத்தை ஏற்றல்)
 
 **Central question:** How can a person meet change without denial or surrendering all agency?
 **Scope:** Accepting altered circumstances, losses, new capacities, and realities that cannot be restored to their former state.
@@ -1098,7 +1098,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. Reality is not negotiated by refusing to name it.
 10. Acceptance makes action possible where denial stalls it.
 
-## 63. The Preparation for Departure
+## 63. The Preparation for Departure (பிரிவுக்கான ஆயத்தம்)
 
 **Central question:** How can a person prepare to leave without turning the present into a waiting room?
 **Scope:** Practical and emotional preparation for eventual departure, putting affairs in order, saying what matters, and facing finitude with care.
@@ -1115,7 +1115,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. A person's wishes should be discussed, not merely assumed.
 10. Preparing to leave can be part of living responsibly.
 
-## 64. The Completion of a Journey
+## 64. The Completion of a Journey (பயணத்தின் நிறைவு)
 
 **Central question:** What does completion mean when a life cannot be reduced to a checklist?
 **Scope:** Looking back across a long arc, recognising fulfilled commitments, accepting limits, and discerning what can reasonably be called complete.
@@ -1136,7 +1136,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 
 # Part IX — Bliss, Death and Ultimate Truth (beyond 64)
 
-## 65. The Freedom Beyond Want
+## 65. The Freedom Beyond Want (ஆசைக்கு அப்பாலான விடுதலை)
 
 **Central question:** What kind of freedom becomes possible when desire no longer governs every movement?
 **Scope:** Non-attachment, release from compulsive wanting, inward sufficiency, and the possibility of peace beyond acquisition.
@@ -1153,7 +1153,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. Gratitude and aspiration can coexist without domination.
 10. The absence of craving may reveal what was already present.
 
-## 66. The Stillness Beyond Striving
+## 66. The Stillness Beyond Striving (முயற்சிக்கு அப்பாலான அமைதி)
 
 **Central question:** What remains when the need to achieve, explain, or improve falls quiet?
 **Scope:** Stillness, contemplation, rest from striving, silence beyond performance, and experiences not organised around goals.
@@ -1170,7 +1170,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. The world continues without our constant intervention.
 10. Some experiences lose their meaning when turned into goals.
 
-## 67. The Dissolution of Ego
+## 67. The Dissolution of Ego (அகந்தையின் கரைதல்)
 
 **Central question:** What changes when the self is no longer treated as the centre of every experience?
 **Scope:** Ego, self-importance, identification with roles, and the loosening of the boundary between personal image and wider life.
@@ -1187,7 +1187,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. The need to be right can obstruct understanding.
 10. A quieter self-image can make room for a larger world.
 
-## 68. The Mystery of Consciousness
+## 68. The Mystery of Consciousness (விழிப்புணர்வின் மர்மம்)
 
 **Central question:** What can we honestly say about the fact that experience is present at all?
 **Scope:** Awareness, subjective experience, the limits of explanation, and the difference between observation, theory, and ultimate claims.
@@ -1204,7 +1204,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. A compelling metaphor is not proof.
 10. Honesty may require leaving the deepest question open.
 
-## 69. The Shadow of Death
+## 69. The Shadow of Death (மரணத்தின் நிழல்)
 
 **Central question:** How does mortality shape fear, meaning, and the way life is lived?
 **Scope:** Death's inevitability, fear and grief, the limits of knowledge, and the way mortality changes present priorities.
@@ -1221,7 +1221,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. Acceptance need not mean absence of sorrow.
 10. The unknown deserves humility rather than invented certainty.
 
-## 70. The Persistence of Legacy
+## 70. The Persistence of Legacy (எஞ்சும் மரபின் தொடர்ச்சி)
 
 **Central question:** What continues through others after a life has ended?
 **Scope:** Memory, influence, works, relationships, transmitted knowledge, and the unpredictable survival of a person's effects.
@@ -1238,7 +1238,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. A good legacy may consist of capacities others carry forward.
 10. Continuity belongs partly to those who remember and act.
 
-## 71. The Threshold of the Unknown
+## 71. The Threshold of the Unknown (அறியாததின் வாசல்)
 
 **Central question:** How should a person stand before what cannot yet be known or resolved?
 **Scope:** Uncertainty at the edge of knowledge, mystery, humility before the future, and the human impulse to fill gaps with explanations.
@@ -1255,7 +1255,7 @@ The age ranges indicate the book's organising perspective, not a limit on who ma
 9. Different explanations should be weighed by their grounds.
 10. Humility leaves a door open without promising what lies beyond.
 
-## 72. The Ultimate Truth
+## 72. The Ultimate Truth (மெய்யுண்மை)
 
 **Central question:** What, if anything, can be said about the deepest truth of existence without confusing conviction with proof?
 **Scope:** Final philosophical inquiry into truth, reality, meaning, being, and the limits of language and belief.
