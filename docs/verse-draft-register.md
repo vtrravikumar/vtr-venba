@@ -1,0 +1,35 @@
+# Verse Draft Register
+
+**Purpose:** Track the editorial state of paired compositions without inserting editorial notes into the published verse text.
+
+**Status vocabulary:**
+- **Author-approved wording:** wording retained at the author's request; technical validation may remain pending.
+- **First draft:** a working composition, not yet approved or validated.
+- **Prosody review needed:** Tamil wording has not yet been checked fully for அசை, சீர், தளை, line structure, and ஈற்றுச்சீர் under the documented traditional rules.
+- **English-form review needed:** the English verse has not yet been assessed against a separately documented English compositional method.
+
+## Chapter 65 — The Freedom Beyond Want
+
+| Pair | Shared insight | Tamil status | English status |
+|---|---|---|---|
+| 65.1 | People may shape our lives without becoming possessions; non-attachment is not indifference. | Author-approved wording; prosody review needed | Author-approved wording; English-form review needed |
+| 65.2 | Fulfilment can give rise to further wanting. | First draft; prosody review needed | First draft; English-form review needed |
+| 65.3 | Seeing a desire clearly is an initial freedom from its hidden rule. | First draft; prosody review needed | First draft; English-form review needed |
+| 65.4 | Possessions cannot guarantee inward peace. | First draft; prosody review needed | First draft; English-form review needed |
+| 65.5 | A desire can be noticed without being obeyed. | First draft; prosody review needed | First draft; English-form review needed |
+| 65.6 | Letting go need not mean rejecting the world or love. | First draft; prosody review needed | First draft; English-form review needed |
+| 65.7 | Less compulsion can make room for genuine choice. | First draft; prosody review needed | First draft; English-form review needed |
+| 65.8 | Inward peace does not remove the need to confront injustice. | First draft; prosody review needed | First draft; English-form review needed |
+| 65.9 | Gratitude and aspiration can coexist. | First draft; prosody review needed | First draft; English-form review needed |
+| 65.10 | As craving quiets, the value of what is already present may become visible. | First draft; prosody review needed | First draft; English-form review needed |
+
+## Editorial gate before a chapter is treated as complete
+
+- Review the shared insight and distinctness of all ten pairs.
+- Read the Tamil aloud and validate every verse against authoritative Kural Venba rules; do not infer validity from line length alone.
+- Review Tamil idiom and grammar independently of metre.
+- Define and apply the English compositional method; do not describe English verses as traditional Tamil Venba.
+- Revise awkward language rather than preserving a line merely because it appears to fit a pattern.
+- Update statuses only after the relevant review has actually occurred.
+
+**Current state:** Chapter 65 has ten working pairs. Only Pair 65.1 has author-approved wording; all Tamil prosody and English-form checks remain pending. Pairs 65.2–65.10 are first drafts, not validated compositions.
