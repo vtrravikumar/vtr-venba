@@ -3,7 +3,7 @@
 **Author:** V.T.R. Ravi Kumar  
 **Working repository name:** `vtr-venba`  
 **Final book title:** Undecided  
-**Status:** Architecture approved; manuscript development not yet started
+**Status:** Architecture approved; manuscript development in progress
 
 ## Purpose
 
@@ -12,6 +12,19 @@ This repository holds the manuscript and editorial documentation for an original
 Tamil and English have equal literary standing in this project. Each central insight will be expressed in a Tamil composition and an English companion composition. The English is not merely a subordinate translation of the Tamil, nor is the Tamil merely a translation of English. The two versions should be faithful to a shared insight while using the expressive resources of their own languages.
 
 This is not a translation of the Thirukkural and must not be presented as one. The work will explore human thought and experience across the modern period, with a broad horizon from 1900 to 2027. Its aim is to make the concerns of each chapter recognisable to readers with different lives, choices, relationships, and beliefs.
+
+## Remote-only working agreement
+
+**GitHub is the working environment for this project until the manuscript is final.**
+
+- Work directly against files in this remote repository.
+- Do not create or maintain a local clone or local working copy during manuscript development.
+- Create, update, and review project documents and manuscript files through GitHub.
+- Commit meaningful changes and verify them by reading the files back from the remote repository.
+- Keep the project focused on manuscript, research, and editorial work; do not introduce local build or publishing-engine work during this phase.
+- Only consider a local pull/export when the manuscript is ready for final production through the VTR Press workflow, or if the author explicitly changes this agreement.
+
+This is a project-specific exception to the local-repository workflow used for other projects.
 
 ## Fixed architecture
 
@@ -22,7 +35,7 @@ This is not a translation of the Thirukkural and must not be presented as one. T
 
 The first eight Parts follow a conceptual progression through eight-year life stages, from ages 0–8 through 57–64. Part IX moves beyond age-based stages into bliss, detachment, death, the unknown, and ultimate truth. These stages are a philosophical organising device, not a claim that every life follows the same path.
 
-The approved chapter list and stage framework are documented in [the architecture](docs/architecture.md).
+The approved chapter list and stage framework are documented in [the architecture](docs/architecture.md). The working scopes and insight seeds for all 72 Chapters are in the [Chapter Scope Register](docs/chapter-scope-register.md).
 
 ## Editorial commitments
 
@@ -37,6 +50,7 @@ The approved chapter list and stage framework are documented in [the architectur
 ## Repository layout
 
 - `docs/architecture.md` — approved Parts and Chapter structure.
+- `docs/chapter-scope-register.md` — working scope statements and provisional insight seeds for all 72 Chapters.
 - `docs/editorial-principles.md` — thematic, bilingual, linguistic, and validation principles.
 - `manuscript/front-matter/` — title and preliminary pages, developed later.
 - `manuscript/parts/` — manuscript content organised by Part.
@@ -47,8 +61,8 @@ The manuscript is intended to follow the author's VTR Press workflow and convent
 
 ## Current next steps
 
-1. Keep the architecture stable and review chapter boundaries for overlap.
-2. Establish a chapter-by-chapter topic register before composing verses.
+1. Review the 72-Chapter scope register in batches, beginning with Part I.
+2. Resolve overlaps and approve the distinct territory of each Chapter.
 3. Research traditional Tamil Kural Venba and document a defensible, separate approach to English composition and prosodic evaluation.
 4. Develop the front matter and Parts incrementally.
 5. Draft and review paired compositions only after the editorial groundwork is ready.
