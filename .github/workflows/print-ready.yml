@@ -55,6 +55,7 @@ jobs:
         run: |
           python - <<'PY'
           from pathlib import Path
+          import re
 
           master_path = Path("manuscript.md")
           master = master_path.read_text(encoding="utf-8")
@@ -135,10 +136,10 @@ jobs:
 
             # Temporary CI target for the vtr-venba manuscript.
             # This entry exists only in the runner and is not committed to VTR Press.
-            vtr-venba:
-              bookpath: ../book
-              cover: ../book/assets/cover/.ci-working-proof-cover.png
-              output_name: vtr-venba
+          vtr-venba:
+            bookpath: ../book
+            cover: ../book/assets/cover/.ci-working-proof-cover.png
+            output_name: vtr-venba
           YAML
           python - <<'PY'
           import yaml
