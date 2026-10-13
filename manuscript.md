@@ -60,7 +60,7 @@ The pages that follow are an attempt to look carefully, in two languages, at the
 
 ## Part IX — Bliss, Death and Ultimate Truth (பேரின்பம், மரணம், மெய்யுண்மை)
 
-### Chapter 65 — The Freedom Beyond Want (ஆசைக்கு அப்பாலான விடுதலை)
+### Chapter 65 — The Freedom Beyond Want (வேட்கை கடந்த விடுதலை)
 
 #### Pair 65.1 — Companions, not possessions
 

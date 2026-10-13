@@ -8,7 +8,7 @@
 - **Prosody review needed:** Tamil wording has not yet been checked fully for அசை, சீர், தளை, line structure, and ஈற்றுச்சீர் under the documented traditional rules.
 - **English-form review needed:** the English verse has not yet been assessed against a separately documented English compositional method.
 
-## Chapter 65 — The Freedom Beyond Want (ஆசைக்கு அப்பாலான விடுதலை)
+## Chapter 65 — The Freedom Beyond Want (வேட்கை கடந்த விடுதலை)
 
 | Pair | Shared insight | Tamil status | English status |
 |---|---|---|---|
