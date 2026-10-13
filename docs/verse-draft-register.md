@@ -51,6 +51,21 @@
 
 
 
+## Chapter 67 — The Dissolution of Ego (அகந்தையின் கரைதல்)
+
+| Pair | Shared insight | Tamil status | English status |
+|---|---|---|---|
+| 67.1 | A role or title does not contain the whole person. | First draft; prosody review needed | First draft; English-form review needed |
+| 67.2 | Defensiveness may protect pride rather than truth. | First draft; prosody review needed | First draft; English-form review needed |
+| 67.3 | Self-centred perception narrows one's view of the world. | First draft; prosody review needed | First draft; English-form review needed |
+| 67.4 | Humility can widen perception rather than diminish it. | First draft; prosody review needed | First draft; English-form review needed |
+| 67.5 | Self-absorption can obscure the suffering and worth of others. | First draft; prosody review needed | First draft; English-form review needed |
+| 67.6 | Superiority and inferiority can both keep the self at the centre. | First draft; prosody review needed | First draft; English-form review needed |
+| 67.7 | Releasing an image of oneself does not remove responsibility. | First draft; prosody review needed | First draft; English-form review needed |
+| 67.8 | Life depends on relationships and conditions beyond the isolated self. | First draft; prosody review needed | First draft; English-form review needed |
+| 67.9 | The need to win can prevent genuine understanding. | First draft; prosody review needed | First draft; English-form review needed |
+| 67.10 | A less dominant self-image can make room for a wider world. | First draft; prosody review needed | First draft; English-form review needed |
+
 ## Editorial note — current chapter batch
 
-Chapter 65 remains a first-draft set. Pair 65.3 has been flagged for a structural revision because its current second line does not yet satisfy the expected three-seer line. Chapter 66 is now drafted as a complete working batch. Its Tamil verses require a proportionate prosody pass before any claim of formal validation; English-form review also remains pending.
+Chapter 65 remains a first-draft set. Pair 65.3 has been flagged for a structural revision because its current second line does not yet satisfy the expected three-seer line. Chapter 66 is drafted as a complete working batch. Chapter 67 is now added as a first-draft batch; its Tamil verses require a proportionate review for literary idiom and traditional prosody, and the English verses require review against the separately documented English form. No formal validation is claimed for either chapter.

@@ -243,3 +243,125 @@ Some things unfold when we let them be.
 Turn every wonder into a goal,
 And even joy begins to keep a score.
 :::
+
+### Chapter 67 — The Dissolution of Ego (அகந்தையின் கரைதல்)
+
+#### Pair 67.1 — A role is not the whole self
+
+:::verse
+பதவிகள் மாறினும் பண்பொளி மாறாது
+பெயரால் அளவிலர் மனிதர்
+:::
+
+:::verse
+The office changes; character outlives the name;
+No title contains the whole of a life.
+:::
+
+#### Pair 67.2 — Pride may hide behind refusal
+
+:::verse
+கேள்வியை மறுக்கும் செவியினுள் காக்கப்படுவது
+உண்மையன்று தன்மானம்
+:::
+
+:::verse
+The ear that turns from every searching word
+May guard its pride, not truth.
+:::
+
+#### Pair 67.3 — The self is not the measure of all things
+
+:::verse
+நிகழ்வெல்லாம் தன்னை நினைத்திடும் நெஞ்சம்
+உலகத்தின் அகலம் அறியாது
+:::
+
+:::verse
+A mind that makes itself the measure of all things
+Cannot behold the world's full breadth.
+:::
+
+#### Pair 67.4 — Humility widens the view
+
+:::verse
+தாழ்வுறும் உள்ளம் தளர்வதில்லை; அதனால்
+திறக்கின்றது உலகம்
+:::
+
+:::verse
+Humility does not diminish sight;
+It opens farther horizons.
+:::
+
+#### Pair 67.5 — Attention beyond the self
+
+:::verse
+தன்னையே நோக்கும் மனக்கண் மறைக்குமே
+பிறர்துயர் பிறரொளி
+:::
+
+:::verse
+Eyes fixed upon the self grow blind
+To another's grief, another's radiance.
+:::
+
+#### Pair 67.6 — Superiority and shame share a centre
+
+:::verse
+உயர்வெனும் மயக்கமும் தாழ்வெனும் மயக்கமும்
+தன்னையே சுற்றும் வலை
+:::
+
+:::verse
+The throne of superiority, the pit of shame—
+Both keep the self at the centre.
+:::
+
+#### Pair 67.7 — Responsibility survives the image
+
+:::verse
+புகழுரு நீங்கினும் பொறுப்புகள் நீங்கா
+செய்கையே சான்றாகும்
+:::
+
+:::verse
+Let the image fall; the duty remains;
+Deeds, not display, bear witness.
+:::
+
+#### Pair 67.8 — Life is held in relation
+
+:::verse
+தனித்தெனத் தோன்றும் தழலுக்கும் காற்றுண்டு
+உயிர்கள் உறவால் நிலை
+:::
+
+:::verse
+No flame stands alone against the wind;
+Life holds by ties it cannot see.
+:::
+
+#### Pair 67.9 — The need to win can close the ear
+
+:::verse
+வெல்லுதலே குறியெனில் கேட்கும் செவி மூடும்
+உண்மை அணுகாது
+:::
+
+:::verse
+When victory matters more than understanding,
+The listening ear closes before truth arrives.
+:::
+
+#### Pair 67.10 — A quieter self makes room for the world
+
+:::verse
+தன்னுரு மங்கத் தரணியின் விரிவு
+உள்ளத்தில் இடம்பெரும்
+:::
+
+:::verse
+As the self-image recedes, the world grows vast
+And finds a wider chamber in the heart.
+:::
