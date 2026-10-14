@@ -2518,11 +2518,9 @@ Can make each chosen hour more fully ours.
 
 ## Part IV — Work and Partnership
 # உழைப்பும் உறவிணைப்பும்
-*Ages 25–32 · Chapters 25–32 · First writing pass*
+### The Dignity of Work (உழைப்பின் மாண்பு)
 
 This Part considers the work by which we contribute, the livelihoods we choose, the money we use, and the bonds through which we learn to trust, negotiate, seek recognition, and measure progress. These are paired literary drafts, not yet formally validated for Tamil குறள் வெண்பா prosody or the independent English form. As agreed, those reviews will wait until all nine Parts are drafted.
-
-### The Dignity of Work (உழைப்பின் மாண்பு)
 
 #### Pair 25.1 — Useful work can be quiet and unseen
 :::verse
@@ -3338,20 +3336,11 @@ No progress is complete while voices fade;
 A better world must hear those it would change.
 :::
 
----
-
-## Part IV — first writing pass complete
-
-Part IV contains eight Chapters and eighty paired working drafts. Author approval is pending. Formal Tamil குறள் வெண்பா validation and the independent English-form review are intentionally deferred until all nine Parts are drafted, in accordance with the agreed workflow.
-
-
 ## Part V — Family and Responsibility
 # குடும்பமும் பொறுப்பும்
-*Ages 33–40 · Chapters 33–40 · First writing pass*
+### The Meaning of Care (அக்கறையின் பொருள்)
 
 This Part turns to the many ways lives are bound together: care, family, duty, ambition, empathy, authority, generosity, and the example left in ordinary conduct. These paired compositions are working literary drafts. As agreed, formal Tamil குறள் வெண்பா prosody and the independent English-form review will wait until all nine Parts are drafted.
-
-### The Meaning of Care (அக்கறையின் பொருள்)
 
 #### Pair 33.1 — Care begins by noticing actual need
 :::verse
@@ -4167,20 +4156,11 @@ The example left is shaped in common hours;
 No ordinary moment is entirely small.
 :::
 
----
-
-## Part V — first writing pass complete
-
-Part V contains eight Chapters and eighty paired working drafts. Author approval is pending. Formal Tamil குறள் வெண்பா validation and the independent English-form review are intentionally deferred until all nine Parts are drafted, in accordance with the agreed workflow.
-
-
 ## Part VI — Success, Power and Self-Examination
 # வெற்றி, அதிகாரம், தன்னாய்வு
-*Ages 41–48 · Chapters 41–48 · First writing pass*
+### The Nature of Success (வெற்றியின் இயல்பு)
 
 This Part examines the measures by which we judge a life, the attractions and burdens of wealth and power, the lessons of failure and regret, the limits of control, the honesty of self-examination, and the difficult art of recognising enough. These paired compositions are working literary drafts. As agreed, formal Tamil குறள் வெண்பா prosody and the independent English-form review will wait until all nine Parts are drafted.
-
-### The Nature of Success (வெற்றியின் இயல்பு)
 
 #### Pair 41.1 — Public measures can miss private triumphs
 :::verse
@@ -5001,11 +4981,9 @@ Turn then toward life, and meet it fully here.
 
 ## Part VII — Change, Memory and Renewal
 # மாற்றம், நினைவு, புதுப்பிறப்பு
-*Ages 49–56 · Chapters 49–56 · First writing pass*
+### The Passage of Time (காலத்தின் கடத்தல்)
 
 This Part turns toward the changing shape of later life: time passing, old attachments loosening, new beginnings, reordered desires, the reconciliation of memory, forgiveness, a self that continues to change, and the dignity of a life that remains unfinished. These paired compositions are working literary drafts. As agreed, formal Tamil குறள் வெண்பா prosody and the independent English-form review will wait until all nine Parts are drafted.
-
-### The Passage of Time (காலத்தின் கடத்தல்)
 
 #### Pair 49.1 — Time is noticed through what changes
 :::verse
