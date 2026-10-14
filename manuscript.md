@@ -303,6 +303,7 @@ Some things unfold when we let them be.
 Turn every wonder into a goal,
 And even joy begins to keep a score.
 :::
+
 ### Chapter 67 — The Dissolution of Ego (அகந்தையின் கரைதல்)
 
 #### Pair 67.1 — A role is not the whole self
@@ -547,7 +548,6 @@ Before the deepest question, bow the mind;
 Let honest seeking leave the door unclosed.
 :::
 
-
 ### Chapter 69 — The Shadow of Death (மரணத்தின் நிழல்)
 
 #### Pair 69.1 — The day is precious because it passes
@@ -669,7 +669,6 @@ The unknown need not darken this clear day.
 Let goodness live in those who journey on;
 Then even farewell leaves a lamp aglow.
 :::
-
 
 ### Chapter 70 — The Persistence of Legacy (எஞ்சும் மரபின் தொடர்ச்சி)
 
