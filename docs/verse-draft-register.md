@@ -669,3 +669,132 @@ All pairs below are first drafts for author review. Formal Tamil prosody and the
 ## Editorial note — Part IV, complete first writing pass
 
 Part IV contains eight Chapters and eighty paired working drafts. Author approval is pending. Formal Tamil குறள் வெண்பா validation and the independent English-form review remain deferred until all nine Parts are drafted.
+
+
+## Part V — Family and Responsibility: first writing pass
+
+All pairs below are first drafts for author review. Formal Tamil prosody and the independent English-form checks are deferred until all nine Parts are complete.
+
+### Chapter 33 — The Meaning of Care (அக்கறையின் பொருள்)
+
+| Pair | Shared insight | Tamil status | English status |
+|---|---|---|---|
+| 33.1 | Care begins by noticing actual need. | First draft; prosody review needed | First draft; English-form review needed |
+| 33.2 | Help can become control when it ignores consent. | First draft; prosody review needed | First draft; English-form review needed |
+| 33.3 | Care has practical as well as emotional forms. | First draft; prosody review needed | First draft; English-form review needed |
+| 33.4 | The caregiver's limits matter. | First draft; prosody review needed | First draft; English-form review needed |
+| 33.5 | Good intentions do not guarantee useful help. | First draft; prosody review needed | First draft; English-form review needed |
+| 33.6 | Dignity belongs to the person receiving care. | First draft; prosody review needed | First draft; English-form review needed |
+| 33.7 | Care should adapt as needs change. | First draft; prosody review needed | First draft; English-form review needed |
+| 33.8 | Invisible labour still consumes time. | First draft; prosody review needed | First draft; English-form review needed |
+| 33.9 | Receiving care can be difficult for the proud. | First draft; prosody review needed | First draft; English-form review needed |
+| 33.10 | Sustainable care requires more than one person's sacrifice. | First draft; prosody review needed | First draft; English-form review needed |
+
+### Chapter 34 — The Many Forms of Family (குடும்பத்தின் பல வடிவங்கள்)
+
+| Pair | Shared insight | Tamil status | English status |
+|---|---|---|---|
+| 34.1 | Kinship and closeness do not always coincide. | First draft; prosody review needed | First draft; English-form review needed |
+| 34.2 | Family can be made by sustained choice. | First draft; prosody review needed | First draft; English-form review needed |
+| 34.3 | Shared history does not guarantee safety. | First draft; prosody review needed | First draft; English-form review needed |
+| 34.4 | A household is not the only form of family. | First draft; prosody review needed | First draft; English-form review needed |
+| 34.5 | Estrangement may protect as well as grieve. | First draft; prosody review needed | First draft; English-form review needed |
+| 34.6 | Chosen bonds need recognition too. | First draft; prosody review needed | First draft; English-form review needed |
+| 34.7 | Family roles can change over time. | First draft; prosody review needed | First draft; English-form review needed |
+| 34.8 | Belonging should not require tolerating harm. | First draft; prosody review needed | First draft; English-form review needed |
+| 34.9 | Different family forms can offer equal depth. | First draft; prosody review needed | First draft; English-form review needed |
+| 34.10 | Care and respect matter more than a label alone. | First draft; prosody review needed | First draft; English-form review needed |
+
+### Chapter 35 — The Burden of Duty (கடமையின் சுமை)
+
+| Pair | Shared insight | Tamil status | English status |
+|---|---|---|---|
+| 35.1 | Not every assigned duty is just. | First draft; prosody review needed | First draft; English-form review needed |
+| 35.2 | Duty can be meaningful and exhausting at once. | First draft; prosody review needed | First draft; English-form review needed |
+| 35.3 | Conflicting obligations require priorities. | First draft; prosody review needed | First draft; English-form review needed |
+| 35.4 | Saying yes to one claim may deny another. | First draft; prosody review needed | First draft; English-form review needed |
+| 35.5 | Invisible expectations can become unpaid burdens. | First draft; prosody review needed | First draft; English-form review needed |
+| 35.6 | Responsibility without choice can breed resentment. | First draft; prosody review needed | First draft; English-form review needed |
+| 35.7 | Fair duty is shared according to capacity. | First draft; prosody review needed | First draft; English-form review needed |
+| 35.8 | A boundary can clarify rather than evade responsibility. | First draft; prosody review needed | First draft; English-form review needed |
+| 35.9 | Tradition alone does not settle what is owed. | First draft; prosody review needed | First draft; English-form review needed |
+| 35.10 | Integrity includes examining the demands one accepts. | First draft; prosody review needed | First draft; English-form review needed |
+
+### Chapter 36 — The Balance of Ambition (இலட்சியத்தின் சமநிலை)
+
+| Pair | Shared insight | Tamil status | English status |
+|---|---|---|---|
+| 36.1 | Time reveals the priorities words conceal. | First draft; prosody review needed | First draft; English-form review needed |
+| 36.2 | Success can arrive at a relational cost. | First draft; prosody review needed | First draft; English-form review needed |
+| 36.3 | Balance changes with circumstance. | First draft; prosody review needed | First draft; English-form review needed |
+| 36.4 | Ambition needs boundaries to remain humane. | First draft; prosody review needed | First draft; English-form review needed |
+| 36.5 | Absence can accumulate quietly. | First draft; prosody review needed | First draft; English-form review needed |
+| 36.6 | Shared goals can reconcile aspiration and closeness. | First draft; prosody review needed | First draft; English-form review needed |
+| 36.7 | Guilt is not always a reliable guide. | First draft; prosody review needed | First draft; English-form review needed |
+| 36.8 | Neglect can occur without ill intent. | First draft; prosody review needed | First draft; English-form review needed |
+| 36.9 | A sustainable pace protects future choices. | First draft; prosody review needed | First draft; English-form review needed |
+| 36.10 | A good life is not a single-axis achievement. | First draft; prosody review needed | First draft; English-form review needed |
+
+### Chapter 37 — The Practice of Empathy (பரிவைப் பழகுதல்)
+
+| Pair | Shared insight | Tamil status | English status |
+|---|---|---|---|
+| 37.1 | Similar pain can have different meanings. | First draft; prosody review needed | First draft; English-form review needed |
+| 37.2 | Listening is not the same as agreeing. | First draft; prosody review needed | First draft; English-form review needed |
+| 37.3 | Assumptions can imitate understanding. | First draft; prosody review needed | First draft; English-form review needed |
+| 37.4 | Asking is safer than presuming. | First draft; prosody review needed | First draft; English-form review needed |
+| 37.5 | Empathy requires attention to context. | First draft; prosody review needed | First draft; English-form review needed |
+| 37.6 | Another person's silence may have many causes. | First draft; prosody review needed | First draft; English-form review needed |
+| 37.7 | Compassion need not erase accountability. | First draft; prosody review needed | First draft; English-form review needed |
+| 37.8 | Imagination can bridge but not replace testimony. | First draft; prosody review needed | First draft; English-form review needed |
+| 37.9 | Difference invites curiosity, not diagnosis. | First draft; prosody review needed | First draft; English-form review needed |
+| 37.10 | Understanding deepens when we admit what we cannot know. | First draft; prosody review needed | First draft; English-form review needed |
+
+### Chapter 38 — The Ethics of Authority (அதிகாரத்தின் அறநெறி)
+
+| Pair | Shared insight | Tamil status | English status |
+|---|---|---|---|
+| 38.1 | Authority creates responsibility beyond personal preference. | First draft; prosody review needed | First draft; English-form review needed |
+| 38.2 | Rules should serve a defensible purpose. | First draft; prosody review needed | First draft; English-form review needed |
+| 38.3 | Power is revealed by how dissent is treated. | First draft; prosody review needed | First draft; English-form review needed |
+| 38.4 | Accountability makes authority more trustworthy. | First draft; prosody review needed | First draft; English-form review needed |
+| 38.5 | Fear can produce obedience without respect. | First draft; prosody review needed | First draft; English-form review needed |
+| 38.6 | A leader must hear inconvenient evidence. | First draft; prosody review needed | First draft; English-form review needed |
+| 38.7 | Fairness requires attention to unequal positions. | First draft; prosody review needed | First draft; English-form review needed |
+| 38.8 | Authority should be limited where possible. | First draft; prosody review needed | First draft; English-form review needed |
+| 38.9 | Admitting error need not destroy legitimate leadership. | First draft; prosody review needed | First draft; English-form review needed |
+| 38.10 | The measure of authority is partly the freedom it leaves others. | First draft; prosody review needed | First draft; English-form review needed |
+
+### Chapter 39 — The Generosity of Giving (கொடையின் பெருந்தன்மை)
+
+| Pair | Shared insight | Tamil status | English status |
+|---|---|---|---|
+| 39.1 | A gift can carry an invisible demand. | First draft; prosody review needed | First draft; English-form review needed |
+| 39.2 | Generosity should preserve the recipient's dignity. | First draft; prosody review needed | First draft; English-form review needed |
+| 39.3 | Small help can matter at the right moment. | First draft; prosody review needed | First draft; English-form review needed |
+| 39.4 | Giving is not always measured by amount. | First draft; prosody review needed | First draft; English-form review needed |
+| 39.5 | Public generosity may serve the giver's image. | First draft; prosody review needed | First draft; English-form review needed |
+| 39.6 | Help offered without listening may miss the need. | First draft; prosody review needed | First draft; English-form review needed |
+| 39.7 | Sharing abundance differs from displaying sacrifice. | First draft; prosody review needed | First draft; English-form review needed |
+| 39.8 | A gift need not create a debt. | First draft; prosody review needed | First draft; English-form review needed |
+| 39.9 | Giving time can cost more than giving objects. | First draft; prosody review needed | First draft; English-form review needed |
+| 39.10 | Generosity is strongest when it leaves freedom intact. | First draft; prosody review needed | First draft; English-form review needed |
+
+### Chapter 40 — The Legacy of Example (முன்னுதாரணத்தின் மரபு)
+
+| Pair | Shared insight | Tamil status | English status |
+|---|---|---|---|
+| 40.1 | People learn from what is repeated. | First draft; prosody review needed | First draft; English-form review needed |
+| 40.2 | A contradiction between words and actions is instructive too. | First draft; prosody review needed | First draft; English-form review needed |
+| 40.3 | Repair after error is also an example. | First draft; prosody review needed | First draft; English-form review needed |
+| 40.4 | Everyday fairness teaches more than grand speeches. | First draft; prosody review needed | First draft; English-form review needed |
+| 40.5 | Influence often travels without awareness. | First draft; prosody review needed | First draft; English-form review needed |
+| 40.6 | No one controls every lesson others take. | First draft; prosody review needed | First draft; English-form review needed |
+| 40.7 | Consistency makes values visible. | First draft; prosody review needed | First draft; English-form review needed |
+| 40.8 | Children and peers notice how power is used. | First draft; prosody review needed | First draft; English-form review needed |
+| 40.9 | A life can teach without intending to. | First draft; prosody review needed | First draft; English-form review needed |
+| 40.10 | The example we leave is made in ordinary moments. | First draft; prosody review needed | First draft; English-form review needed |
+
+## Editorial note — Part V, complete first writing pass
+
+Part V contains eight Chapters and eighty paired working drafts. Author approval is pending. Formal Tamil குறள் வெண்பா validation and the independent English-form review remain deferred until all nine Parts are drafted.
