@@ -411,3 +411,132 @@ All pairs below are first drafts for author review. Tamil prosody and English-fo
 ## Editorial note — Part II, complete first writing pass
 
 Part II contains eight Chapters and eighty paired working drafts. Author approval is pending. Formal Tamil குறள் வெண்பா validation and the independent English-form review are intentionally deferred until all nine Parts are drafted, in accordance with the author's workflow decision.
+
+
+## Part III — Youth and Identity: first writing pass
+
+All pairs below are first drafts for author review. Tamil prosody and English-form checks are deferred until all nine Parts are complete.
+
+### Chapter 17 — The Hunger for Freedom (விடுதலைக்கான வேட்கை)
+
+| Pair | Shared insight | Tamil status | English status |
+|---|---|---|---|
+| 17.1 | Freedom begins with the ability to choose. | First draft; prosody review needed | First draft; English-form review needed |
+| 17.2 | Every freedom has a practical cost. | First draft; prosody review needed | First draft; English-form review needed |
+| 17.3 | Control can disguise itself as protection. | First draft; prosody review needed | First draft; English-form review needed |
+| 17.4 | Independence does not erase interdependence. | First draft; prosody review needed | First draft; English-form review needed |
+| 17.5 | Rules deserve reasons, not only obedience. | First draft; prosody review needed | First draft; English-form review needed |
+| 17.6 | Escaping control is not knowing where to go. | First draft; prosody review needed | First draft; English-form review needed |
+| 17.7 | Responsibility makes freedom durable. | First draft; prosody review needed | First draft; English-form review needed |
+| 17.8 | Privacy is part of self-direction. | First draft; prosody review needed | First draft; English-form review needed |
+| 17.9 | A boundary can preserve a relationship. | First draft; prosody review needed | First draft; English-form review needed |
+| 17.10 | Freedom without reflection can become captivity. | First draft; prosody review needed | First draft; English-form review needed |
+
+### Chapter 18 — The Search for Identity (அடையாளத் தேடல்)
+
+| Pair | Shared insight | Tamil status | English status |
+|---|---|---|---|
+| 18.1 | A label can describe without defining. | First draft; prosody review needed | First draft; English-form review needed |
+| 18.2 | Identity may be discovered through experiment. | First draft; prosody review needed | First draft; English-form review needed |
+| 18.3 | Public image can drift from private truth. | First draft; prosody review needed | First draft; English-form review needed |
+| 18.4 | Origins inform without imprisoning. | First draft; prosody review needed | First draft; English-form review needed |
+| 18.5 | Contradictory interests can coexist. | First draft; prosody review needed | First draft; English-form review needed |
+| 18.6 | Self-knowledge grows through honest observation. | First draft; prosody review needed | First draft; English-form review needed |
+| 18.7 | Reinvention need not mean self-rejection. | First draft; prosody review needed | First draft; English-form review needed |
+| 18.8 | Others see only portions of a person. | First draft; prosody review needed | First draft; English-form review needed |
+| 18.9 | Certainty about identity arrives in stages. | First draft; prosody review needed | First draft; English-form review needed |
+| 18.10 | Becoming oneself is not a final discovery. | First draft; prosody review needed | First draft; English-form review needed |
+
+### Chapter 19 — The Fire of Ambition (இலட்சியத் தீ)
+
+| Pair | Shared insight | Tamil status | English status |
+|---|---|---|---|
+| 19.1 | Ambition gives effort a direction. | First draft; prosody review needed | First draft; English-form review needed |
+| 19.2 | A goal can energise ordinary days. | First draft; prosody review needed | First draft; English-form review needed |
+| 19.3 | Competition can sharpen or distort purpose. | First draft; prosody review needed | First draft; English-form review needed |
+| 19.4 | Sacrifice should be chosen consciously. | First draft; prosody review needed | First draft; English-form review needed |
+| 19.5 | Achievement cannot answer every question of worth. | First draft; prosody review needed | First draft; English-form review needed |
+| 19.6 | An ambition may belong to someone else. | First draft; prosody review needed | First draft; English-form review needed |
+| 19.7 | Patience gives distant aims a present form. | First draft; prosody review needed | First draft; English-form review needed |
+| 19.8 | Rest protects ambition from burnout. | First draft; prosody review needed | First draft; English-form review needed |
+| 19.9 | A goal may need revision as knowledge grows. | First draft; prosody review needed | First draft; English-form review needed |
+| 19.10 | Drive is useful when values govern it. | First draft; prosody review needed | First draft; English-form review needed |
+
+### Chapter 20 — The Pursuit of Love (காதலை நாடுதல்)
+
+| Pair | Shared insight | Tamil status | English status |
+|---|---|---|---|
+| 20.1 | Attraction begins with curiosity about another. | First draft; prosody review needed | First draft; English-form review needed |
+| 20.2 | An imagined person is not the real person. | First draft; prosody review needed | First draft; English-form review needed |
+| 20.3 | Consent is part of mutual desire. | First draft; prosody review needed | First draft; English-form review needed |
+| 20.4 | Rejection hurts but does not define worth. | First draft; prosody review needed | First draft; English-form review needed |
+| 20.5 | Honesty is kinder than strategic pretence. | First draft; prosody review needed | First draft; English-form review needed |
+| 20.6 | Longing can magnify small signals. | First draft; prosody review needed | First draft; English-form review needed |
+| 20.7 | Mutual interest cannot be demanded. | First draft; prosody review needed | First draft; English-form review needed |
+| 20.8 | Vulnerability does not guarantee reciprocation. | First draft; prosody review needed | First draft; English-form review needed |
+| 20.9 | Love grows through knowing, not projection. | First draft; prosody review needed | First draft; English-form review needed |
+| 20.10 | Another's freedom is essential to affection. | First draft; prosody review needed | First draft; English-form review needed |
+
+### Chapter 21 — The Making of Conviction (உறுதியான நம்பிக்கையின் உருவாக்கம்)
+
+| Pair | Shared insight | Tamil status | English status |
+|---|---|---|---|
+| 21.1 | Inherited beliefs need examination. | First draft; prosody review needed | First draft; English-form review needed |
+| 21.2 | Conviction should know its reasons. | First draft; prosody review needed | First draft; English-form review needed |
+| 21.3 | Certainty can conceal fear. | First draft; prosody review needed | First draft; English-form review needed |
+| 21.4 | A principle is tested by inconvenience. | First draft; prosody review needed | First draft; English-form review needed |
+| 21.5 | Evidence may require a changed view. | First draft; prosody review needed | First draft; English-form review needed |
+| 21.6 | Loyalty to truth may require disloyalty to a group. | First draft; prosody review needed | First draft; English-form review needed |
+| 21.7 | Strong belief need not become contempt. | First draft; prosody review needed | First draft; English-form review needed |
+| 21.8 | Values conflict in real choices. | First draft; prosody review needed | First draft; English-form review needed |
+| 21.9 | Conviction without humility hardens into dogma. | First draft; prosody review needed | First draft; English-form review needed |
+| 21.10 | Integrity joins belief to action. | First draft; prosody review needed | First draft; English-form review needed |
+
+### Chapter 22 — The Courage to Risk (இடரேற்கும் துணிவு)
+
+| Pair | Shared insight | Tamil status | English status |
+|---|---|---|---|
+| 22.1 | Certainty is rarely available before action. | First draft; prosody review needed | First draft; English-form review needed |
+| 22.2 | Courage acknowledges fear. | First draft; prosody review needed | First draft; English-form review needed |
+| 22.3 | Risk can create learning even when it fails. | First draft; prosody review needed | First draft; English-form review needed |
+| 22.4 | Recklessness ignores foreseeable harm. | First draft; prosody review needed | First draft; English-form review needed |
+| 22.5 | Small experiments can test large hopes. | First draft; prosody review needed | First draft; English-form review needed |
+| 22.6 | Inaction also carries risk. | First draft; prosody review needed | First draft; English-form review needed |
+| 22.7 | Preparation makes courage wiser. | First draft; prosody review needed | First draft; English-form review needed |
+| 22.8 | Risk is unfair when others bear its cost. | First draft; prosody review needed | First draft; English-form review needed |
+| 22.9 | Retreat can be reasoned. | First draft; prosody review needed | First draft; English-form review needed |
+| 22.10 | Courage is measured by purpose, not spectacle. | First draft; prosody review needed | First draft; English-form review needed |
+
+### Chapter 23 — The Cost of Choice (தேர்வின் விலை)
+
+| Pair | Shared insight | Tamil status | English status |
+|---|---|---|---|
+| 23.1 | Every serious choice excludes possibilities. | First draft; prosody review needed | First draft; English-form review needed |
+| 23.2 | Indecision can also choose. | First draft; prosody review needed | First draft; English-form review needed |
+| 23.3 | No choice offers perfect certainty. | First draft; prosody review needed | First draft; English-form review needed |
+| 23.4 | Regret cannot restore every lost alternative. | First draft; prosody review needed | First draft; English-form review needed |
+| 23.5 | Responsibility follows a chosen path. | First draft; prosody review needed | First draft; English-form review needed |
+| 23.6 | A choice may hurt despite being right. | First draft; prosody review needed | First draft; English-form review needed |
+| 23.7 | Trade-offs should be named honestly. | First draft; prosody review needed | First draft; English-form review needed |
+| 23.8 | Small choices shape a life. | First draft; prosody review needed | First draft; English-form review needed |
+| 23.9 | Others may bear the consequences. | First draft; prosody review needed | First draft; English-form review needed |
+| 23.10 | Peace comes from owning a considered choice. | First draft; prosody review needed | First draft; English-form review needed |
+
+### Chapter 24 — The Illusion of Invulnerability (அழிவிலா நிலை என்னும் மயக்கம்)
+
+| Pair | Shared insight | Tamil status | English status |
+|---|---|---|---|
+| 24.1 | Youth can make danger seem distant. | First draft; prosody review needed | First draft; English-form review needed |
+| 24.2 | Confidence is not immunity. | First draft; prosody review needed | First draft; English-form review needed |
+| 24.3 | Warnings may be ignored when nothing has happened. | First draft; prosody review needed | First draft; English-form review needed |
+| 24.4 | Limits are part of being human. | First draft; prosody review needed | First draft; English-form review needed |
+| 24.5 | Risk affects others, not only oneself. | First draft; prosody review needed | First draft; English-form review needed |
+| 24.6 | The body needs care, not contempt. | First draft; prosody review needed | First draft; English-form review needed |
+| 24.7 | Repeated escape from harm can breed false certainty. | First draft; prosody review needed | First draft; English-form review needed |
+| 24.8 | Asking for help is not weakness. | First draft; prosody review needed | First draft; English-form review needed |
+| 24.9 | Boundaries can be wisdom. | First draft; prosody review needed | First draft; English-form review needed |
+| 24.10 | Mortality gives choices weight. | First draft; prosody review needed | First draft; English-form review needed |
+
+## Editorial note — Part III, complete first writing pass
+
+Part III contains eight Chapters and eighty paired working drafts. Author approval is pending. Formal Tamil குறள் வெண்பா validation and the independent English-form review are intentionally deferred until all nine Parts are drafted, in accordance with the author's workflow decision.
