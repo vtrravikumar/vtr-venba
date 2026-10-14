@@ -151,7 +151,7 @@ Chapter 65 remains a first-draft set. Pair 65.3 has been flagged for a structura
 | Pair | Shared insight | Tamil status | English status |
 |---|---|---|---|
 | 1.1 | Existence precedes achievement. | First draft; prosody review needed | First draft; English-form review needed |
-| 1.2 | No one chooses their beginning. | First draft; prosody review needed | First draft; English-form review needed |
+| 1.2 | Birthplace and first caregivers are unchosen; later choices still matter. | First draft; prosody review needed | First draft; English-form review needed |
 | 1.3 | The ordinary miracle of being alive. | First draft; prosody review needed | First draft; English-form review needed |
 | 1.4 | Chance shapes the doorway into life. | First draft; prosody review needed | First draft; English-form review needed |
 | 1.5 | A beginning carries no promise of greatness. | First draft; prosody review needed | First draft; English-form review needed |
@@ -168,7 +168,7 @@ Chapter 65 remains a first-draft set. Pair 65.3 has been flagged for a structura
 |---|---|---|---|
 | 2.1 | No life begins self-sufficient. | First draft; prosody review needed | First draft; English-form review needed |
 | 2.2 | Need is not a defect. | First draft; prosody review needed | First draft; English-form review needed |
-| 2.3 | Care is often work unseen. | First draft; prosody review needed | First draft; English-form review needed |
+| 2.3 | Everyday acts of care sustain life, though the hands behind them are rarely named. | First draft; prosody review needed | First draft; English-form review needed |
 | 2.4 | Strength can mean accepting help. | First draft; prosody review needed | First draft; English-form review needed |
 | 2.5 | Dependence changes shape with time. | First draft; prosody review needed | First draft; English-form review needed |
 | 2.6 | The caregiver also has limits. | First draft; prosody review needed | First draft; English-form review needed |
@@ -183,14 +183,14 @@ Chapter 65 remains a first-draft set. Pair 65.3 has been flagged for a structura
 | Pair | Shared insight | Tamil status | English status |
 |---|---|---|---|
 | 3.1 | Love is often shown before it is named. | First draft; prosody review needed | First draft; English-form review needed |
-| 3.2 | Reassurance gives courage to explore. | First draft; prosody review needed | First draft; English-form review needed |
-| 3.3 | Affection cannot be measured by gifts. | First draft; prosody review needed | First draft; English-form review needed |
+| 3.2 | Knowing someone stays nearby can loosen fear enough to take a first step. | First draft; prosody review needed | First draft; English-form review needed |
+| 3.3 | A person's attentive presence can matter more than a material gift. | First draft; prosody review needed | First draft; English-form review needed |
 | 3.4 | Consistency makes tenderness credible. | First draft; prosody review needed | First draft; English-form review needed |
-| 3.5 | Love sees the person beyond performance. | First draft; prosody review needed | First draft; English-form review needed |
+| 3.5 | Love values the child beyond achievements, prizes, or performance. | First draft; prosody review needed | First draft; English-form review needed |
 | 3.6 | Warmth can outlast remembered words. | First draft; prosody review needed | First draft; English-form review needed |
 | 3.7 | Unreturned affection needs compassion too. | First draft; prosody review needed | First draft; English-form review needed |
 | 3.8 | Love must not become possession. | First draft; prosody review needed | First draft; English-form review needed |
-| 3.9 | A safe bond permits growth. | First draft; prosody review needed | First draft; English-form review needed |
+| 3.9 | Secure love gives a person room to grow beyond the shelter that first sustained them. | First draft; prosody review needed | First draft; English-form review needed |
 | 3.10 | The smallest kindness can become an inner refuge. | First draft; prosody review needed | First draft; English-form review needed |
 
 
