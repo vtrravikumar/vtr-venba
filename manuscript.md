@@ -46,7 +46,9 @@ The author acknowledges the role of AI in making this book and does not present 
 
 ## Dedication
 
-[DEDICATION PLACEHOLDER — To be written by the author.]
+To my Tamil teacher.
+
+For encouraging my initiatives and believing in my possibilities, even when my own command of Tamil was still growing. This work is offered in gratitude for the encouragement that stayed with me long after my school days.
 
 ## Prologue
 
