@@ -282,3 +282,132 @@ Chapters 1–3 contain thirty paired working drafts. All Tamil compositions requ
 ## Editorial note — Part I, complete first writing pass
 
 Part I now contains eight Chapters and eighty paired working drafts. Chapters 4–8 have been added as a complete writing batch. Traditional Tamil குறள் வெண்பா validation (அசை, சீர், தளை, line structure, and ஈற்றுச்சீர்) and the independent English-form review remain required; no formal validation is claimed for these drafts.
+
+
+## Part II — Learning and Awakening: first writing pass
+
+All pairs below are first drafts for author review. Tamil prosody and English-form checks are deliberately deferred until all nine Parts are complete.
+
+### Chapter 9 — The Discipline of Learning (கற்றலின் ஒழுக்கம்)
+
+| Pair | Shared insight | Tamil status | English status |
+|---|---|---|---|
+| 9.1 | Repetition makes knowledge usable. | First draft; prosody review needed | First draft; English-form review needed |
+| 9.2 | Attention is a limited resource. | First draft; prosody review needed | First draft; English-form review needed |
+| 9.3 | Practice reveals gaps confidence conceals. | First draft; prosody review needed | First draft; English-form review needed |
+| 9.4 | Correction is part of mastery. | First draft; prosody review needed | First draft; English-form review needed |
+| 9.5 | Memorising is not understanding. | First draft; prosody review needed | First draft; English-form review needed |
+| 9.6 | Progress may be invisible day to day. | First draft; prosody review needed | First draft; English-form review needed |
+| 9.7 | Rest supports learning. | First draft; prosody review needed | First draft; English-form review needed |
+| 9.8 | A good teacher awakens independent thought. | First draft; prosody review needed | First draft; English-form review needed |
+| 9.9 | Comparison can distract from personal progress. | First draft; prosody review needed | First draft; English-form review needed |
+| 9.10 | Learning continues when certainty ends. | First draft; prosody review needed | First draft; English-form review needed |
+
+### Chapter 10 — The Freedom to Question (வினவுதலின் விடுதலை)
+
+| Pair | Shared insight | Tamil status | English status |
+|---|---|---|---|
+| 10.1 | A respectful question can challenge power. | First draft; prosody review needed | First draft; English-form review needed |
+| 10.2 | Authority does not guarantee truth. | First draft; prosody review needed | First draft; English-form review needed |
+| 10.3 | Doubt can protect against easy persuasion. | First draft; prosody review needed | First draft; English-form review needed |
+| 10.4 | Questions expose hidden assumptions. | First draft; prosody review needed | First draft; English-form review needed |
+| 10.5 | Fear can silence useful inquiry. | First draft; prosody review needed | First draft; English-form review needed |
+| 10.6 | A good answer survives examination. | First draft; prosody review needed | First draft; English-form review needed |
+| 10.7 | Not knowing is an honest starting point. | First draft; prosody review needed | First draft; English-form review needed |
+| 10.8 | Questions can be asked in bad faith too. | First draft; prosody review needed | First draft; English-form review needed |
+| 10.9 | Evidence matters more than confidence. | First draft; prosody review needed | First draft; English-form review needed |
+| 10.10 | Independent thought requires willingness to revise. | First draft; prosody review needed | First draft; English-form review needed |
+
+### Chapter 11 — The Influence of Companions (உடனிருப்போரின் செல்வாக்கு)
+
+| Pair | Shared insight | Tamil status | English status |
+|---|---|---|---|
+| 11.1 | Company normalises behaviour through repetition. | First draft; prosody review needed | First draft; English-form review needed |
+| 11.2 | Courage can be borrowed from a friend. | First draft; prosody review needed | First draft; English-form review needed |
+| 11.3 | A group can reward unkindness. | First draft; prosody review needed | First draft; English-form review needed |
+| 11.4 | Belonging may blur personal judgement. | First draft; prosody review needed | First draft; English-form review needed |
+| 11.5 | Good companions permit disagreement. | First draft; prosody review needed | First draft; English-form review needed |
+| 11.6 | Friendship can expand one's world. | First draft; prosody review needed | First draft; English-form review needed |
+| 11.7 | Silence can become complicity in a group. | First draft; prosody review needed | First draft; English-form review needed |
+| 11.8 | One person's example can redirect a circle. | First draft; prosody review needed | First draft; English-form review needed |
+| 11.9 | Shared habits become shared expectations. | First draft; prosody review needed | First draft; English-form review needed |
+| 11.10 | Choose company by what it helps you become. | First draft; prosody review needed | First draft; English-form review needed |
+
+### Chapter 12 — The Need to Belong (சேர்ந்திருக்க வேண்டிய தேவை)
+
+| Pair | Shared insight | Tamil status | English status |
+|---|---|---|---|
+| 12.1 | Exclusion can hurt before its reason is known. | First draft; prosody review needed | First draft; English-form review needed |
+| 12.2 | Acceptance can tempt a person to perform. | First draft; prosody review needed | First draft; English-form review needed |
+| 12.3 | A crowd cannot guarantee connection. | First draft; prosody review needed | First draft; English-form review needed |
+| 12.4 | Difference need not mean isolation. | First draft; prosody review needed | First draft; English-form review needed |
+| 12.5 | Belonging grows through reciprocal recognition. | First draft; prosody review needed | First draft; English-form review needed |
+| 12.6 | Loneliness can persist in company. | First draft; prosody review needed | First draft; English-form review needed |
+| 12.7 | Some groups demand erasure of difference. | First draft; prosody review needed | First draft; English-form review needed |
+| 12.8 | One genuine bond can outweigh broad approval. | First draft; prosody review needed | First draft; English-form review needed |
+| 12.9 | Rejection does not define worth. | First draft; prosody review needed | First draft; English-form review needed |
+| 12.10 | A healthy community leaves room to remain oneself. | First draft; prosody review needed | First draft; English-form review needed |
+
+### Chapter 13 — The Awakening of Desire (ஆசையின் விழிப்பு)
+
+| Pair | Shared insight | Tamil status | English status |
+|---|---|---|---|
+| 13.1 | Wanting reveals what has captured attention. | First draft; prosody review needed | First draft; English-form review needed |
+| 13.2 | A new desire can feel like a new self. | First draft; prosody review needed | First draft; English-form review needed |
+| 13.3 | Comparison can manufacture a lack. | First draft; prosody review needed | First draft; English-form review needed |
+| 13.4 | Desire changes what seems important. | First draft; prosody review needed | First draft; English-form review needed |
+| 13.5 | Not every want needs immediate action. | First draft; prosody review needed | First draft; English-form review needed |
+| 13.6 | Curiosity and longing can be confused. | First draft; prosody review needed | First draft; English-form review needed |
+| 13.7 | A forbidden thing may seem more valuable. | First draft; prosody review needed | First draft; English-form review needed |
+| 13.8 | Desire can expose an unspoken need. | First draft; prosody review needed | First draft; English-form review needed |
+| 13.9 | The object wanted may not meet the need beneath it. | First draft; prosody review needed | First draft; English-form review needed |
+| 13.10 | Awareness creates a pause between wanting and choosing. | First draft; prosody review needed | First draft; English-form review needed |
+
+### Chapter 14 — The Weight of Expectation (எதிர்பார்ப்பின் சுமை)
+
+| Pair | Shared insight | Tamil status | English status |
+|---|---|---|---|
+| 14.1 | Praise can become a contract. | First draft; prosody review needed | First draft; English-form review needed |
+| 14.2 | A parent's fear may arrive disguised as advice. | First draft; prosody review needed | First draft; English-form review needed |
+| 14.3 | Being capable does not mean owing every achievement. | First draft; prosody review needed | First draft; English-form review needed |
+| 14.4 | Comparison turns guidance into pressure. | First draft; prosody review needed | First draft; English-form review needed |
+| 14.5 | Unspoken expectations can be hardest to challenge. | First draft; prosody review needed | First draft; English-form review needed |
+| 14.6 | Disappointing someone is not always wrongdoing. | First draft; prosody review needed | First draft; English-form review needed |
+| 14.7 | A borrowed dream can crowd out a real interest. | First draft; prosody review needed | First draft; English-form review needed |
+| 14.8 | Support allows room to change direction. | First draft; prosody review needed | First draft; English-form review needed |
+| 14.9 | Duty and approval are not identical. | First draft; prosody review needed | First draft; English-form review needed |
+| 14.10 | A future should not be assigned without listening. | First draft; prosody review needed | First draft; English-form review needed |
+
+### Chapter 15 — The Courage of Difference (வேறுபாட்டின் துணிவு)
+
+| Pair | Shared insight | Tamil status | English status |
+|---|---|---|---|
+| 15.1 | Difference is not automatically virtue or flaw. | First draft; prosody review needed | First draft; English-form review needed |
+| 15.2 | Mockery polices the boundaries of a group. | First draft; prosody review needed | First draft; English-form review needed |
+| 15.3 | A minority view may reveal a blind spot. | First draft; prosody review needed | First draft; English-form review needed |
+| 15.4 | Visibility can require courage. | First draft; prosody review needed | First draft; English-form review needed |
+| 15.5 | Conformity sometimes protects, sometimes diminishes. | First draft; prosody review needed | First draft; English-form review needed |
+| 15.6 | Authenticity need not become performance. | First draft; prosody review needed | First draft; English-form review needed |
+| 15.7 | Respect does not require sameness. | First draft; prosody review needed | First draft; English-form review needed |
+| 15.8 | Difference can be named without apology. | First draft; prosody review needed | First draft; English-form review needed |
+| 15.9 | Being unusual does not excuse harm. | First draft; prosody review needed | First draft; English-form review needed |
+| 15.10 | A society grows through differences it can accommodate. | First draft; prosody review needed | First draft; English-form review needed |
+
+### Chapter 16 — The First Taste of Failure (தோல்வியின் முதல் அனுபவம்)
+
+| Pair | Shared insight | Tamil status | English status |
+|---|---|---|---|
+| 16.1 | One poor result is not a complete identity. | First draft; prosody review needed | First draft; English-form review needed |
+| 16.2 | Failure can reveal a missing skill. | First draft; prosody review needed | First draft; English-form review needed |
+| 16.3 | Embarrassment can outlast the event. | First draft; prosody review needed | First draft; English-form review needed |
+| 16.4 | Hiding a mistake delays learning. | First draft; prosody review needed | First draft; English-form review needed |
+| 16.5 | Support changes how defeat is interpreted. | First draft; prosody review needed | First draft; English-form review needed |
+| 16.6 | Effort does not guarantee every outcome. | First draft; prosody review needed | First draft; English-form review needed |
+| 16.7 | Early setbacks can narrow ambition unnecessarily. | First draft; prosody review needed | First draft; English-form review needed |
+| 16.8 | Rest and retry are different from surrender. | First draft; prosody review needed | First draft; English-form review needed |
+| 16.9 | A fair assessment separates error from worth. | First draft; prosody review needed | First draft; English-form review needed |
+| 16.10 | Confidence can be rebuilt through small attempts. | First draft; prosody review needed | First draft; English-form review needed |
+
+## Editorial note — Part II, complete first writing pass
+
+Part II contains eight Chapters and eighty paired working drafts. Author approval is pending. Formal Tamil குறள் வெண்பா validation and the independent English-form review are intentionally deferred until all nine Parts are drafted, in accordance with the author's workflow decision.
