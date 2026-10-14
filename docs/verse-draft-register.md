@@ -540,3 +540,132 @@ All pairs below are first drafts for author review. Tamil prosody and English-fo
 ## Editorial note — Part III, complete first writing pass
 
 Part III contains eight Chapters and eighty paired working drafts. Author approval is pending. Formal Tamil குறள் வெண்பா validation and the independent English-form review are intentionally deferred until all nine Parts are drafted, in accordance with the author's workflow decision.
+
+
+## Part IV — Work and Partnership: first writing pass
+
+All pairs below are first drafts for author review. Formal Tamil prosody and the independent English-form checks are deferred until all nine Parts are complete.
+
+### Chapter 25 — The Dignity of Work (உழைப்பின் மாண்பு)
+
+| Pair | Shared insight | Tamil status | English status |
+|---|---|---|---|
+| 25.1 | Useful work can be quiet and unseen. | First draft; prosody review needed | First draft; English-form review needed |
+| 25.2 | Skill grows through care for detail. | First draft; prosody review needed | First draft; English-form review needed |
+| 25.3 | Honest labour deserves respect without glamour. | First draft; prosody review needed | First draft; English-form review needed |
+| 25.4 | A title does not measure contribution. | First draft; prosody review needed | First draft; English-form review needed |
+| 25.5 | Work can serve people beyond the worker. | First draft; prosody review needed | First draft; English-form review needed |
+| 25.6 | Invisible maintenance keeps visible systems alive. | First draft; prosody review needed | First draft; English-form review needed |
+| 25.7 | Dignity should not depend on productivity alone. | First draft; prosody review needed | First draft; English-form review needed |
+| 25.8 | Poor conditions can degrade good work. | First draft; prosody review needed | First draft; English-form review needed |
+| 25.9 | Craft joins competence with responsibility. | First draft; prosody review needed | First draft; English-form review needed |
+| 25.10 | A person is more than their occupation. | First draft; prosody review needed | First draft; English-form review needed |
+
+### Chapter 26 — The Choice of Vocation (தொழில் தேர்வு)
+
+| Pair | Shared insight | Tamil status | English status |
+|---|---|---|---|
+| 26.1 | A vocation is discovered partly by trying. | First draft; prosody review needed | First draft; English-form review needed |
+| 26.2 | Aptitude and interest are related but not identical. | First draft; prosody review needed | First draft; English-form review needed |
+| 26.3 | Livelihood is a legitimate consideration. | First draft; prosody review needed | First draft; English-form review needed |
+| 26.4 | A prestigious path may fit poorly. | First draft; prosody review needed | First draft; English-form review needed |
+| 26.5 | Work choices are made under unequal constraints. | First draft; prosody review needed | First draft; English-form review needed |
+| 26.6 | Careers can change without erasing prior experience. | First draft; prosody review needed | First draft; English-form review needed |
+| 26.7 | Advice is not a substitute for self-knowledge. | First draft; prosody review needed | First draft; English-form review needed |
+| 26.8 | Meaningful work may be found rather than declared. | First draft; prosody review needed | First draft; English-form review needed |
+| 26.9 | A job can be a means, not an identity. | First draft; prosody review needed | First draft; English-form review needed |
+| 26.10 | A good choice fits the life around the work. | First draft; prosody review needed | First draft; English-form review needed |
+
+### Chapter 27 — The Measure of Money (பணத்தின் அளவுகோல்)
+
+| Pair | Shared insight | Tamil status | English status |
+|---|---|---|---|
+| 27.1 | Money can buy options but not every outcome. | First draft; prosody review needed | First draft; English-form review needed |
+| 27.2 | Financial security can protect dignity. | First draft; prosody review needed | First draft; English-form review needed |
+| 27.3 | Scarcity narrows attention. | First draft; prosody review needed | First draft; English-form review needed |
+| 27.4 | More income can bring new obligations. | First draft; prosody review needed | First draft; English-form review needed |
+| 27.5 | Spending expresses priorities as well as needs. | First draft; prosody review needed | First draft; English-form review needed |
+| 27.6 | Money can simplify or complicate relationships. | First draft; prosody review needed | First draft; English-form review needed |
+| 27.7 | A number cannot fully measure a life. | First draft; prosody review needed | First draft; English-form review needed |
+| 27.8 | Ignoring money does not make it harmless. | First draft; prosody review needed | First draft; English-form review needed |
+| 27.9 | Enough depends partly on what one needs to protect. | First draft; prosody review needed | First draft; English-form review needed |
+| 27.10 | Financial choices are moral when they affect others. | First draft; prosody review needed | First draft; English-form review needed |
+
+### Chapter 28 — The Bond of Commitment (உறுதிப்பாட்டின் பிணைப்பு)
+
+| Pair | Shared insight | Tamil status | English status |
+|---|---|---|---|
+| 28.1 | A promise begins a practice, not an ending. | First draft; prosody review needed | First draft; English-form review needed |
+| 28.2 | Reliability is built through repeated acts. | First draft; prosody review needed | First draft; English-form review needed |
+| 28.3 | Commitment requires freedom to be meaningful. | First draft; prosody review needed | First draft; English-form review needed |
+| 28.4 | Shared plans need periodic honest review. | First draft; prosody review needed | First draft; English-form review needed |
+| 28.5 | Loyalty should not demand self-erasure. | First draft; prosody review needed | First draft; English-form review needed |
+| 28.6 | Hard seasons reveal what a promise means. | First draft; prosody review needed | First draft; English-form review needed |
+| 28.7 | Repair can renew a commitment. | First draft; prosody review needed | First draft; English-form review needed |
+| 28.8 | A commitment may need renegotiation. | First draft; prosody review needed | First draft; English-form review needed |
+| 28.9 | Staying is not always the highest virtue. | First draft; prosody review needed | First draft; English-form review needed |
+| 28.10 | Leaving honestly can respect what once mattered. | First draft; prosody review needed | First draft; English-form review needed |
+
+### Chapter 29 — The Foundation of Trust (நம்பிக்கையின் அடித்தளம்)
+
+| Pair | Shared insight | Tamil status | English status |
+|---|---|---|---|
+| 29.1 | Trust grows through consistency. | First draft; prosody review needed | First draft; English-form review needed |
+| 29.2 | Small deceptions change the meaning of later truths. | First draft; prosody review needed | First draft; English-form review needed |
+| 29.3 | Confidentiality is a form of care. | First draft; prosody review needed | First draft; English-form review needed |
+| 29.4 | Trust is not the same as blind belief. | First draft; prosody review needed | First draft; English-form review needed |
+| 29.5 | Broken trust changes how evidence is read. | First draft; prosody review needed | First draft; English-form review needed |
+| 29.6 | Transparency cannot be forced into intimacy. | First draft; prosody review needed | First draft; English-form review needed |
+| 29.7 | Trust may return slowly and differently. | First draft; prosody review needed | First draft; English-form review needed |
+| 29.8 | Reliability matters most when inconvenient. | First draft; prosody review needed | First draft; English-form review needed |
+| 29.9 | Suspicion can protect and also imprison. | First draft; prosody review needed | First draft; English-form review needed |
+| 29.10 | Trust is earned by conduct, not requested as a favour. | First draft; prosody review needed | First draft; English-form review needed |
+
+### Chapter 30 — The Art of Compromise (சமரசக் கலை)
+
+| Pair | Shared insight | Tamil status | English status |
+|---|---|---|---|
+| 30.1 | Not every disagreement requires a winner. | First draft; prosody review needed | First draft; English-form review needed |
+| 30.2 | Preferences can bend while principles remain. | First draft; prosody review needed | First draft; English-form review needed |
+| 30.3 | A compromise should not hide unequal power. | First draft; prosody review needed | First draft; English-form review needed |
+| 30.4 | Listening changes the available options. | First draft; prosody review needed | First draft; English-form review needed |
+| 30.5 | Splitting the difference is not always fair. | First draft; prosody review needed | First draft; English-form review needed |
+| 30.6 | A workable agreement names the sacrifice. | First draft; prosody review needed | First draft; English-form review needed |
+| 30.7 | Resentment grows when concessions stay invisible. | First draft; prosody review needed | First draft; English-form review needed |
+| 30.8 | Timing can matter as much as argument. | First draft; prosody review needed | First draft; English-form review needed |
+| 30.9 | Some boundaries cannot be negotiated away. | First draft; prosody review needed | First draft; English-form review needed |
+| 30.10 | Good compromise preserves the relationship and the truth. | First draft; prosody review needed | First draft; English-form review needed |
+
+### Chapter 31 — The Temptation of Status (அந்தஸ்தின் கவர்ச்சி)
+
+| Pair | Shared insight | Tamil status | English status |
+|---|---|---|---|
+| 31.1 | Status depends on an audience. | First draft; prosody review needed | First draft; English-form review needed |
+| 31.2 | Titles can outgrow the work they describe. | First draft; prosody review needed | First draft; English-form review needed |
+| 31.3 | Comparison creates a moving finish line. | First draft; prosody review needed | First draft; English-form review needed |
+| 31.4 | Recognition feels good but is unstable. | First draft; prosody review needed | First draft; English-form review needed |
+| 31.5 | Envy can reveal a hidden desire. | First draft; prosody review needed | First draft; English-form review needed |
+| 31.6 | Prestige may reward visibility over usefulness. | First draft; prosody review needed | First draft; English-form review needed |
+| 31.7 | Status anxiety makes ordinary life feel insufficient. | First draft; prosody review needed | First draft; English-form review needed |
+| 31.8 | Respect cannot be secured by rank alone. | First draft; prosody review needed | First draft; English-form review needed |
+| 31.9 | Refusing a contest can be a form of freedom. | First draft; prosody review needed | First draft; English-form review needed |
+| 31.10 | Worth persists when the audience leaves. | First draft; prosody review needed | First draft; English-form review needed |
+
+### Chapter 32 — The Price of Progress (முன்னேற்றத்தின் விலை)
+
+| Pair | Shared insight | Tamil status | English status |
+|---|---|---|---|
+| 32.1 | A gain can conceal a displaced cost. | First draft; prosody review needed | First draft; English-form review needed |
+| 32.2 | Efficiency can remove humane pauses. | First draft; prosody review needed | First draft; English-form review needed |
+| 32.3 | Progress for one group may burden another. | First draft; prosody review needed | First draft; English-form review needed |
+| 32.4 | New tools change what is valued. | First draft; prosody review needed | First draft; English-form review needed |
+| 32.5 | Speed is not the same as improvement. | First draft; prosody review needed | First draft; English-form review needed |
+| 32.6 | What is measurable can crowd out what matters. | First draft; prosody review needed | First draft; English-form review needed |
+| 32.7 | Preservation can be a progressive choice. | First draft; prosody review needed | First draft; English-form review needed |
+| 32.8 | Benefits and burdens should be counted together. | First draft; prosody review needed | First draft; English-form review needed |
+| 32.9 | Change deserves evaluation, not automatic praise. | First draft; prosody review needed | First draft; English-form review needed |
+| 32.10 | Progress is incomplete when it leaves people unheard. | First draft; prosody review needed | First draft; English-form review needed |
+
+## Editorial note — Part IV, complete first writing pass
+
+Part IV contains eight Chapters and eighty paired working drafts. Author approval is pending. Formal Tamil குறள் வெண்பா validation and the independent English-form review remain deferred until all nine Parts are drafted.
