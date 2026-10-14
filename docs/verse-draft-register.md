@@ -886,3 +886,91 @@ Part V contains eight Chapters and eighty paired working drafts. Author approval
 ## Editorial note — Part VI, complete first writing pass
 
 Part VI contains eight Chapters and eighty paired working drafts. Author approval is pending. Formal Tamil குறள் வெண்பா validation and the independent English-form review remain deferred until all nine Parts are drafted.
+
+
+## Part VII — Change, Memory and Renewal: insight register
+
+| 49.1 | Time is noticed through what changes. | First draft; prosody review needed | First draft; English-form review needed |
+| 49.2 | Repetition can make years feel both full and swift. | First draft; prosody review needed | First draft; English-form review needed |
+| 49.3 | A calendar records duration, not meaning. | First draft; prosody review needed | First draft; English-form review needed |
+| 49.4 | The body keeps a different account of time. | First draft; prosody review needed | First draft; English-form review needed |
+| 49.5 | Delayed attention can become missed life. | First draft; prosody review needed | First draft; English-form review needed |
+| 49.6 | Some seasons feel long while they are lived. | First draft; prosody review needed | First draft; English-form review needed |
+| 49.7 | Memory rearranges the apparent speed of the past. | First draft; prosody review needed | First draft; English-form review needed |
+| 49.8 | Time is shared unequally in experience. | First draft; prosody review needed | First draft; English-form review needed |
+| 49.9 | Urgency can clarify or distort priorities. | First draft; prosody review needed | First draft; English-form review needed |
+| 49.10 | A day gains meaning through how it is inhabited. | First draft; prosody review needed | First draft; English-form review needed |
+| 50.1 | Familiarity can masquerade as necessity. | First draft; prosody review needed | First draft; English-form review needed |
+| 50.2 | Letting go may begin with naming a loss. | First draft; prosody review needed | First draft; English-form review needed |
+| 50.3 | An old role can outlive its usefulness. | First draft; prosody review needed | First draft; English-form review needed |
+| 50.4 | Release is not the same as forgetting. | First draft; prosody review needed | First draft; English-form review needed |
+| 50.5 | Possessions can hold memories and obligations. | First draft; prosody review needed | First draft; English-form review needed |
+| 50.6 | Some attachments need grieving before release. | First draft; prosody review needed | First draft; English-form review needed |
+| 50.7 | Clinging can prevent a new form of care. | First draft; prosody review needed | First draft; English-form review needed |
+| 50.8 | What is released may still have mattered. | First draft; prosody review needed | First draft; English-form review needed |
+| 50.9 | Letting go is often gradual. | First draft; prosody review needed | First draft; English-form review needed |
+| 50.10 | Space appears when every old claim is not carried forward. | First draft; prosody review needed | First draft; English-form review needed |
+| 51.1 | A new beginning can follow an ending not chosen. | First draft; prosody review needed | First draft; English-form review needed |
+| 51.2 | Experience helps but does not remove beginnerhood. | First draft; prosody review needed | First draft; English-form review needed |
+| 51.3 | Starting small is still starting. | First draft; prosody review needed | First draft; English-form review needed |
+| 51.4 | Pride can make a fresh start harder. | First draft; prosody review needed | First draft; English-form review needed |
+| 51.5 | A changed path need not invalidate the old one. | First draft; prosody review needed | First draft; English-form review needed |
+| 51.6 | Hope becomes practical through a first action. | First draft; prosody review needed | First draft; English-form review needed |
+| 51.7 | Others may take time to recognise a new self. | First draft; prosody review needed | First draft; English-form review needed |
+| 51.8 | A restart can be wiser than persistence. | First draft; prosody review needed | First draft; English-form review needed |
+| 51.9 | The first step rarely resolves the whole future. | First draft; prosody review needed | First draft; English-form review needed |
+| 51.10 | Renewal asks for courage and patience together. | First draft; prosody review needed | First draft; English-form review needed |
+| 52.1 | A former dream can lose its urgency. | First draft; prosody review needed | First draft; English-form review needed |
+| 52.2 | Desire changes as knowledge of oneself deepens. | First draft; prosody review needed | First draft; English-form review needed |
+| 52.3 | Some wants were borrowed from an audience. | First draft; prosody review needed | First draft; English-form review needed |
+| 52.4 | A quieter aim may become more compelling. | First draft; prosody review needed | First draft; English-form review needed |
+| 52.5 | Letting one desire fade can free another. | First draft; prosody review needed | First draft; English-form review needed |
+| 52.6 | Priorities reveal themselves through repeated choices. | First draft; prosody review needed | First draft; English-form review needed |
+| 52.7 | Changing wants does not make the past false. | First draft; prosody review needed | First draft; English-form review needed |
+| 52.8 | The cost of a goal can become newly visible. | First draft; prosody review needed | First draft; English-form review needed |
+| 52.9 | Desire can become less about acquisition and more about attention. | First draft; prosody review needed | First draft; English-form review needed |
+| 52.10 | Maturity may change the question rather than supply an answer. | First draft; prosody review needed | First draft; English-form review needed |
+| 53.1 | Memory preserves and edits. | First draft; prosody review needed | First draft; English-form review needed |
+| 53.2 | A childhood can contain both care and hurt. | First draft; prosody review needed | First draft; English-form review needed |
+| 53.3 | New knowledge can alter an old memory's meaning. | First draft; prosody review needed | First draft; English-form review needed |
+| 53.4 | Reconciliation does not require calling harm good. | First draft; prosody review needed | First draft; English-form review needed |
+| 53.5 | Nostalgia selects as well as remembers. | First draft; prosody review needed | First draft; English-form review needed |
+| 53.6 | A forgotten detail can change a familiar story. | First draft; prosody review needed | First draft; English-form review needed |
+| 53.7 | One's past self deserves context, not immunity. | First draft; prosody review needed | First draft; English-form review needed |
+| 53.8 | Different witnesses may remember the same event differently. | First draft; prosody review needed | First draft; English-form review needed |
+| 53.9 | Integration is not erasure. | First draft; prosody review needed | First draft; English-form review needed |
+| 53.10 | Peace can coexist with unresolved questions. | First draft; prosody review needed | First draft; English-form review needed |
+| 54.1 | Forgiveness cannot be demanded by the offender. | First draft; prosody review needed | First draft; English-form review needed |
+| 54.2 | Releasing resentment need not restore access. | First draft; prosody review needed | First draft; English-form review needed |
+| 54.3 | Accountability may remain necessary after forgiveness. | First draft; prosody review needed | First draft; English-form review needed |
+| 54.4 | Forgiveness is not denial of harm. | First draft; prosody review needed | First draft; English-form review needed |
+| 54.5 | Some wounds need time before a decision is possible. | First draft; prosody review needed | First draft; English-form review needed |
+| 54.6 | Reconciliation requires more than one person's willingness. | First draft; prosody review needed | First draft; English-form review needed |
+| 54.7 | Anger can reveal a violated boundary. | First draft; prosody review needed | First draft; English-form review needed |
+| 54.8 | Forgiveness may be partial or gradual. | First draft; prosody review needed | First draft; English-form review needed |
+| 54.9 | A person can choose distance without hatred. | First draft; prosody review needed | First draft; English-form review needed |
+| 54.10 | Freedom comes from not letting injury dictate every future act. | First draft; prosody review needed | First draft; English-form review needed |
+| 55.1 | Change can reveal rather than betray the self. | First draft; prosody review needed | First draft; English-form review needed |
+| 55.2 | Old convictions may have served an earlier season. | First draft; prosody review needed | First draft; English-form review needed |
+| 55.3 | Continuity can reside in values rather than habits. | First draft; prosody review needed | First draft; English-form review needed |
+| 55.4 | Others may preserve an outdated image of us. | First draft; prosody review needed | First draft; English-form review needed |
+| 55.5 | Growth can make past choices newly understandable. | First draft; prosody review needed | First draft; English-form review needed |
+| 55.6 | Reinvention need not deny memory. | First draft; prosody review needed | First draft; English-form review needed |
+| 55.7 | A person can outgrow a role without despising it. | First draft; prosody review needed | First draft; English-form review needed |
+| 55.8 | Self-consistency is not identical to never changing. | First draft; prosody review needed | First draft; English-form review needed |
+| 55.9 | Change can be chosen or imposed. | First draft; prosody review needed | First draft; English-form review needed |
+| 55.10 | Identity is a living account, not a sealed record. | First draft; prosody review needed | First draft; English-form review needed |
+| 56.1 | No life fulfils every possibility. | First draft; prosody review needed | First draft; English-form review needed |
+| 56.2 | Unfinished work can still have value. | First draft; prosody review needed | First draft; English-form review needed |
+| 56.3 | Completion is not the only measure of meaning. | First draft; prosody review needed | First draft; English-form review needed |
+| 56.4 | Some questions deepen rather than resolve. | First draft; prosody review needed | First draft; English-form review needed |
+| 56.5 | A plan can be relinquished without being worthless. | First draft; prosody review needed | First draft; English-form review needed |
+| 56.6 | Limits shape what can be made. | First draft; prosody review needed | First draft; English-form review needed |
+| 56.7 | A life is lived, not merely completed. | First draft; prosody review needed | First draft; English-form review needed |
+| 56.8 | Uncertainty can remain without paralysing action. | First draft; prosody review needed | First draft; English-form review needed |
+| 56.9 | Other people may continue what we begin. | First draft; prosody review needed | First draft; English-form review needed |
+| 56.10 | The unfinished can be a form of openness. | First draft; prosody review needed | First draft; English-form review needed |
+
+## Editorial note — Part VII, complete first writing pass
+
+Part VII contains eight Chapters and eighty paired working drafts. Author approval is pending. Formal Tamil குறள் வெண்பா validation and the independent English-form review remain deferred until all nine Parts are drafted.
