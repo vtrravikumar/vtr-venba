@@ -52,21 +52,21 @@ For encouraging my initiatives and believing in my possibilities, even when my o
 
 ## Prologue
 
-A human life rarely unfolds as a neat argument. It arrives first as dependence, opens into wonder, and moves through learning, desire, love, work, responsibility, ambition, loss, and change. What seems permanent at one stage may look different from another. What once felt essential may later become a memory; what once seemed like an ending may reveal the beginning of another understanding.
+**தமிழ்**
 
-This book follows that long human movement through nine Parts, seventy-two Chapters, and seven hundred and twenty paired compositions. The first eight Parts are organised around broad stages of life, each spanning an imagined eight-year horizon. These stages are a way of arranging reflection, not a rule for how anyone must live. Lives differ. Some experiences arrive early, some late, and some never arrive at all. The questions that shape us, however, often cross the boundaries of age.
+வாழ்க்கை எட்டு நிலைகளைக் கடக்கும் ஒரே நேரான பாதையல்ல; ஒவ்வொருவருக்கும் அதன் பயணம் தனித்துவமானது. பிறப்பு, கற்றல், அடையாளம், அன்பு, உழைப்பு, பொறுப்பு, மாற்றம், ஞானம் என வாழ்வின் பல பருவங்களை இந்நூல் எட்டு ஆண்டுகள் கொண்ட எட்டு பகுதிகளாகச் சிந்திக்கிறது. இவை கட்டுப்பாடுகள் அல்ல; அனுபவங்களைப் புரிந்துகொள்ள உதவும் அடையாளங்கள்.
 
-The ninth Part steps beyond those stages. It turns towards the freedom that may emerge when wanting loosens its hold, towards stillness, the changing sense of self, the mystery of consciousness, mortality, legacy, and the unknown. It does not presume that every question has a settled answer. In matters of belief and ultimate truth, honest inquiry must leave room for uncertainty.
+ஒன்பதாம் பகுதி, இந்நிலைகளுக்கு அப்பால் பேரின்பம், நிலையாமை, மரணம், மெய்யுண்மை ஆகியவற்றை நோக்கித் திரும்புகிறது. தமிழ் குறள் வெண்பாவின் மரபும் ஆங்கிலத்தின் தனித்த கவிதை இயல்பும் இங்கு ஒன்றுக்கொன்று துணையாக நிற்கின்றன. இவை ஒன்றின் மொழிபெயர்ப்பாக மற்றொன்று அமையாமல், ஒரே மனித அனுபவத்தைத் தனித்த குரல்களில் அணுகுகின்றன.
 
-Tamil and English stand here as equal literary companions. Each pair begins from a shared human insight, but each language is allowed to speak in its own voice. The English composition is not simply a line-by-line translation of the Tamil, nor is the Tamil a rendering of an English original. Their relationship is closer to two perspectives meeting at the same point: connected in meaning, independent in expression.
+இவ்விரு மொழிகளிலும் அமைந்துள்ள குறள்கள் கட்டளைகள் அல்ல; வாழ்வையும் நம்மையும் கவனித்துப் பார்க்கும் அழைப்புகள். சில எண்ணங்கள் உடன்பாட்டைத் தரலாம்; சில கேள்விகளை எழுப்பலாம். பயணத்தின் பொருள், எல்லா விடைகளையும் அடைவதில் மட்டும் இல்லை; செல்லும் வழியில் நாம் எவ்வாறு வாழ்கிறோம் என்பதிலும் உள்ளது.
 
-The discipline of குறள் வெண்பா gives this work an exacting formal aspiration. Its traditional Tamil rules deserve careful attention: sound, அசை, சீர், தளை, line structure, and the ending of the verse all matter. The English compositions face a different linguistic reality and must be judged through a separately articulated poetic method, not by pretending that Tamil prosody transfers unchanged into English. Formal claims should be earned through validation, not granted by intention alone.
+**English**
 
-These compositions are not offered as commandments for every reader. They are invitations to observe: how we become ourselves, what we ask of one another, what we cling to, what we learn to release, and how our understanding changes as the journey continues. A reader may disagree with a thought, find another meaning in it, or carry it into an experience the author never imagined. Such encounters are part of a book's life beyond its writing.
+Life is not a straight road divided neatly into stages; each person's journey is different. This book reflects on eight broad passages—from birth and learning to identity, love, work, responsibility, change, and wisdom—each imagined across eight years. These divisions are landmarks for reflection, not rules for living.
 
-If the earlier Parts look closely at the many things that make a life, the final Part asks what remains when we see those things in perspective. The people who accompany us matter. Our choices matter. Our joys and sorrows matter. Yet love need not mean possession, and letting go need not mean indifference. Perhaps wisdom begins not by denying the journey, but by seeing both its profound value and its impermanence.
+The ninth Part looks beyond them towards bliss, impermanence, death, and ultimate truth. Tamil Kural Venba and English poetry stand here as companions: connected by shared human concerns, yet each speaking in its own voice.
 
-The pages that follow are an attempt to look carefully, in two languages, at the life we share and the truths we continue to seek.
+These compositions are not commandments, but invitations to observe ourselves and the lives we share. Some thoughts may offer recognition; others may leave questions open. The meaning of a journey lies not only in the answers we find, but also in how we live along the way.
 
 ## Part I — பிறப்பும் தொடக்கங்களும் (Birth and Beginnings)
 
@@ -7768,17 +7768,21 @@ We may still live by what we know is true.
 
 ## Epilogue
 
-A life can be viewed as a journey through stages. In this book, we have travelled through eight passages, each imagined across eight years: from the first gift of birth through learning, identity, love, work, responsibility, change, and the wisdom that time may bring. These divisions are not walls around a human life. They are landmarks along a road whose turns arrive differently for each of us. We may reach a lesson early or late; we may return to it more than once. What matters is not whether our lives follow the map, but what we learn as we travel.
+**தமிழ்**
 
-Beyond these eight stages lies a further horizon. Here, the questions become less about what we can gather and more about what we can understand; less about holding on and more about seeing clearly. Bliss need not be a prize waiting at the end of a perfect life. It may begin whenever the heart loosens its grip, when gratitude grows larger than possession, and when we can meet the present without demanding that it remain forever.
+பிறப்பிலிருந்து ஞானம் வரை, இந்நூல் வாழ்வின் எட்டு நிலைகளைக் கடந்து செல்கிறது; ஒவ்வொரு நிலையும் எட்டு ஆண்டுகள் கொண்ட ஒரு சிந்தனைப் பரப்பாகக் கருதப்படுகிறது. ஆனால் வாழ்க்கை இவ்வெல்லைகளுக்குள் அடங்குவதில்லை. ஒவ்வொருவரின் பயணமும் வேறுபடும்; நாம் கற்றுக்கொள்வதும் மாறுவதும் நம் வழியில்தான் நிகழ்கின்றன.
 
-Death belongs to this journey as surely as birth does. To call it the ultimate truth is not to darken life, nor to diminish all that we love. It is to recognise that nothing we hold is ours to keep without end. The knowledge that our time is finite can make a kindness more precious, a conversation more worthy of attention, a moment of beauty more complete. An ending gives urgency to our choices and tenderness to our connections. Death need not be treated as an enemy waiting in the shadows; it can be understood as the boundary that helps us see the value of the life within it.
+இந்த எட்டு நிலைகளுக்கு அப்பால், ஒன்பதாம் பகுதி பேரின்பத்தையும் மெய்யுண்மையையும் நோக்குகிறது. மரணம் வாழ்வின் இறுதி உண்மை. அது வாழ்க்கையை இருளாக்குவதற்கல்ல; நமக்குக் கிடைத்த நேரம், அன்பு, நட்பு, நற்செயல் ஆகியவற்றின் அருமையை உணர்த்துவதற்காக. முடிவு உண்டு என்பதால்தான் ஒவ்வொரு தருணத்துக்கும் தனி மதிப்பு உண்டு.
 
-We have asked questions here about the self, the world, truth, and what may lie beyond our knowing. Not every question has been closed, and perhaps none of us can close them all. Wisdom may be less a final answer than a way of living: to act with care, to learn without arrogance, to love without ownership, and to accept change without surrendering wonder.
+எல்லா கேள்விகளுக்கும் விடை கிடைக்காமலும் இருக்கலாம். ஆயினும் அன்புடன் வாழவும், பணிவுடன் கற்கவும், மாற்றத்தை வியப்புடன் எதிர்கொள்ளவும் நம்மால் முடியும். குறள்கள் இங்கே முடிகின்றன; வாழ்க்கைப் பயணம் தொடர்கிறது. தொடக்கத்தையும் முடிவையும் மாற்ற முடியாவிட்டாலும், அவற்றுக்கு இடையில் நாம் வாழும் விதத்தைத் தேர்ந்தெடுக்கலாம்.
 
-The verses end here, but the journey does not. Each reader returns to a life of their own, with its particular joys, burdens, beginnings, and farewells. If these pages have offered a moment of recognition, a gentler way to see another person, or the courage to live more attentively, they have travelled beyond the page.
+**English**
 
-We do not need to defeat time to make a life meaningful. We need only to meet the time we are given with open eyes and a generous heart. Birth opens the way; the years give us the journey; death reminds us that the journey is precious. And between the beginning and the end, there is this living moment—still here, still ours to meet.
+This book travels through eight imagined stages of life, from birth towards wisdom, each spanning eight years. Yet no life fits perfectly within such boundaries. Every journey differs, and each of us learns and changes in our own way.
+
+Beyond these stages, the ninth Part turns towards bliss and ultimate truth. Death is life's final certainty—not a reason to darken our days, but a reminder of the worth of the time, love, friendship, and kindness we are given. Because our time is finite, each moment can matter.
+
+We may never answer every question. Still, we can live with love, learn with humility, and meet change without losing our sense of wonder. The verses end here; the journey of life continues. We cannot choose every beginning or ending, but we can choose how we live in between.
 
 ## About the Author
 
