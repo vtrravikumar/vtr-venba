@@ -974,3 +974,91 @@ Part VI contains eight Chapters and eighty paired working drafts. Author approva
 ## Editorial note — Part VII, complete first writing pass
 
 Part VII contains eight Chapters and eighty paired working drafts. Author approval is pending. Formal Tamil குறள் வெண்பா validation and the independent English-form review remain deferred until all nine Parts are drafted.
+
+
+## Part VIII — Wisdom and Completion: insight register
+
+| 57.1 | Experience becomes wisdom only when reflected upon. | First draft; prosody review needed | First draft; English-form review needed |
+| 57.2 | Repetition can teach or entrench. | First draft; prosody review needed | First draft; English-form review needed |
+| 57.3 | Patterns can prevent harm. | First draft; prosody review needed | First draft; English-form review needed |
+| 57.4 | Experience can mislead in another domain. | First draft; prosody review needed | First draft; English-form review needed |
+| 57.5 | A hard lesson can help others. | First draft; prosody review needed | First draft; English-form review needed |
+| 57.6 | Past success can create overconfidence. | First draft; prosody review needed | First draft; English-form review needed |
+| 57.7 | Practice reveals limits of rules. | First draft; prosody review needed | First draft; English-form review needed |
+| 57.8 | Experience can make us patient with beginners. | First draft; prosody review needed | First draft; English-form review needed |
+| 57.9 | Events teach people differently. | First draft; prosody review needed | First draft; English-form review needed |
+| 57.10 | The harvest is insight, not years. | First draft; prosody review needed | First draft; English-form review needed |
+| 58.1 | Knowledge grows with awareness of its boundaries. | First draft; prosody review needed | First draft; English-form review needed |
+| 58.2 | Expertise does not remove blind spots. | First draft; prosody review needed | First draft; English-form review needed |
+| 58.3 | A wise person can say I do not know. | First draft; prosody review needed | First draft; English-form review needed |
+| 58.4 | Confidence should match evidence. | First draft; prosody review needed | First draft; English-form review needed |
+| 58.5 | Correction can preserve credibility. | First draft; prosody review needed | First draft; English-form review needed |
+| 58.6 | Silence may be wiser than quick judgement. | First draft; prosody review needed | First draft; English-form review needed |
+| 58.7 | Wisdom listens across differences. | First draft; prosody review needed | First draft; English-form review needed |
+| 58.8 | A lesson may not fit every case. | First draft; prosody review needed | First draft; English-form review needed |
+| 58.9 | Humility is not self-belittlement. | First draft; prosody review needed | First draft; English-form review needed |
+| 58.10 | Wisdom leaves room for surprise. | First draft; prosody review needed | First draft; English-form review needed |
+| 59.1 | Simplicity is chosen, not always imposed. | First draft; prosody review needed | First draft; English-form review needed |
+| 59.2 | Fewer possessions can mean fewer demands. | First draft; prosody review needed | First draft; English-form review needed |
+| 59.3 | Attention is a form of wealth. | First draft; prosody review needed | First draft; English-form review needed |
+| 59.4 | Routine can protect what matters. | First draft; prosody review needed | First draft; English-form review needed |
+| 59.5 | Simplicity should not romanticise deprivation. | First draft; prosody review needed | First draft; English-form review needed |
+| 59.6 | Convenience can create hidden complexity. | First draft; prosody review needed | First draft; English-form review needed |
+| 59.7 | Ordinary pleasures need presence. | First draft; prosody review needed | First draft; English-form review needed |
+| 59.8 | A simpler schedule can deepen relationships. | First draft; prosody review needed | First draft; English-form review needed |
+| 59.9 | Removing distraction may reveal a need. | First draft; prosody review needed | First draft; English-form review needed |
+| 59.10 | Simple life can contain rich thought. | First draft; prosody review needed | First draft; English-form review needed |
+| 60.1 | Repair begins by naming what happened. | First draft; prosody review needed | First draft; English-form review needed |
+| 60.2 | Time apart can clarify or deepen distance. | First draft; prosody review needed | First draft; English-form review needed |
+| 60.3 | An apology needs changed conduct. | First draft; prosody review needed | First draft; English-form review needed |
+| 60.4 | Reconnection may require new boundaries. | First draft; prosody review needed | First draft; English-form review needed |
+| 60.5 | Shared history is not enough. | First draft; prosody review needed | First draft; English-form review needed |
+| 60.6 | Listening can reopen a closed conversation. | First draft; prosody review needed | First draft; English-form review needed |
+| 60.7 | Some relationships heal into another form. | First draft; prosody review needed | First draft; English-form review needed |
+| 60.8 | Trust may return unevenly. | First draft; prosody review needed | First draft; English-form review needed |
+| 60.9 | Repair cannot be done by one person alone. | First draft; prosody review needed | First draft; English-form review needed |
+| 60.10 | A healed bond remembers without being ruled by the wound. | First draft; prosody review needed | First draft; English-form review needed |
+| 61.1 | Possession carries responsibilities. | First draft; prosody review needed | First draft; English-form review needed |
+| 61.2 | Health needs maintenance, not only repair. | First draft; prosody review needed | First draft; English-form review needed |
+| 61.3 | Time can be stewarded without controlled. | First draft; prosody review needed | First draft; English-form review needed |
+| 61.4 | Shared resources require restraint. | First draft; prosody review needed | First draft; English-form review needed |
+| 61.5 | Knowledge grows in value when passed responsibly. | First draft; prosody review needed | First draft; English-form review needed |
+| 61.6 | Environmental care spans generations. | First draft; prosody review needed | First draft; English-form review needed |
+| 61.7 | Neglect transfers costs to others. | First draft; prosody review needed | First draft; English-form review needed |
+| 61.8 | Stewardship asks what must remain. | First draft; prosody review needed | First draft; English-form review needed |
+| 61.9 | Responsibility should match power. | First draft; prosody review needed | First draft; English-form review needed |
+| 61.10 | A life is measured by what it sustains. | First draft; prosody review needed | First draft; English-form review needed |
+| 62.1 | Acceptance begins by seeing truth. | First draft; prosody review needed | First draft; English-form review needed |
+| 62.2 | Acknowledging change is not approving its cause. | First draft; prosody review needed | First draft; English-form review needed |
+| 62.3 | Resistance can delay adaptation. | First draft; prosody review needed | First draft; English-form review needed |
+| 62.4 | Some losses cannot be compensated. | First draft; prosody review needed | First draft; English-form review needed |
+| 62.5 | Agency remains in changed circumstances. | First draft; prosody review needed | First draft; English-form review needed |
+| 62.6 | The old normal may not return. | First draft; prosody review needed | First draft; English-form review needed |
+| 62.7 | Adaptation need not erase grief. | First draft; prosody review needed | First draft; English-form review needed |
+| 62.8 | Flexibility can preserve a deeper value. | First draft; prosody review needed | First draft; English-form review needed |
+| 62.9 | Reality is not negotiated by denial. | First draft; prosody review needed | First draft; English-form review needed |
+| 62.10 | Acceptance makes action possible. | First draft; prosody review needed | First draft; English-form review needed |
+| 63.1 | Preparation can care for survivors. | First draft; prosody review needed | First draft; English-form review needed |
+| 63.2 | Important words should not be postponed. | First draft; prosody review needed | First draft; English-form review needed |
+| 63.3 | Practical order reduces another's burden. | First draft; prosody review needed | First draft; English-form review needed |
+| 63.4 | Preparation is not prediction. | First draft; prosody review needed | First draft; English-form review needed |
+| 63.5 | Fear and readiness can coexist. | First draft; prosody review needed | First draft; English-form review needed |
+| 63.6 | Unfinished conversations deserve attention. | First draft; prosody review needed | First draft; English-form review needed |
+| 63.7 | Plans should allow uncertainty. | First draft; prosody review needed | First draft; English-form review needed |
+| 63.8 | Preparing to leave can deepen present attention. | First draft; prosody review needed | First draft; English-form review needed |
+| 63.9 | Wishes should be discussed, not assumed. | First draft; prosody review needed | First draft; English-form review needed |
+| 63.10 | Preparation is part of responsible living. | First draft; prosody review needed | First draft; English-form review needed |
+| 64.1 | Completion is not perfection. | First draft; prosody review needed | First draft; English-form review needed |
+| 64.2 | A journey can fulfil purpose without every wish. | First draft; prosody review needed | First draft; English-form review needed |
+| 64.3 | Endings can clarify a pattern. | First draft; prosody review needed | First draft; English-form review needed |
+| 64.4 | Some achievements matter more in retrospect. | First draft; prosody review needed | First draft; English-form review needed |
+| 64.5 | A life cannot be graded by one outcome. | First draft; prosody review needed | First draft; English-form review needed |
+| 64.6 | Completion may require relinquishing the ideal ending. | First draft; prosody review needed | First draft; English-form review needed |
+| 64.7 | Gratitude can coexist with disappointment. | First draft; prosody review needed | First draft; English-form review needed |
+| 64.8 | Unfinished things do not nullify what is done. | First draft; prosody review needed | First draft; English-form review needed |
+| 64.9 | A journey's meaning may exceed intention. | First draft; prosody review needed | First draft; English-form review needed |
+| 64.10 | Completion is perspective, not final ownership. | First draft; prosody review needed | First draft; English-form review needed |
+
+## Editorial note — Part VIII, complete first writing pass
+
+Part VIII contains eight Chapters and eighty paired working drafts. Author approval is pending. Formal Tamil குறள் வெண்பா validation and the independent English-form review remain deferred until all nine Parts are drafted.
