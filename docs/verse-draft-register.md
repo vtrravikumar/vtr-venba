@@ -144,3 +144,56 @@
 ## Editorial note — current chapter batch
 
 Chapter 65 remains a first-draft set. Pair 65.3 has been flagged for a structural revision because its current second line does not yet satisfy the expected three-seer line. Chapter 66 is drafted as a complete working batch. Chapters 67–72 are first-draft batches; their Tamil verses require a proportionate review for literary idiom and traditional prosody, and their English verses require review against the separately documented English form. Chapters 69–72 were drafted with the epitaph-worthy ambition for Part IX in mind. Chapters 71–72 close the book by leaving the unknown open while asking the reader to live truthfully without claiming total possession of truth. No formal validation is claimed for these chapters.
+
+
+## Chapter 1 — The Gift of Birth (பிறப்பின் கொடை)
+
+| Pair | Shared insight | Tamil status | English status |
+|---|---|---|---|
+| 1.1 | Existence precedes achievement. | First draft; prosody review needed | First draft; English-form review needed |
+| 1.2 | No one chooses their beginning. | First draft; prosody review needed | First draft; English-form review needed |
+| 1.3 | The ordinary miracle of being alive. | First draft; prosody review needed | First draft; English-form review needed |
+| 1.4 | Chance shapes the doorway into life. | First draft; prosody review needed | First draft; English-form review needed |
+| 1.5 | A beginning carries no promise of greatness. | First draft; prosody review needed | First draft; English-form review needed |
+| 1.6 | Each life is singular without being superior. | First draft; prosody review needed | First draft; English-form review needed |
+| 1.7 | Wonder can survive familiarity. | First draft; prosody review needed | First draft; English-form review needed |
+| 1.8 | Birth creates possibility, not destiny. | First draft; prosody review needed | First draft; English-form review needed |
+| 1.9 | The world was already in motion. | First draft; prosody review needed | First draft; English-form review needed |
+| 1.10 | Gratitude need not deny hardship. | First draft; prosody review needed | First draft; English-form review needed |
+
+
+## Chapter 2 — The Dependence of Life (வாழ்வின் சார்பு)
+
+| Pair | Shared insight | Tamil status | English status |
+|---|---|---|---|
+| 2.1 | No life begins self-sufficient. | First draft; prosody review needed | First draft; English-form review needed |
+| 2.2 | Need is not a defect. | First draft; prosody review needed | First draft; English-form review needed |
+| 2.3 | Care is often work unseen. | First draft; prosody review needed | First draft; English-form review needed |
+| 2.4 | Strength can mean accepting help. | First draft; prosody review needed | First draft; English-form review needed |
+| 2.5 | Dependence changes shape with time. | First draft; prosody review needed | First draft; English-form review needed |
+| 2.6 | The caregiver also has limits. | First draft; prosody review needed | First draft; English-form review needed |
+| 2.7 | Neglect can wound without leaving marks. | First draft; prosody review needed | First draft; English-form review needed |
+| 2.8 | Receiving creates knowledge of vulnerability. | First draft; prosody review needed | First draft; English-form review needed |
+| 2.9 | Independence is built through support. | First draft; prosody review needed | First draft; English-form review needed |
+| 2.10 | A society reveals itself in how it protects the helpless. | First draft; prosody review needed | First draft; English-form review needed |
+
+
+## Chapter 3 — The Love That Sustains (தாங்கும் அன்பு)
+
+| Pair | Shared insight | Tamil status | English status |
+|---|---|---|---|
+| 3.1 | Love is often shown before it is named. | First draft; prosody review needed | First draft; English-form review needed |
+| 3.2 | Reassurance gives courage to explore. | First draft; prosody review needed | First draft; English-form review needed |
+| 3.3 | Affection cannot be measured by gifts. | First draft; prosody review needed | First draft; English-form review needed |
+| 3.4 | Consistency makes tenderness credible. | First draft; prosody review needed | First draft; English-form review needed |
+| 3.5 | Love sees the person beyond performance. | First draft; prosody review needed | First draft; English-form review needed |
+| 3.6 | Warmth can outlast remembered words. | First draft; prosody review needed | First draft; English-form review needed |
+| 3.7 | Unreturned affection needs compassion too. | First draft; prosody review needed | First draft; English-form review needed |
+| 3.8 | Love must not become possession. | First draft; prosody review needed | First draft; English-form review needed |
+| 3.9 | A safe bond permits growth. | First draft; prosody review needed | First draft; English-form review needed |
+| 3.10 | The smallest kindness can become an inner refuge. | First draft; prosody review needed | First draft; English-form review needed |
+
+
+## Editorial note — Part I, first batch
+
+Chapters 1–3 contain thirty paired working drafts. All Tamil compositions require review for literary idiom and traditional குறள் வெண்பா prosody; all English compositions require review against the separately documented English form. These are first drafts only; no formal validation or author approval is claimed.
