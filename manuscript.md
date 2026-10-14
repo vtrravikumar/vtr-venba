@@ -2,7 +2,7 @@
 type: book
 title: "[FINAL BOOK TITLE — TO BE DECIDED]"
 subtitle: "[SUBTITLE — TO BE DECIDED]"
-author: V.T.R. Ravi Kumar
+author: Viyan
 # ------------------------------------------------------------------
 # Publication
 # ------------------------------------------------------------------
@@ -35,6 +35,14 @@ No part of this book may be reproduced, stored, or transmitted in any form or by
 **Place of publication:** To be confirmed
 
 The Tamil and English compositions in this book are original literary works. This book is not a translation of the *Thirukkural*, nor does it claim to reproduce Thiruvalluvar's work.
+
+## A Note on Authorship and AI Assistance
+
+This book originated from an original literary concept developed by Viyan. Generative artificial intelligence was used as a creative tool to generate and develop the Tamil and English compositions, under the author's direction and editorial judgement.
+
+The themes, structure, and literary vision were shaped as part of the author's creative concept. AI assistance formed a substantive part of the composition process; this book is presented openly as a work created through human direction and AI-assisted generation.
+
+The author acknowledges the role of AI in making this book and does not present the manuscript as a work created without such assistance.
 
 ## Dedication
 
@@ -7762,6 +7770,8 @@ We may still live by what we know is true.
 
 ## About the Author
 
-V.T.R. Ravi Kumar is a technologist and writer whose professional life has spanned software engineering, architecture, and emerging technologies. This book brings a different discipline to his work: the pursuit of human insight through the literary possibilities of Tamil and English.
+Viyan is the pen name of an independent writer interested in the intersections of human experience, language, ideas, and technology.
 
-[AUTHOR BIO PLACEHOLDER — Review and finalise the biography, preferred public links, and any author photograph or acknowledgements before publication.]
+Writing across forms and subjects, Viyan explores the questions that shape how people live, think, create, and understand the world around them. The work brings together a curiosity about tradition and a willingness to examine familiar ideas from new perspectives.
+
+This book is part of an ongoing literary exploration of life, expressed through the meeting of Tamil and English.
