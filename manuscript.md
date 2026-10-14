@@ -58,7 +58,7 @@ If the earlier Parts look closely at the many things that make a life, the final
 
 The pages that follow are an attempt to look carefully, in two languages, at the life we share and the truths we continue to seek.
 
-## Part I — Birth and Beginnings (பிறப்பும் தொடக்கங்களும்)
+## Part I — பிறப்பும் தொடக்கங்களும் (Birth and Beginnings)
 
 
 ### Chapter 1 — பிறப்பின் கொடை (The Gift of Birth)
@@ -876,7 +876,7 @@ We may honour where we came from and choose.
 The world we inherit is not ours alone;
 Leave room for those who follow us to change it.
 :::
-## Part II — Learning and Awakening (கற்றலும் விழிப்பும்)
+## Part II — கற்றலும் விழிப்பும் (Learning and Awakening)
 
 
 ### Chapter 9 — கற்றலின் ஒழுக்கம் (The Discipline of Learning)
@@ -1696,7 +1696,7 @@ Confidence returns by walking, step by step.
 :::
 
 
-## Part III — Youth and Identity (இளமையும் தனித்த அடையாளமும்)
+## Part III — இளமையும் தனித்த அடையாளமும் (Youth and Identity)
 
 
 ### Chapter 17 — விடுதலைக்கான வேட்கை (The Hunger for Freedom)
@@ -2516,7 +2516,7 @@ Can make each chosen hour more fully ours.
 :::
 
 
-## Part IV — Work and Partnership
+## Part IV — தொழிலும் கூட்டாண்மையும் (Work and Partnership)
 ### Chapter 25 — உழைப்பின் மாண்பு (The Dignity of Work)
 
 This Part considers the work by which we contribute, the livelihoods we choose, the money we use, and the bonds through which we learn to trust, negotiate, seek recognition, and measure progress. These are paired literary drafts, not yet formally validated for Tamil குறள் வெண்பா prosody or the independent English form. As agreed, those reviews will wait until all nine Parts are drafted.
@@ -3335,7 +3335,7 @@ No progress is complete while voices fade;
 A better world must hear those it would change.
 :::
 
-## Part V — Family and Responsibility
+## Part V — குடும்பமும் பொறுப்பும் (Family and Responsibility)
 ### Chapter 33 — அக்கறையின் பொருள் (The Meaning of Care)
 
 This Part turns to the many ways lives are bound together: care, family, duty, ambition, empathy, authority, generosity, and the example left in ordinary conduct. These paired compositions are working literary drafts. As agreed, formal Tamil குறள் வெண்பா prosody and the independent English-form review will wait until all nine Parts are drafted.
@@ -4154,7 +4154,7 @@ The example left is shaped in common hours;
 No ordinary moment is entirely small.
 :::
 
-## Part VI — Success, Power and Self-Examination
+## Part VI — வெற்றியும் அதிகாரமும் தன்னாய்வும் (Success, Power and Self-Examination)
 ### Chapter 41 — வெற்றியின் இயல்பு (The Nature of Success)
 
 This Part examines the measures by which we judge a life, the attractions and burdens of wealth and power, the lessons of failure and regret, the limits of control, the honesty of self-examination, and the difficult art of recognising enough. These paired compositions are working literary drafts. As agreed, formal Tamil குறள் வெண்பா prosody and the independent English-form review will wait until all nine Parts are drafted.
@@ -4976,7 +4976,7 @@ Turn then toward life, and meet it fully here.
 
 ---
 
-## Part VII — Change, Memory and Renewal
+## Part VII — மாற்றமும் நினைவும் மறுமலர்ச்சியும் (Change, Memory and Renewal)
 ### Chapter 49 — காலத்தின் கடத்தல் (The Passage of Time)
 
 This Part turns toward the changing shape of later life: time passing, old attachments loosening, new beginnings, reordered desires, the reconciliation of memory, forgiveness, a self that continues to change, and the dignity of a life that remains unfinished. These paired compositions are working literary drafts. As agreed, formal Tamil குறள் வெண்பா prosody and the independent English-form review will wait until all nine Parts are drafted.
@@ -5798,7 +5798,7 @@ Leave room for wonder at the edge of what remains.
 
 ---
 
-## Part VIII — Wisdom and Completion (ஞானமும் நிறைவும்)
+## Part VIII — ஞானமும் நிறைவும் (Wisdom and Completion)
 
 
 ### Chapter 57 — அனுபவத்தின் அறுவடை (The Harvest of Experience)
@@ -6778,7 +6778,7 @@ No traveller owns the final meaning of the road.
 :::
 
 
-## Part IX — Bliss, Death and Ultimate Truth (பேரின்பம், மரணம், மெய்யுண்மை)
+## Part IX — பேரின்பம், மரணம், மெய்யுண்மை (Bliss, Death and Ultimate Truth)
 
 ### Chapter 65 — வேட்கை கடந்த விடுதலை (The Freedom Beyond Want)
 
