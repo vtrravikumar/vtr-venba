@@ -7768,7 +7768,17 @@ We may still live by what we know is true.
 
 ## Epilogue
 
-[EPILOGUE PLACEHOLDER — To be written after all 720 paired compositions have been completed and reviewed. The epilogue should bring the book's journey together without merely summarising the Chapters or claiming certainty where the work has preserved an open question.]
+A life can be viewed as a journey through stages. In this book, we have travelled through eight passages, each imagined across eight years: from the first gift of birth through learning, identity, love, work, responsibility, change, and the wisdom that time may bring. These divisions are not walls around a human life. They are landmarks along a road whose turns arrive differently for each of us. We may reach a lesson early or late; we may return to it more than once. What matters is not whether our lives follow the map, but what we learn as we travel.
+
+Beyond these eight stages lies a further horizon. Here, the questions become less about what we can gather and more about what we can understand; less about holding on and more about seeing clearly. Bliss need not be a prize waiting at the end of a perfect life. It may begin whenever the heart loosens its grip, when gratitude grows larger than possession, and when we can meet the present without demanding that it remain forever.
+
+Death belongs to this journey as surely as birth does. To call it the ultimate truth is not to darken life, nor to diminish all that we love. It is to recognise that nothing we hold is ours to keep without end. The knowledge that our time is finite can make a kindness more precious, a conversation more worthy of attention, a moment of beauty more complete. An ending gives urgency to our choices and tenderness to our connections. Death need not be treated as an enemy waiting in the shadows; it can be understood as the boundary that helps us see the value of the life within it.
+
+We have asked questions here about the self, the world, truth, and what may lie beyond our knowing. Not every question has been closed, and perhaps none of us can close them all. Wisdom may be less a final answer than a way of living: to act with care, to learn without arrogance, to love without ownership, and to accept change without surrendering wonder.
+
+The verses end here, but the journey does not. Each reader returns to a life of their own, with its particular joys, burdens, beginnings, and farewells. If these pages have offered a moment of recognition, a gentler way to see another person, or the courage to live more attentively, they have travelled beyond the page.
+
+We do not need to defeat time to make a life meaningful. We need only to meet the time we are given with open eyes and a generous heart. Birth opens the way; the years give us the journey; death reminds us that the journey is precious. And between the beginning and the end, there is this living moment—still here, still ours to meet.
 
 ## About the Author
 
