@@ -798,3 +798,91 @@ All pairs below are first drafts for author review. Formal Tamil prosody and the
 ## Editorial note — Part V, complete first writing pass
 
 Part V contains eight Chapters and eighty paired working drafts. Author approval is pending. Formal Tamil குறள் வெண்பா validation and the independent English-form review remain deferred until all nine Parts are drafted.
+
+
+## Part VI — Success, Power and Self-Examination: insight register
+
+| 41.1 | A public measure may miss a private triumph. | First draft; prosody review needed | First draft; English-form review needed |
+| 41.2 | Success depends on the chosen measure. | First draft; prosody review needed | First draft; English-form review needed |
+| 41.3 | Reaching a goal can expose an empty expectation. | First draft; prosody review needed | First draft; English-form review needed |
+| 41.4 | Achievement and fulfilment can diverge. | First draft; prosody review needed | First draft; English-form review needed |
+| 41.5 | Another person's success may use different values. | First draft; prosody review needed | First draft; English-form review needed |
+| 41.6 | A quiet life can be a chosen success. | First draft; prosody review needed | First draft; English-form review needed |
+| 41.7 | The definition of success can mature. | First draft; prosody review needed | First draft; English-form review needed |
+| 41.8 | External applause is evidence of approval, not total worth. | First draft; prosody review needed | First draft; English-form review needed |
+| 41.9 | A worthwhile effort can fail by its original measure. | First draft; prosody review needed | First draft; English-form review needed |
+| 41.10 | Success should be judged against values one can defend. | First draft; prosody review needed | First draft; English-form review needed |
+| 42.1 | Accumulation can become its own purpose. | First draft; prosody review needed | First draft; English-form review needed |
+| 42.2 | Security can turn into fear of losing. | First draft; prosody review needed | First draft; English-form review needed |
+| 42.3 | Wealth magnifies some choices without fixing character. | First draft; prosody review needed | First draft; English-form review needed |
+| 42.4 | Possessions can begin to possess attention. | First draft; prosody review needed | First draft; English-form review needed |
+| 42.5 | More can make comparison more intense. | First draft; prosody review needed | First draft; English-form review needed |
+| 42.6 | The cost of wealth includes what it demands. | First draft; prosody review needed | First draft; English-form review needed |
+| 42.7 | Generosity can test whether ownership has become identity. | First draft; prosody review needed | First draft; English-form review needed |
+| 42.8 | Wealth can shelter from some harms, not all. | First draft; prosody review needed | First draft; English-form review needed |
+| 42.9 | Fear of decline may erase enjoyment of abundance. | First draft; prosody review needed | First draft; English-form review needed |
+| 42.10 | Possession is not the same as freedom. | First draft; prosody review needed | First draft; English-form review needed |
+| 43.1 | Power can reduce the honesty one hears. | First draft; prosody review needed | First draft; English-form review needed |
+| 43.2 | Deference can be mistaken for affection. | First draft; prosody review needed | First draft; English-form review needed |
+| 43.3 | Decisions affect people absent from the room. | First draft; prosody review needed | First draft; English-form review needed |
+| 43.4 | Control may isolate its holder. | First draft; prosody review needed | First draft; English-form review needed |
+| 43.5 | Access to resources can distort perceived effort. | First draft; prosody review needed | First draft; English-form review needed |
+| 43.6 | A powerful person needs unbought criticism. | First draft; prosody review needed | First draft; English-form review needed |
+| 43.7 | Influence magnifies both care and carelessness. | First draft; prosody review needed | First draft; English-form review needed |
+| 43.8 | Power can make exceptions feel deserved. | First draft; prosody review needed | First draft; English-form review needed |
+| 43.9 | Restraint is part of responsible strength. | First draft; prosody review needed | First draft; English-form review needed |
+| 43.10 | The test of power is how it treats those who cannot repay it. | First draft; prosody review needed | First draft; English-form review needed |
+| 44.1 | Failure teaches only when examined. | First draft; prosody review needed | First draft; English-form review needed |
+| 44.2 | Repeated failure may reveal a faulty method. | First draft; prosody review needed | First draft; English-form review needed |
+| 44.3 | Some failures are caused by unfair conditions. | First draft; prosody review needed | First draft; English-form review needed |
+| 44.4 | Pain does not automatically create wisdom. | First draft; prosody review needed | First draft; English-form review needed |
+| 44.5 | A failed plan can preserve a valuable purpose. | First draft; prosody review needed | First draft; English-form review needed |
+| 44.6 | Pride can prevent useful diagnosis. | First draft; prosody review needed | First draft; English-form review needed |
+| 44.7 | Other people's experience can spare needless repetition. | First draft; prosody review needed | First draft; English-form review needed |
+| 44.8 | Recovery may require changing the goal. | First draft; prosody review needed | First draft; English-form review needed |
+| 44.9 | Learning does not make every loss worthwhile. | First draft; prosody review needed | First draft; English-form review needed |
+| 44.10 | Wisdom keeps the lesson without worshipping the wound. | First draft; prosody review needed | First draft; English-form review needed |
+| 45.1 | Regret imagines a path never fully known. | First draft; prosody review needed | First draft; English-form review needed |
+| 45.2 | Guilt can point toward repair. | First draft; prosody review needed | First draft; English-form review needed |
+| 45.3 | Shame can trap a person in identity. | First draft; prosody review needed | First draft; English-form review needed |
+| 45.4 | Some apologies arrive too late to restore what was lost. | First draft; prosody review needed | First draft; English-form review needed |
+| 45.5 | The past cannot be edited by repetition of thought. | First draft; prosody review needed | First draft; English-form review needed |
+| 45.6 | Responsibility is clearer when excuses are set aside. | First draft; prosody review needed | First draft; English-form review needed |
+| 45.7 | Self-punishment does not undo harm. | First draft; prosody review needed | First draft; English-form review needed |
+| 45.8 | A missed chance can teach present attention. | First draft; prosody review needed | First draft; English-form review needed |
+| 45.9 | Forgiveness of self is not denial of consequence. | First draft; prosody review needed | First draft; English-form review needed |
+| 45.10 | Acceptance begins where revision ends. | First draft; prosody review needed | First draft; English-form review needed |
+| 46.1 | Preparation changes odds, not certainty. | First draft; prosody review needed | First draft; English-form review needed |
+| 46.2 | Other people remain separate agents. | First draft; prosody review needed | First draft; English-form review needed |
+| 46.3 | Control can become a response to fear. | First draft; prosody review needed | First draft; English-form review needed |
+| 46.4 | Some uncertainty must be carried rather than solved. | First draft; prosody review needed | First draft; English-form review needed |
+| 46.5 | Responsibility concerns actions as well as outcomes. | First draft; prosody review needed | First draft; English-form review needed |
+| 46.6 | Planning should leave room for surprise. | First draft; prosody review needed | First draft; English-form review needed |
+| 46.7 | Letting go is not the same as neglect. | First draft; prosody review needed | First draft; English-form review needed |
+| 46.8 | Systems can fail despite individual competence. | First draft; prosody review needed | First draft; English-form review needed |
+| 46.9 | A boundary marks where influence ends. | First draft; prosody review needed | First draft; English-form review needed |
+| 46.10 | Peace grows when effort is separated from omnipotence. | First draft; prosody review needed | First draft; English-form review needed |
+| 47.1 | Motives can be mixed. | First draft; prosody review needed | First draft; English-form review needed |
+| 47.2 | A good intention can protect a selfish habit. | First draft; prosody review needed | First draft; English-form review needed |
+| 47.3 | Defensiveness may point toward a hidden fear. | First draft; prosody review needed | First draft; English-form review needed |
+| 47.4 | Self-knowledge needs evidence from behaviour. | First draft; prosody review needed | First draft; English-form review needed |
+| 47.5 | Praise and criticism can both distort self-view. | First draft; prosody review needed | First draft; English-form review needed |
+| 47.6 | Honest reflection distinguishes explanation from excuse. | First draft; prosody review needed | First draft; English-form review needed |
+| 47.7 | One's own standards should apply inward too. | First draft; prosody review needed | First draft; English-form review needed |
+| 47.8 | Blind spots are hard to see alone. | First draft; prosody review needed | First draft; English-form review needed |
+| 47.9 | Self-criticism can become another form of vanity. | First draft; prosody review needed | First draft; English-form review needed |
+| 47.10 | Examination is useful when it changes conduct. | First draft; prosody review needed | First draft; English-form review needed |
+| 48.1 | Enough is a judgement, not a universal number. | First draft; prosody review needed | First draft; English-form review needed |
+| 48.2 | A clear threshold can protect attention. | First draft; prosody review needed | First draft; English-form review needed |
+| 48.3 | Contentment does not require refusing all growth. | First draft; prosody review needed | First draft; English-form review needed |
+| 48.4 | Comparison keeps sufficiency out of reach. | First draft; prosody review needed | First draft; English-form review needed |
+| 48.5 | Security and excess are different aims. | First draft; prosody review needed | First draft; English-form review needed |
+| 48.6 | Gratitude notices what ambition overlooks. | First draft; prosody review needed | First draft; English-form review needed |
+| 48.7 | Limits can create room for other goods. | First draft; prosody review needed | First draft; English-form review needed |
+| 48.8 | Enough may change when responsibilities change. | First draft; prosody review needed | First draft; English-form review needed |
+| 48.9 | Wanting less can be an active choice. | First draft; prosody review needed | First draft; English-form review needed |
+| 48.10 | Sufficiency makes attention available for living. | First draft; prosody review needed | First draft; English-form review needed |
+
+## Editorial note — Part VI, complete first writing pass
+
+Part VI contains eight Chapters and eighty paired working drafts. Author approval is pending. Formal Tamil குறள் வெண்பா validation and the independent English-form review remain deferred until all nine Parts are drafted.
