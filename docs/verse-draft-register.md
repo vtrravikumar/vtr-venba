@@ -197,3 +197,88 @@ Chapter 65 remains a first-draft set. Pair 65.3 has been flagged for a structura
 ## Editorial note — Part I, first batch
 
 Chapters 1–3 contain thirty paired working drafts. All Tamil compositions require review for literary idiom and traditional குறள் வெண்பா prosody; all English compositions require review against the separately documented English form. These are first drafts only; no formal validation or author approval is claimed.
+
+
+## Chapter 4 — The Language of Silence (மௌனத்தின் மொழி)
+
+| Pair | Shared insight | Tamil status | English status |
+|---|---|---|---|
+| 4.1 | A pause can carry reassurance. | First draft; prosody review needed | First draft; English-form review needed |
+| 4.2 | Attention speaks through presence. | First draft; prosody review needed | First draft; English-form review needed |
+| 4.3 | A face may reveal what words cannot. | First draft; prosody review needed | First draft; English-form review needed |
+| 4.4 | Silence can comfort or exclude. | First draft; prosody review needed | First draft; English-form review needed |
+| 4.5 | Not every quiet person is at peace. | First draft; prosody review needed | First draft; English-form review needed |
+| 4.6 | Listening begins before a reply. | First draft; prosody review needed | First draft; English-form review needed |
+| 4.7 | Misread gestures can create distance. | First draft; prosody review needed | First draft; English-form review needed |
+| 4.8 | Some feelings need time before speech. | First draft; prosody review needed | First draft; English-form review needed |
+| 4.9 | Shared quiet can build trust. | First draft; prosody review needed | First draft; English-form review needed |
+| 4.10 | Words matter more when silence has been understood. | First draft; prosody review needed | First draft; English-form review needed |
+
+
+## Chapter 5 — The Wonder of Discovery (கண்டறிதலின் வியப்பு)
+
+| Pair | Shared insight | Tamil status | English status |
+|---|---|---|---|
+| 5.1 | Familiar things can still surprise. | First draft; prosody review needed | First draft; English-form review needed |
+| 5.2 | Curiosity begins with noticing. | First draft; prosody review needed | First draft; English-form review needed |
+| 5.3 | A mistake can reveal a hidden rule. | First draft; prosody review needed | First draft; English-form review needed |
+| 5.4 | Wonder is a form of attention. | First draft; prosody review needed | First draft; English-form review needed |
+| 5.5 | Naming something changes how we see it. | First draft; prosody review needed | First draft; English-form review needed |
+| 5.6 | Discovery often begins with an ordinary question. | First draft; prosody review needed | First draft; English-form review needed |
+| 5.7 | The unknown need not be feared. | First draft; prosody review needed | First draft; English-form review needed |
+| 5.8 | Exploration requires room to try. | First draft; prosody review needed | First draft; English-form review needed |
+| 5.9 | Answers can open larger questions. | First draft; prosody review needed | First draft; English-form review needed |
+| 5.10 | Curiosity fades when every outcome is predetermined. | First draft; prosody review needed | First draft; English-form review needed |
+
+
+## Chapter 6 — The Freedom of Play (விளையாட்டின் விடுதலை)
+
+| Pair | Shared insight | Tamil status | English status |
+|---|---|---|---|
+| 6.1 | Play has value beyond usefulness. | First draft; prosody review needed | First draft; English-form review needed |
+| 6.2 | Rules can enable imagination. | First draft; prosody review needed | First draft; English-form review needed |
+| 6.3 | Shared play teaches negotiation. | First draft; prosody review needed | First draft; English-form review needed |
+| 6.4 | Losing can be safe when stakes are small. | First draft; prosody review needed | First draft; English-form review needed |
+| 6.5 | Pretence expands possible worlds. | First draft; prosody review needed | First draft; English-form review needed |
+| 6.6 | Boredom can invite invention. | First draft; prosody review needed | First draft; English-form review needed |
+| 6.7 | Unstructured time permits self-discovery. | First draft; prosody review needed | First draft; English-form review needed |
+| 6.8 | Play reveals preferences without a test. | First draft; prosody review needed | First draft; English-form review needed |
+| 6.9 | Joy need not produce an achievement. | First draft; prosody review needed | First draft; English-form review needed |
+| 6.10 | A life without play can become merely efficient. | First draft; prosody review needed | First draft; English-form review needed |
+
+
+## Chapter 7 — The Seeds of Character (பண்பின் விதைகள்)
+
+| Pair | Shared insight | Tamil status | English status |
+|---|---|---|---|
+| 7.1 | Repetition makes choices familiar. | First draft; prosody review needed | First draft; English-form review needed |
+| 7.2 | Children notice what adults practise. | First draft; prosody review needed | First draft; English-form review needed |
+| 7.3 | A small truth is still a truth. | First draft; prosody review needed | First draft; English-form review needed |
+| 7.4 | Apology can begin before full understanding. | First draft; prosody review needed | First draft; English-form review needed |
+| 7.5 | Patience grows through manageable waiting. | First draft; prosody review needed | First draft; English-form review needed |
+| 7.6 | Praise can shape what is repeated. | First draft; prosody review needed | First draft; English-form review needed |
+| 7.7 | Shame may hide a mistake rather than repair it. | First draft; prosody review needed | First draft; English-form review needed |
+| 7.8 | Kindness can be practised before it is fully understood. | First draft; prosody review needed | First draft; English-form review needed |
+| 7.9 | Character is influenced, not fixed at birth. | First draft; prosody review needed | First draft; English-form review needed |
+| 7.10 | Example teaches more persistently than instruction. | First draft; prosody review needed | First draft; English-form review needed |
+
+
+## Chapter 8 — The World We Inherit (நாம் பெறும் உலகம்)
+
+| Pair | Shared insight | Tamil status | English status |
+|---|---|---|---|
+| 8.1 | No one begins from a neutral ground. | First draft; prosody review needed | First draft; English-form review needed |
+| 8.2 | Language carries a world of memory. | First draft; prosody review needed | First draft; English-form review needed |
+| 8.3 | Privilege can be invisible to its holder. | First draft; prosody review needed | First draft; English-form review needed |
+| 8.4 | Hardship is not always a personal failure. | First draft; prosody review needed | First draft; English-form review needed |
+| 8.5 | Inherited beliefs can be examined. | First draft; prosody review needed | First draft; English-form review needed |
+| 8.6 | Place shapes what seems possible. | First draft; prosody review needed | First draft; English-form review needed |
+| 8.7 | Tradition can shelter and constrain. | First draft; prosody review needed | First draft; English-form review needed |
+| 8.8 | Opportunity is distributed unevenly. | First draft; prosody review needed | First draft; English-form review needed |
+| 8.9 | Understanding origins need not mean obeying them. | First draft; prosody review needed | First draft; English-form review needed |
+| 8.10 | We inherit a world and also alter it. | First draft; prosody review needed | First draft; English-form review needed |
+
+
+## Editorial note — Part I, complete first writing pass
+
+Part I now contains eight Chapters and eighty paired working drafts. Chapters 4–8 have been added as a complete writing batch. Traditional Tamil குறள் வெண்பா validation (அசை, சீர், தளை, line structure, and ஈற்றுச்சீர்) and the independent English-form review remain required; no formal validation is claimed for these drafts.
