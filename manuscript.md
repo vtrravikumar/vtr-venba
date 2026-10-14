@@ -61,7 +61,7 @@ The pages that follow are an attempt to look carefully, in two languages, at the
 ## Part I — Birth and Beginnings (பிறப்பும் தொடக்கங்களும்)
 
 
-### The Gift of Birth (பிறப்பின் கொடை)
+### Chapter 1 — The Gift of Birth (பிறப்பின் கொடை)
 
 #### Pair 1.1 — Existence before achievement
 :::verse
@@ -163,7 +163,7 @@ Gratitude need not call the darkness light;
 It can still keep a candle near the wound.
 :::
 
-### The Dependence of Life (வாழ்வின் சார்பு)
+### Chapter 2 — The Dependence of Life (வாழ்வின் சார்பு)
 
 #### Pair 2.1 — No life begins self-sufficient
 :::verse
@@ -265,7 +265,7 @@ A people show their measure by the care
 They give to those who cannot yet stand firm.
 :::
 
-### The Love That Sustains (தாங்கும் அன்பு)
+### Chapter 3 — The Love That Sustains (தாங்கும் அன்பு)
 
 #### Pair 3.1 — Love before its name
 :::verse
@@ -367,7 +367,7 @@ A little kindness, kept through difficult days,
 Can become a room the heart returns to.
 :::
 
-### The Language of Silence (மௌனத்தின் மொழி)
+### Chapter 4 — The Language of Silence (மௌனத்தின் மொழி)
 
 #### Pair 4.1 — A pause can reassure
 :::verse
@@ -469,7 +469,7 @@ Words carry more when silence has been heard;
 A thoughtful answer rises from deep listening.
 :::
 
-### The Wonder of Discovery (கண்டறிதலின் வியப்பு)
+### Chapter 5 — The Wonder of Discovery (கண்டறிதலின் வியப்பு)
 
 #### Pair 5.1 — Familiar things can surprise
 :::verse
@@ -571,7 +571,7 @@ When every ending has been settled in advance,
 The mind forgets the freedom to explore.
 :::
 
-### The Freedom of Play (விளையாட்டின் விடுதலை)
+### Chapter 6 — The Freedom of Play (விளையாட்டின் விடுதலை)
 
 #### Pair 6.1 — Play has value beyond usefulness
 :::verse
@@ -673,7 +673,7 @@ A life may run with every task complete,
 Yet never learn the freedom to bloom.
 :::
 
-### The Seeds of Character (பண்பின் விதைகள்)
+### Chapter 7 — The Seeds of Character (பண்பின் விதைகள்)
 
 #### Pair 7.1 — Repetition makes choices familiar
 :::verse
@@ -775,7 +775,7 @@ The daily deed remains when words have passed;
 A lived example teaches without end.
 :::
 
-### The World We Inherit (நாம் பெறும் உலகம்)
+### Chapter 8 — The World We Inherit (நாம் பெறும் உலகம்)
 
 #### Pair 8.1 — No one begins from neutral ground
 :::verse
@@ -879,7 +879,7 @@ Leave room for those who follow us to change it.
 ## Part II — Learning and Awakening (கற்றலும் விழிப்பும்)
 
 
-### The Discipline of Learning (கற்றலின் ஒழுக்கம்)
+### Chapter 9 — The Discipline of Learning (கற்றலின் ஒழுக்கம்)
 
 #### Pair 9.1 — Repetition makes knowledge usable
 :::verse
@@ -981,7 +981,7 @@ When certainty ends, the lesson need not cease;
 The open mind still has a road to walk.
 :::
 
-### The Freedom to Question (வினவுதலின் விடுதலை)
+### Chapter 10 — The Freedom to Question (வினவுதலின் விடுதலை)
 
 #### Pair 10.1 — Respectful questions can challenge power
 :::verse
@@ -1083,7 +1083,7 @@ A mind that thinks alone can change its course;
 To revise a view is not to lose the self.
 :::
 
-### The Influence of Companions (உடனிருப்போரின் செல்வாக்கு)
+### Chapter 11 — The Influence of Companions (உடனிருப்போரின் செல்வாக்கு)
 
 #### Pair 11.1 — Company normalises behaviour
 :::verse
@@ -1185,7 +1185,7 @@ Choose those whose company enlarges you;
 Ask who you are becoming at their side.
 :::
 
-### The Need to Belong (சேர்ந்திருக்க வேண்டிய தேவை)
+### Chapter 12 — The Need to Belong (சேர்ந்திருக்க வேண்டிய தேவை)
 
 #### Pair 12.1 — Exclusion hurts before it is explained
 :::verse
@@ -1287,7 +1287,7 @@ A living community makes room for difference;
 Its members need not vanish to belong.
 :::
 
-### The Awakening of Desire (ஆசையின் விழிப்பு)
+### Chapter 13 — The Awakening of Desire (ஆசையின் விழிப்பு)
 
 #### Pair 13.1 — Wanting reveals attention
 :::verse
@@ -1389,7 +1389,7 @@ To see a want is not to serve it yet;
 Awareness gives the will a little room.
 :::
 
-### The Weight of Expectation (எதிர்பார்ப்பின் சுமை)
+### Chapter 14 — The Weight of Expectation (எதிர்பார்ப்பின் சுமை)
 
 #### Pair 14.1 — Praise can become a contract
 :::verse
@@ -1491,7 +1491,7 @@ No future should be written for a life
 Before its own unsteady voice is heard.
 :::
 
-### The Courage of Difference (வேறுபாட்டின் துணிவு)
+### Chapter 15 — The Courage of Difference (வேறுபாட்டின் துணிவு)
 
 #### Pair 15.1 — Difference is neither virtue nor flaw
 :::verse
@@ -1593,7 +1593,7 @@ A world grows wider when its doors make room;
 Its strength is measured by whom it can include.
 :::
 
-### The First Taste of Failure (தோல்வியின் முதல் அனுபவம்)
+### Chapter 16 — The First Taste of Failure (தோல்வியின் முதல் அனுபவம்)
 
 #### Pair 16.1 — One poor result is not an identity
 :::verse
@@ -1699,7 +1699,7 @@ Confidence returns by walking, step by step.
 ## Part III — Youth and Identity (இளமையும் தனித்த அடையாளமும்)
 
 
-### The Hunger for Freedom (விடுதலைக்கான வேட்கை)
+### Chapter 17 — The Hunger for Freedom (விடுதலைக்கான வேட்கை)
 
 #### Pair 17.1 — Freedom begins with the ability to choose
 :::verse
@@ -1801,7 +1801,7 @@ Unexamined freedom may become a chain;
 Ask what commands the wish you call your own.
 :::
 
-### The Search for Identity (அடையாளத் தேடல்)
+### Chapter 18 — The Search for Identity (அடையாளத் தேடல்)
 
 #### Pair 18.1 — A label can describe without defining
 :::verse
@@ -1903,7 +1903,7 @@ We do not find ourselves once and for all;
 The self keeps opening as the years unfold.
 :::
 
-### The Fire of Ambition (இலட்சியத் தீ)
+### Chapter 19 — The Fire of Ambition (இலட்சியத் தீ)
 
 #### Pair 19.1 — Ambition gives effort a direction
 :::verse
@@ -2005,7 +2005,7 @@ Let values hold the reins of striving hands;
 Speed without a compass leads us far astray.
 :::
 
-### The Pursuit of Love (காதலை நாடுதல்)
+### Chapter 20 — The Pursuit of Love (காதலை நாடுதல்)
 
 #### Pair 20.1 — Attraction begins with curiosity about another
 :::verse
@@ -2107,7 +2107,7 @@ The freedom of the loved must stay intact;
 A bond that cages cannot call itself love.
 :::
 
-### The Making of Conviction (உறுதியான நம்பிக்கையின் உருவாக்கம்)
+### Chapter 21 — The Making of Conviction (உறுதியான நம்பிக்கையின் உருவாக்கம்)
 
 #### Pair 21.1 — Inherited beliefs need examination
 :::verse
@@ -2209,7 +2209,7 @@ A belief becomes a life through what we do;
 Integrity is thought made visible.
 :::
 
-### The Courage to Risk (இடரேற்கும் துணிவு)
+### Chapter 22 — The Courage to Risk (இடரேற்கும் துணிவு)
 
 #### Pair 22.1 — Certainty is rarely available before action
 :::verse
@@ -2311,7 +2311,7 @@ The loudest deed is not the bravest one;
 Measure courage by the good it serves.
 :::
 
-### The Cost of Choice (தேர்வின் விலை)
+### Chapter 23 — The Cost of Choice (தேர்வின் விலை)
 
 #### Pair 23.1 — Every serious choice excludes possibilities
 :::verse
@@ -2413,7 +2413,7 @@ Peace does not require a doubt-free past;
 It asks us to own the choice we made with care.
 :::
 
-### The Illusion of Invulnerability (அழிவிலா நிலை என்னும் மயக்கம்)
+### Chapter 24 — The Illusion of Invulnerability (அழிவிலா நிலை என்னும் மயக்கம்)
 
 #### Pair 24.1 — Youth can make danger seem distant
 :::verse
@@ -2517,8 +2517,7 @@ Can make each chosen hour more fully ours.
 
 
 ## Part IV — Work and Partnership
-# உழைப்பும் உறவிணைப்பும்
-### The Dignity of Work (உழைப்பின் மாண்பு)
+### Chapter 25 — The Dignity of Work (உழைப்பின் மாண்பு)
 
 This Part considers the work by which we contribute, the livelihoods we choose, the money we use, and the bonds through which we learn to trust, negotiate, seek recognition, and measure progress. These are paired literary drafts, not yet formally validated for Tamil குறள் வெண்பா prosody or the independent English form. As agreed, those reviews will wait until all nine Parts are drafted.
 
@@ -2622,7 +2621,7 @@ No occupation can contain a human life;
 The worker is more than the work they do.
 :::
 
-### The Choice of Vocation (தொழில் தேர்வு)
+### Chapter 26 — The Choice of Vocation (தொழில் தேர்வு)
 
 #### Pair 26.1 — A vocation is discovered partly by trying
 :::verse
@@ -2724,7 +2723,7 @@ Choose work that leaves a life around its edges;
 Do not surrender all your days to work.
 :::
 
-### The Measure of Money (பணத்தின் அளவுகோல்)
+### Chapter 27 — The Measure of Money (பணத்தின் அளவுகோல்)
 
 #### Pair 27.1 — Money can buy options but not every outcome
 :::verse
@@ -2826,7 +2825,7 @@ When money shapes another person's fate,
 Let conscience join the reckoning of cost.
 :::
 
-### The Bond of Commitment (உறுதிப்பாட்டின் பிணைப்பு)
+### Chapter 28 — The Bond of Commitment (உறுதிப்பாட்டின் பிணைப்பு)
 
 #### Pair 28.1 — A promise begins a practice, not an ending
 :::verse
@@ -2928,7 +2927,7 @@ A truthful ending honours what was real;
 A false continuation wounds what once was dear.
 :::
 
-### The Foundation of Trust (நம்பிக்கையின் அடித்தளம்)
+### Chapter 29 — The Foundation of Trust (நம்பிக்கையின் அடித்தளம்)
 
 #### Pair 29.1 — Trust grows through consistency
 :::verse
@@ -3030,7 +3029,7 @@ Trust is not a gift demanded at the door;
 It grows from what our actions teach the heart.
 :::
 
-### The Art of Compromise (சமரசக் கலை)
+### Chapter 30 — The Art of Compromise (சமரசக் கலை)
 
 #### Pair 30.1 — Not every disagreement requires a winner
 :::verse
@@ -3132,7 +3131,7 @@ Let truth and tenderness share the same table;
 Do not preserve the bond by starving truth.
 :::
 
-### The Temptation of Status (அந்தஸ்தின் கவர்ச்சி)
+### Chapter 31 — The Temptation of Status (அந்தஸ்தின் கவர்ச்சி)
 
 #### Pair 31.1 — Status depends on an audience
 :::verse
@@ -3234,7 +3233,7 @@ When all the witnesses have gone away,
 The worth of what we are is still our own.
 :::
 
-### The Price of Progress (முன்னேற்றத்தின் விலை)
+### Chapter 32 — The Price of Progress (முன்னேற்றத்தின் விலை)
 
 #### Pair 32.1 — A gain can conceal a displaced cost
 :::verse
@@ -3337,8 +3336,7 @@ A better world must hear those it would change.
 :::
 
 ## Part V — Family and Responsibility
-# குடும்பமும் பொறுப்பும்
-### The Meaning of Care (அக்கறையின் பொருள்)
+### Chapter 33 — The Meaning of Care (அக்கறையின் பொருள்)
 
 This Part turns to the many ways lives are bound together: care, family, duty, ambition, empathy, authority, generosity, and the example left in ordinary conduct. These paired compositions are working literary drafts. As agreed, formal Tamil குறள் வெண்பா prosody and the independent English-form review will wait until all nine Parts are drafted.
 
@@ -3442,7 +3440,7 @@ No single heart can bear all care alone;
 Shared hands can keep compassion living long.
 :::
 
-### The Many Forms of Family (குடும்பத்தின் பல வடிவங்கள்)
+### Chapter 34 — The Many Forms of Family (குடும்பத்தின் பல வடிவங்கள்)
 
 #### Pair 34.1 — Kinship and closeness do not always coincide
 :::verse
@@ -3544,7 +3542,7 @@ The name matters less than how we care;
 Respect gives a bond its living worth.
 :::
 
-### The Burden of Duty (கடமையின் சுமை)
+### Chapter 35 — The Burden of Duty (கடமையின் சுமை)
 
 #### Pair 35.1 — Not every assigned duty is just
 :::verse
@@ -3646,7 +3644,7 @@ Integrity asks why we take a burden on;
 Not every accepted demand becomes a good.
 :::
 
-### The Balance of Ambition (இலட்சியத்தின் சமநிலை)
+### Chapter 36 — The Balance of Ambition (இலட்சியத்தின் சமநிலை)
 
 #### Pair 36.1 — Time reveals the priorities words conceal
 :::verse
@@ -3748,7 +3746,7 @@ No single triumph can contain a life;
 Many kinds of good make living whole.
 :::
 
-### The Practice of Empathy (பரிவைப் பழகுதல்)
+### Chapter 37 — The Practice of Empathy (பரிவைப் பழகுதல்)
 
 #### Pair 37.1 — Similar pain can have different meanings
 :::verse
@@ -3850,7 +3848,7 @@ We understand more when we name the limits;
 Humility makes room for another's truth.
 :::
 
-### The Ethics of Authority (அதிகாரத்தின் அறநெறி)
+### Chapter 38 — The Ethics of Authority (அதிகாரத்தின் அறநெறி)
 
 #### Pair 38.1 — Authority creates responsibility beyond personal preference
 :::verse
@@ -3952,7 +3950,7 @@ Measure power by freedoms left intact;
 To rule by shrinking others is not strength.
 :::
 
-### The Generosity of Giving (கொடையின் பெருந்தன்மை)
+### Chapter 39 — The Generosity of Giving (கொடையின் பெருந்தன்மை)
 
 #### Pair 39.1 — A gift can carry an invisible demand
 :::verse
@@ -4054,7 +4052,7 @@ The truest gift leaves freedom in its wake;
 No helping hand should claim the life it lifts.
 :::
 
-### The Legacy of Example (முன்னுதாரணத்தின் மரபு)
+### Chapter 40 — The Legacy of Example (முன்னுதாரணத்தின் மரபு)
 
 #### Pair 40.1 — People learn from what is repeated
 :::verse
@@ -4157,8 +4155,7 @@ No ordinary moment is entirely small.
 :::
 
 ## Part VI — Success, Power and Self-Examination
-# வெற்றி, அதிகாரம், தன்னாய்வு
-### The Nature of Success (வெற்றியின் இயல்பு)
+### Chapter 41 — The Nature of Success (வெற்றியின் இயல்பு)
 
 This Part examines the measures by which we judge a life, the attractions and burdens of wealth and power, the lessons of failure and regret, the limits of control, the honesty of self-examination, and the difficult art of recognising enough. These paired compositions are working literary drafts. As agreed, formal Tamil குறள் வெண்பா prosody and the independent English-form review will wait until all nine Parts are drafted.
 
@@ -4262,7 +4259,7 @@ Choose values you can answer for before the race;
 Let victory serve them, not replace them.
 :::
 
-### The Seduction of Wealth (செல்வத்தின் மயக்கம்)
+### Chapter 42 — The Seduction of Wealth (செல்வத்தின் மயக்கம்)
 
 #### Pair 42.1 — Accumulation can become its own purpose
 :::verse
@@ -4364,7 +4361,7 @@ To hold a thing is not to be made free;
 Freedom appears in what you can release.
 :::
 
-### The Burden of Power (அதிகாரத்தின் சுமை)
+### Chapter 43 — The Burden of Power (அதிகாரத்தின் சுமை)
 
 #### Pair 43.1 — Power can reduce the honesty one hears
 :::verse
@@ -4466,7 +4463,7 @@ Treat well the ones who cannot pay you back;
 There power reveals the measure of its worth.
 :::
 
-### The Wisdom of Failure (தோல்வியின் ஞானம்)
+### Chapter 44 — The Wisdom of Failure (தோல்வியின் ஞானம்)
 
 #### Pair 44.1 — Failure teaches only when examined
 :::verse
@@ -4568,7 +4565,7 @@ Keep what the failure taught, then let it rest;
 Wisdom moves ahead; it does not kneel to scars.
 :::
 
-### The Weight of Regret (வருத்தத்தின் சுமை)
+### Chapter 45 — The Weight of Regret (வருத்தத்தின் சுமை)
 
 #### Pair 45.1 — Regret imagines a path never fully known
 :::verse
@@ -4670,7 +4667,7 @@ Where revision ends, acceptance may begin;
 The days remaining still await your care.
 :::
 
-### The Limits of Control (கட்டுப்பாட்டின் எல்லைகள்)
+### Chapter 46 — The Limits of Control (கட்டுப்பாட்டின் எல்லைகள்)
 
 #### Pair 46.1 — Preparation changes odds, not certainty
 :::verse
@@ -4772,7 +4769,7 @@ The effort is yours; the whole result is not;
 Peace grows when duty leaves omnipotence behind.
 :::
 
-### The Examination of Self (தன்னாய்வு)
+### Chapter 47 — The Examination of Self (தன்னாய்வு)
 
 #### Pair 47.1 — Motives can be mixed
 :::verse
@@ -4874,7 +4871,7 @@ Reflection earns its worth in altered deeds;
 A mirror teaches little if we never move.
 :::
 
-### The Meaning of Enough (போதும் என்பதன் பொருள்)
+### Chapter 48 — The Meaning of Enough (போதும் என்பதன் பொருள்)
 
 #### Pair 48.1 — Enough is a judgement, not a universal number
 :::verse
@@ -4980,8 +4977,7 @@ Turn then toward life, and meet it fully here.
 ---
 
 ## Part VII — Change, Memory and Renewal
-# மாற்றம், நினைவு, புதுப்பிறப்பு
-### The Passage of Time (காலத்தின் கடத்தல்)
+### Chapter 49 — The Passage of Time (காலத்தின் கடத்தல்)
 
 This Part turns toward the changing shape of later life: time passing, old attachments loosening, new beginnings, reordered desires, the reconciliation of memory, forgiveness, a self that continues to change, and the dignity of a life that remains unfinished. These paired compositions are working literary drafts. As agreed, formal Tamil குறள் வெண்பா prosody and the independent English-form review will wait until all nine Parts are drafted.
 
@@ -5085,7 +5081,7 @@ A day receives its meaning from our living;
 Enter it fully, not merely pass through.
 :::
 
-### The Art of Letting Go (விடுவித்தலின் கலை)
+### Chapter 50 — The Art of Letting Go (விடுவித்தலின் கலை)
 
 #### Pair 50.1 — Familiarity can masquerade as necessity
 :::verse
@@ -5187,7 +5183,7 @@ No new horizon opens to a burdened hand;
 Set down what need not travel farther.
 :::
 
-### The Courage to Begin Again (மீண்டும் தொடங்கும் துணிவு)
+### Chapter 51 — The Courage to Begin Again (மீண்டும் தொடங்கும் துணிவு)
 
 #### Pair 51.1 — A new beginning may follow an unchosen ending
 :::verse
@@ -5289,7 +5285,7 @@ Renewal needs both courage and patience;
 Begin with fire, then tend the growing flame.
 :::
 
-### The Reordering of Desire (ஆசைகளை மறுவரிசைப்படுத்துதல்)
+### Chapter 52 — The Reordering of Desire (ஆசைகளை மறுவரிசைப்படுத்துதல்)
 
 #### Pair 52.1 — A former dream can lose its urgency
 :::verse
@@ -5391,7 +5387,7 @@ Maturity may not supply the answer sought;
 It may reveal a wiser question underneath.
 :::
 
-### The Reconciliation of Memory (நினைவுகளுடன் சமரசம்)
+### Chapter 53 — The Reconciliation of Memory (நினைவுகளுடன் சமரசம்)
 
 #### Pair 53.1 — Memory preserves and edits
 :::verse
@@ -5493,7 +5489,7 @@ Peace may dwell beside a question left unresolved;
 Not every wound requires a final word.
 :::
 
-### The Freedom of Forgiveness (மன்னிப்பின் விடுதலை)
+### Chapter 54 — The Freedom of Forgiveness (மன்னிப்பின் விடுதலை)
 
 #### Pair 54.1 — Forgiveness cannot be demanded by the offender
 :::verse
@@ -5595,7 +5591,7 @@ Freedom begins when injury no longer rules each choice;
 Let the future answer to more than the wound.
 :::
 
-### The Changing Self (மாறும் நான்)
+### Chapter 55 — The Changing Self (மாறும் நான்)
 
 #### Pair 55.1 — Change can reveal rather than betray the self
 :::verse
@@ -5697,7 +5693,7 @@ Identity is not a sealed and finished record;
 Leave room for pages yet unwritten.
 :::
 
-### The Unfinished Life (முடிவுறாத வாழ்வு)
+### Chapter 56 — The Unfinished Life (முடிவுறாத வாழ்வு)
 
 #### Pair 56.1 — No life fulfils every possibility
 :::verse
@@ -5805,7 +5801,7 @@ Leave room for wonder at the edge of what remains.
 ## Part VIII — Wisdom and Completion (ஞானமும் நிறைவும்)
 
 
-### The Harvest of Experience (அனுபவத்தின் அறுவடை)
+### Chapter 57 — The Harvest of Experience (அனுபவத்தின் அறுவடை)
 
 #### Pair 57.1 — Experience becomes wisdom only when reflected upon.
 
@@ -5927,7 +5923,7 @@ Years are the field, not the harvest itself;
 Wisdom is what we gather from living.
 :::
 
-### The Humility of Wisdom (ஞானத்தின் பணிவு)
+### Chapter 58 — The Humility of Wisdom (ஞானத்தின் பணிவு)
 
 #### Pair 58.1 — Knowledge grows with awareness of its boundaries.
 
@@ -6049,7 +6045,7 @@ Leave room for wonder beyond what is known;
 Life brings a truth no map has shown.
 :::
 
-### The Simplicity of Living (எளிமையாக வாழ்தல்)
+### Chapter 59 — The Simplicity of Living (எளிமையாக வாழ்தல்)
 
 #### Pair 59.1 — Simplicity is chosen, not always imposed.
 
@@ -6171,7 +6167,7 @@ A life made simple need not think less;
 In quieter rooms, thoughts deepen and bless.
 :::
 
-### The Healing of Relationships (உறவுகளை ஆற்றுதல்)
+### Chapter 60 — The Healing of Relationships (உறவுகளை ஆற்றுதல்)
 
 #### Pair 60.1 — Repair begins by naming what happened.
 
@@ -6293,7 +6289,7 @@ A healed bond remembers where pain began;
 It does not let the wound command its span.
 :::
 
-### The Stewardship of Life (வாழ்வைப் பொறுப்புடன் பேணுதல்)
+### Chapter 61 — The Stewardship of Life (வாழ்வைப் பொறுப்புடன் பேணுதல்)
 
 #### Pair 61.1 — Possession carries responsibilities.
 
@@ -6415,7 +6411,7 @@ A life is measured not only by gain,
 But by what it helped endure and remain.
 :::
 
-### The Acceptance of Change (மாற்றத்தை ஏற்றல்)
+### Chapter 62 — The Acceptance of Change (மாற்றத்தை ஏற்றல்)
 
 #### Pair 62.1 — Acceptance begins by seeing truth.
 
@@ -6537,7 +6533,7 @@ Acceptance gives action a place to begin;
 Denial keeps every door locked within.
 :::
 
-### The Preparation for Departure (பிரிவுக்கான ஆயத்தம்)
+### Chapter 63 — The Preparation for Departure (பிரிவுக்கான ஆயத்தம்)
 
 #### Pair 63.1 — Preparation can care for survivors.
 
@@ -6659,7 +6655,7 @@ To prepare with care for the day of leave
 Is part of the life we choose to weave.
 :::
 
-### The Completion of a Journey (பயணத்தின் நிறைவு)
+### Chapter 64 — The Completion of a Journey (பயணத்தின் நிறைவு)
 
 #### Pair 64.1 — Completion is not perfection.
 
@@ -6784,7 +6780,7 @@ No traveller owns the final meaning of the road.
 
 ## Part IX — Bliss, Death and Ultimate Truth (பேரின்பம், மரணம், மெய்யுண்மை)
 
-### The Freedom Beyond Want (வேட்கை கடந்த விடுதலை)
+### Chapter 65 — The Freedom Beyond Want (வேட்கை கடந்த விடுதலை)
 
 #### Pair 65.1 — Companions, not possessions
 
@@ -6906,7 +6902,7 @@ When craving loosens, ordinary things appear;
 The light was here before we learned to look.
 :::
 
-### The Stillness Beyond Striving (முயற்சிக்கு அப்பாலான அமைதி)
+### Chapter 66 — The Stillness Beyond Striving (முயற்சிக்கு அப்பாலான அமைதி)
 
 #### Pair 66.1 — A moment need not prove itself
 
@@ -7028,7 +7024,7 @@ Turn every wonder into a goal,
 And even joy begins to keep a score.
 :::
 
-### The Dissolution of Ego (அகந்தையின் கரைதல்)
+### Chapter 67 — The Dissolution of Ego (அகந்தையின் கரைதல்)
 
 #### Pair 67.1 — A role is not the whole self
 
@@ -7150,7 +7146,7 @@ As the self-image recedes, the world grows vast
 And finds a wider chamber in the heart.
 :::
 
-### The Mystery of Consciousness (விழிப்புணர்வின் மர்மம்)
+### Chapter 68 — The Mystery of Consciousness (விழிப்புணர்வின் மர்மம்)
 
 #### Pair 68.1 — Experience is known from within
 
@@ -7272,7 +7268,7 @@ Before the deepest question, bow the mind;
 Let honest seeking leave the door unclosed.
 :::
 
-### The Shadow of Death (மரணத்தின் நிழல்)
+### Chapter 69 — The Shadow of Death (மரணத்தின் நிழல்)
 
 #### Pair 69.1 — The day is precious because it passes
 
@@ -7394,7 +7390,7 @@ Let goodness live in those who journey on;
 Then even farewell leaves a lamp aglow.
 :::
 
-### The Persistence of Legacy (எஞ்சும் மரபின் தொடர்ச்சி)
+### Chapter 70 — The Persistence of Legacy (எஞ்சும் மரபின் தொடர்ச்சி)
 
 #### Pair 70.1 — Goodness outlives the name
 
@@ -7516,7 +7512,7 @@ If goodness remains because we once were here,
 Our passing leaves the world a gentler place.
 :::
 
-### The Threshold of the Unknown (அறியாததின் வாசல்)
+### Chapter 71 — The Threshold of the Unknown (அறியாததின் வாசல்)
 
 #### Pair 71.1 — The unknown is not an enemy
 
@@ -7638,7 +7634,7 @@ Leave one small door unsealed against the night;
 Humility asks, but does not promise dawn.
 :::
 
-### The Ultimate Truth (மெய்யுண்மை)
+### Chapter 72 — The Ultimate Truth (மெய்யுண்மை)
 
 #### Pair 72.1 — Wanting does not make a thing true
 
