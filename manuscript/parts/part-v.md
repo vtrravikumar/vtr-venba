@@ -308,7 +308,6 @@ Let justice question what the years have passed.
 :::verse
 Integrity asks why we take a burden on;
 Not every accepted demand becomes a good.
-
 :::
 
 ## Chapter 36 — The Balance of Ambition (இலட்சியத்தின் சமநிலை)
