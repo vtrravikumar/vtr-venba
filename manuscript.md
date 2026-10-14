@@ -81,8 +81,8 @@ A life is already worthy of the world.
 தெரியாத பாதை திறந்தது
 :::
 :::verse
-No one selects the doorway into day;
-We wake within a story already turning.
+We choose neither birthplace nor the hands
+That first receive us; still, our road is ours.
 :::
 
 #### Pair 1.3 — The ordinary miracle
@@ -193,8 +193,8 @@ It is the open door through which we meet.
 காலம் கணக்கிடாது
 :::
 :::verse
-A thousand quiet labours keep us whole;
-The day goes on, and rarely names the hands.
+The meal is warm; the clothes are mended;
+The hands that make a home are seldom named.
 :::
 
 #### Pair 2.4 — Strength in accepting help
@@ -285,8 +285,8 @@ Love has already warmed the waiting room.
 அச்சம் கடந்து மனம் செல்லும்
 :::
 :::verse
-A steady presence does not clear the road;
-It gives the heart the courage to explore.
+The road remains, but fear loosens its hold;
+We dare to step because someone stays.
 :::
 
 #### Pair 3.3 — Affection beyond gifts
@@ -295,8 +295,8 @@ It gives the heart the courage to explore.
 அருகிருத்தல் பெரிது
 :::
 :::verse
-No gift can weigh the kindness of a gaze;
-The gift of being there may weigh the most.
+No gift can take the place of being there;
+A quiet presence says, You are not alone.
 :::
 
 #### Pair 3.4 — Consistency makes tenderness credible
@@ -315,8 +315,8 @@ The love that returns teaches the heart to trust.
 உயிரையே காண்க அது
 :::
 :::verse
-Let love look past the prize the child may win;
-See who is there when every contest ends.
+Let love not weigh a child by what they win;
+See who they are beyond the prize they claim.
 :::
 
 #### Pair 3.6 — Warmth beyond remembered words
@@ -355,8 +355,8 @@ A bond is safe when either soul can grow.
 புதிய உலகம் திறக்கும்
 :::
 :::verse
-Where trust makes room, the timid hand reaches out;
-A sheltered heart can dare the wider world.
+Where love is safe, the self need not stay small;
+It grows beyond the shelter that it knows.
 :::
 
 #### Pair 3.10 — A small kindness becomes refuge
@@ -368,7 +368,6 @@ A sheltered heart can dare the wider world.
 A little kindness, kept through difficult days,
 Can become a room the heart returns to.
 :::
-
 ## Part IX — Bliss, Death and Ultimate Truth (பேரின்பம், மரணம், மெய்யுண்மை)
 
 ### Chapter 65 — The Freedom Beyond Want (வேட்கை கடந்த விடுதலை)
